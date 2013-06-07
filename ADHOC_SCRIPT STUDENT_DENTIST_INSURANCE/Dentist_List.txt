@@ -1,0 +1,4780 @@
+PUPIL_NUMBER	NAME	DENTIST_PHONE	HAS_INSURANCE	INSURANCE_COMPANY	MEDICAID
+123008	Dr Frimkiss	5417733327		V3742B    R06720595 - HEALTHNET	 
+119812				ohp - OHP	 
+123729	Dr. Oldroyd	5417766960		Aetna Providence Preferred - W115356393	 
+117013				Confirmed - OK	 
+103105	Hayden Dental	5417725174			 
+226691	Anne Den	5412456648	N		 
+111479			N	Blue Shield/Medical Card	 
+155957	Dr. Alex	5417798923	Y	OHP	 
+133913			N	OHP - OHP	 
+132229			N	CIGNA - SIGNA	 
+159550				OHP - OHP	 
+159612				ODS - ODS	 
+170396	Willamette dental	5413453915	N	 - OHP PLUS	 
+162351	Willamette Dental		N	ohp - OHP	 
+157585			N	ohp dp300I9H  (08-09) - OHP	 
+176168	Willamette Dental	8004618994	N	OHP	 
+176173			N	OHP	 
+174228	OHara		N	Health Net PPO	 
+174957			N	Group 6571 ID # P20010909 - 0151011	 
+172758			N	Blue Shield	 
+177228	Juson	5415123900	N	OHP/Care Oregon - YES	 
+177227	Juson, La Clinic	5415123900	N		 
+187372			N	OHP	 
+189110	no dentist		N		 
+188118	EP Dentistry	5418260599	N		 
+197967	Family Denatl Advantage		N	OHP	 
+187098	none given		N		 
+219140	Dr. Korando		N		 
+201480			Y	OHP	 
+208747			N	OHP - YES	 
+225004			N	Regence - WCP 544684607	 
+225018	Dr. Kintz	5418572790	N		 
+225023	Dr. Jung		N		 
+225026	Dr. Pamela Ortiz	5417732625	N		 
+225084	Bruce Mitchell	5417733959	N		 
+204431			Y	Meyers Stevens and Toohey - MST	 
+202884	Dr. Costa	5415356239	Y	None - YES	 
+201221	Johnston		N	Pacific Source - CONFIRMED	 
+201260	Johnston		N	Pacific Source - CONFIRMED	 
+220215			N	Sybil Herriott - YES	 
+219468	Siskiyou Dental	5414796393	N	OHP - YES	 
+217544	Advantage Dental		N	OHP - YES	 
+217551	Dr. Fagundes	5417796401	N		 
+202953			Y	NOT LISTED - NOT LISTED	 
+221815	Darrell Mitchell	5417894096	Y	Blue Cross/Blue Shield	 
+222770				OHP BQ70277C - BQ70277C	 
+221816			Y	Blue Shield	 
+221818			Y	OHP	 
+221819			N	OHP	 
+221820			Y	Cigna	 
+223764	Frimkess	5417733327		Pacific Source	 
+221821			Y	OEBB	 
+221823	Dr Ortiz	5417732625	N	OHP	 
+221363			N	Lifewise	 
+222771	Dr Kirkpatrick	5412825523		OHP - OHP	 
+221827	Dr Ortiz		Y	OHP	 
+223765	Dr. Alex		N	OHP	 
+223766			N	Health Future	 
+223767			N	Shasta Admin Services	 
+223768	Dr. Julie Fagundes		N	Regence Life & Health Ins	 
+223769			N	BC/BS	 
+225842	Dr Mitchell	5417733959	N		 
+226183	Adam Davis	5417732163	N		 
+222570				OEBB E00131058 - HEALTH INS	 
+222571				Medical	 
+222572				Medical	 
+220554	Alex		N	BC/BS	 
+223711				Health Net	 
+223713	Dr. Ravassipour	5417796200	N	United Health Care	 
+223714			N	Asante	 
+220558	Hough		N		 
+221333			Y	Jackson Care Connect - CARE OREGON	 
+223715				Asante	 
+220559			N	OHP	 
+223716			N	Pacific Source	 
+220560			N	OHP	 
+223717	Dr. Jung		N	OHP	 
+223718	Dr. Alex	5417798923	N	OHP	 
+223719			N	BC/BS	 
+223720			N	BC/BS	 
+225666	Kathy Sprick	5416643335	N		 
+221828			Y	BCBS of Or  YVB920629816 - YVB920629816	 
+221830	Cochran	5414829442	N	Blue Cross	 
+223771			N	Health Net	 
+223772				Providence Health Plans	 
+221831	Dr. Cochran	5414829442	N	Regence - REGENCE	 
+223773			N	Harrison Trust - CONFIRMED	 
+221365			Y	OHP - YVA920530521	 
+223835				Cigna	 
+220684	Dr. Frimkess			BC/BS	 
+223836				Healthnet	 
+223838				United Health Care	 
+223840				OHP	 
+223841				OHP - YES	 
+223843	Dr. Catt			OEBB	 
+220689	Murphy	5418782115	N		 
+223844				OE Choice - CONFIRMED	 
+220690				Blue Cross - CONFIRMED	 
+221267			Y	OHP	 
+222058				BC/BS - CONFIRMED	 
+224009				Medicaid dl00877f - OMAP	 
+224010				school insurance  11/04/2009 - SCHOOL INS	 
+222578				Blue Cross  yvp920208342 841782000 - yvp920208342 84	 
+222579				Blue Cross yvp920208342 841782000 - yvp920208342 84	 
+222580	Williamette Family Dental			 - AETNA	 
+222061	Dr. Hayden	5417725174		bv80959D - MID-ROGUE	 
+220310	Dr. Murphy	5418782115		Blue Cross Blue Shield - YES	 
+222581				BC 295510PPO - 295510PPO	 
+222062	Mitchell			Pacific Source Atnea - PACIFIC SOURCE	 
+223721			N	LifeWise - ODS	 
+220561	Abbott			BC/BS	 
+220562	Dr. Abbet			Blueshield Regence - CONFIRMED	 
+223725			N	EBMS	 
+223727			N	OHP	 
+223728			N	BC/BS	 
+222692				School Insurance 09-10	 
+222693				Blue Cross ZVE949337475 (08-09) - HEALTH INS	 
+221012	Shady Cove		N	Blue Cross Blue Sheild - YES	 
+220565				OHP	 
+222694				OHP  DC74377D (07-08) - DC74377D (07-08	 
+220566	GoodeFamily Dental		Y	MVP Healthcare 82068493800	 
+220420	Dr Mitchell	5417733959	N	BC-BS - FWY848420942	 
+220421	Randy Wooten	5417733422	N	OEA Choice	 
+221779	williamette Dental	8004607644	N	OHP	 
+220423			N	Blue Cross, Blue Shield - YVP920502593	 
+221337	not listed		Y	 - NO	 
+222695	Mary J May	5417793003			 
+221780			N	OHP	 
+223729			N	OHP SA300JID - SA300JID	 
+221781			Y	Cigna	 
+222696				MESC SDAN00719754 (07-08) - SDAN00719754 (0	 
+221782			Y	Regence - ZVP949367222	 
+222697				Lifewise	 
+222110				myers/stevens - SCHOOL INS	 
+222698				Rogue waste systems 0000957 - 957	 
+221369	Anne H Dennehy	5412456648	Y	OHP - OHP	 
+221370	Dr. Alex	5417798923	N	Pacific Source	 
+220607	Luke Murphy		N	OEBB	 
+221372			Y	OHP	 
+223776			N	OHP	 
+223777			N	OHP	 
+220612	Affordable Dental		Y	OHP	 
+221833			Y	OHP	 
+221374			N	United Healthcare	 
+221375	Clinica del Valle	5415356239	N		 
+221378			N	Lifewise	 
+223779			N	Aetna	 
+223781				Aetna - CONFIRMED	 
+220623			N	BC/BS	 
+221380	Clinica Del Valle	5415356239	N	OMAP	 
+223782			N	HMO	 
+222774				Great West Healthcare 165822 - 165822	 
+224079				Aetna - 860107-10-000 (08-09) - HEALTH INS	 
+223783	Dr. Callan	8004618994	N	OHP	 
+221045	Siskiyou Dental		N		 
+221440			N	providence Preferred PPo	 
+221441			N	Providence Preffered PPo	 
+221442			N	OHP	 
+222859	Ralph Miller	5417738216		Blue Cross Blue Shield	 
+221876			Y	OHP	 
+221877	Steven Frimkess	5417733327	Y	Pacific Source	 
+220691			N	OHP	 
+221880			Y	Blue Cross 833737000 - 833737000	 
+221881			Y	Regence	 
+221882			N	OHP	 
+221886	Affordable Dentistry		Y	Asante  Cigna U4217252705 - U4217252705	 
+221888	Dr Steven Frimkess	5417733327	Y	Regence Blue Cross 838543523 - 838543523	 
+220997	Dr. Ritelers	5419562177		OHP Mid Rogue - YES	 
+220311	Hayden		N	OHP	 
+222583				BC 022500006 (05-06) - 022500006 (05-0	 
+224014				ohp - OHP	 
+222584				purchased 08-23/2010 - SCHOOL INS	 
+224015				OHP JA400A1V - OHP	 
+221729			Y	OHP Care Oregon - RM10013F	 
+220472	Shiltz	5414717062	N	 - OHP	 
+222585				OHP 09-10 - OHP	 
+222586				Providence OR 542082315 - 542082315	 
+222067				PHP - CONFIRMED	 
+222587				ODS - ODS	 
+221269			N	Parent said Medical	 
+221270			N	OHP	 
+220473			N	Providence Prefered Trust	 
+221730			N	Care Oregon	 
+221271			N	Regency Blue Cross	 
+222069				BC/BS	 
+222070	Greg Miler	5417733422		yvp920399564 - BCBS	 
+222071				HealthNet - CONFIRMED	 
+221272			N	OHP - FH60012N	 
+221731			N	Blue Cross Blue Shield - YVP949344713	 
+221274			N	OHP	 
+221275			N	OHP	 
+224017				E00131119 - OEBB	 
+222073				ODS - ODS	 
+220312				OEBB - YES	 
+222113				OHP	 
+224058			Y	EBMS  0000957 - EBMS	 
+221788			N	OHP	 
+220567				ods - CONFIRMED	 
+220568				ohp - OHP	 
+221015			N	Mid Rogue - YES	 
+223731			N	BC/BS	 
+224059				OHP - OHP	 
+224060	Clinica del Valle			OHP 263756005 - 263756005	 
+221789	Clinica Del Valle		Y	OHP - OHP	 
+221339	Richard Davenport		N		 
+222700				Assurant 50518689 (07-08) - HEALTH INS	 
+220571			N	BC/BS	 
+220572			N	Providence	 
+220576				Cypress - CYPRESS	 
+220577	Alex	5417798923		Cypress - CYPRESS	 
+220425	Jeff Childreth		N	Great West Health Care	 
+221187			N	Pacific Source - YES	 
+221791			N	OHP	 
+223734	Dr. Murphy		N	BC/BS - ML800X7T	 
+222114	Dr. Berg	5417794517		 - PACIFIC SOURCE	 
+224061				Providence 947136602 - PROVIDENCE	 
+221046			N	OHP - YES	 
+221198			N	Pacific Source - YES	 
+222776	Sr. Daveport			Tricare Remote 055668992 - 055668992	 
+222777				OHP - OHP	 
+223784	EP Dental	5418260599	N	Providence Preferred	 
+223785	Dr. Alex	5417798923	N	Blue Cross	 
+222778				Valerie Montufar	 
+221452			Y	OHP	 
+221453	LaClinica			OHP	 
+221454	Anne H Dennehy DDS	5412456648	N	OHP	 
+221455			Y	OHP	 
+221456			Y	Allcare Health Plan YF400L9K	 
+221457			Y	Care Oregon	 
+221458			N	OHP	 
+221461	Willamette Dental			Regency Blue Cross	 
+223845	Dr. Miller	5417738216		Unicare	 
+221205			N	Pacific Source Grp A061061 - YES	 
+220335	Luke Murphy	5418782115		Blue Cross/Blue Shield - YES	 
+220336	Luke Murphy	5418782115		BC/BS YVP 921199225 - 921199225	 
+220337	luke murphy			ID 200017163 - 500925	 
+222861				OHP #	 
+221894			Y	OHP MP200L34	 
+221895	David Allen	5417798694	N	Providence Preferred	 
+221896			Y	Myers Toohey Stevens	 
+225535	Dr Boldt	5417722756	N		 
+225808	Dennehy	5412456648	N		 
+221164				Oregon Health Care - YES	 
+224018				1007541402 - PROVIDENCE	 
+224019				OHP	 
+221276				OHP	 
+221278				UHC	 
+222589				Blue Cross 841693000 (07=08) - 841693000 (07=0	 
+222591				Blue Cross 015101340 - 15101340	 
+222592				ohp - OHP	 
+224020				Added Choice - ADDED CHOICE	 
+224021				Blue Cross/Blue Shield	 
+224022	Anne Dennely	5412456648	Y	Pacific Source OHP - PACIFIC SOURCE	 
+222595				OHP - GH300N20 - GH300N20	 
+221279				Aetna	 
+222075				OHP	 
+225128	La Clinica del Valle	5415123900	N		 
+225131	Hayden Dental	5417725174	N	 - PE100P6A MEDICA	 
+221189			N	OHP	 
+221020			N	Myer Stevens & Toohey - YES	 
+223735	Southern Oregon Dental	5418260599		Regence Blue Cross - YES	 
+223736			N	United Health Care	 
+223738	Shady Cove Familt Dental	5418782115	N		 
+223739			N	OHP - YES	 
+222115				BC/BS - CONFIRMED	 
+222704				OHP	 
+221792			N	Blue Cross Blue Shield	 
+221190				Pacific Source - YES	 
+222708				OHP  BV64391F - BV64391F	 
+222116				EPMC - CONFIRMED	 
+220582	Tamara Abbott			Blue Cross - CONFIRMED	 
+222117				Aetna - AETNA	 
+222710				Blue Cross/Blue Shield PO#YVP21201467 - YVP21201467	 
+222118	Ralph Miller	5417738216		Champ - CONFIRMED	 
+222119				Aetna	 
+222713				Timber Products #250100362 - 250100362	 
+220319				Regence Blue Cross	 
+220328	Dr. Abbett	5417799059		Pacific Source - YES	 
+223788			N	BC/BS	 
+221382				OHP	 
+221383				OHP	 
+221384				OHP	 
+221385				OHP	 
+222135	Anne Dennehey	5412456648		NTCA - CONFIRMED	 
+223790	Anne Dennehey		N	NTCA	 
+220427				OHP	 
+223791	Dr. Frimkess	5417733327	N	ODS	 
+221047	Holten	5417734435	N	Cigna - YES	 
+223792			N	OEA Choice	 
+223793			N	BC/BS	 
+222138				Blue Cross XDX619A61704 - XDX619A61704	 
+221387	Dr. Frimkiss		Y	Blue Cross Blue Shield	 
+221388				OHP	 
+221389	Pam Ortiz	5417732625	N	OHP	 
+221390	Jesse Gallagher	5417738216		OHP/Private	 
+221392			Y	All Care	 
+221395			N	OHP	 
+220630	Advantage Dental	8884680022	N		 
+221396	Main Street Dental		Y	OHP	 
+223794	Holton/Bennion		N	Pacfic Source - CONFIRMED	 
+222781	Tamara Abbatt no phone #			Aetna #W0283-90954-02 - W0283-90954-02	 
+222782				AETNA KM0588810-G (07-08) - HEALTH INS	 
+222783				BCBS YVB 920667214 - YVB 920667214	 
+220632	Greg Miller		N	Providence Preferred	 
+223796				Providence Preferred	 
+221199			N	OHP - YES	 
+221835	Bolt		Y	OHP	 
+221837			N	Care Oregon - #MX30019F	 
+221398				Blue Cross of Idaho	 
+224081				OHP - OHP	 
+224083				healthnet - HEALTHNET	 
+220459				blue cross blue shield - BLUE CROSS	 
+207825	Dr. Wooton	5417733422	Y	OHMS - CONFIRMED	 
+220476			N	Medicaid	 
+222076	Berg				 
+221281				oer 920405859 - BC/BS	 
+221734	Pamela Ortiz	5417732625	N	OHP	 
+221735			N	OHP - LU80012J	 
+221736			N	OHP Care Oregon - 0050017R	 
+221737			N	Asante Health Future	 
+221739	La Clinica	5415356239	N	OHP	 
+223646				Pacific Source	 
+221740			N	Aetna - AETNA	 
+223648			N	Regence BC/BS - CONFIRMED	 
+221282			N	Myers, Stevens, & Toohey - SDAN00719754	 
+221742			N	OHP Care Oregon - #X040017R	 
+223651	S. Oldroyd			Health Futures	 
+220484			N	mid rogue - MID ROGUE	 
+221743			N	Regence Blue Cross,Blue Shield	 
+220492	Frimkess	5417733327	N	Health Future - CONFIRMED	 
+223654	Dr. Wu	5417765271	N	Providence - PROVIDENCE	 
+221744			N	Aetna	 
+223655			N	ODS - ODS	 
+223657			N	OHP - CONFIRMED	 
+220496			N	regence - REGENCE	 
+223660			N	Regence BC/BS	 
+220499			N	ohp - CONFIRMED	 
+220500	Wu		N		 
+224023				Providence Prefered 542807560	 
+220502	Anne Barry		N	United Health - UNITED HEALTH	 
+224024				Health Futures 900011614-02 - 900011614-02	 
+225038	Gregory Miller	5417733422	N		 
+223742	Bruce Mitchell		N	Regence BC/BS	 
+222717				United Health Care 68747541 (07-08) - 68747541 (07-08	 
+221193			N	Timber Products Health Plan - YES	 
+224062				Mid Rogue Health Plan - R12622710	 
+221346			N	OHP	 
+222719				Medical card	 
+221795			N	Pacific Source	 
+221350			Y	OHP - CARE OREGON	 
+221797			Y	OHP	 
+220587			N	OHP	 
+221798			Y	OHP	 
+221799	LaClinica		N	OHP	 
+221400	Smile Keepers	5417720102		OHP	 
+224084				OHP BX6903D - BX6903D	 
+223798				OMAP - CONFIRMED	 
+222141				Cigna - CONFIRMED	 
+221842	Willamette		N		 
+221843			Y	blue Cross	 
+221403	Frimkiss		N	OHP	 
+223799	LaClinica		Y	Health Net	 
+221406			N	Care Oregon	 
+220635	Modern Dental	5417766996		BC/BS - CONFIRMED	 
+221200	Hayden Dentistry			OHP - OHP	 
+220638			N	OHP - OHP	 
+220639			N	BC/BS	 
+221201			N	HealthNet - R06000779	 
+221407	Joseph Cochran	5414829442	Y	Meritain Health / 1st Choice Health - 7262209624	 
+220428	brue Mitchell	5417733959	N		 
+221408	JOseph Cochran	5414829442		ODS Network	 
+222786				School (07-08)	 
+220429	Mitchell	5417733959	N		 
+222790				RBCBSO ZVE9493353023 (07-08) - ZVE9493353023 (	 
+222143				Pacific Source - CONFIRMED	 
+222793				OHP PLUS HA6911 (07-08) - HA6911 (07-08)	 
+222795				OHP	 
+222796				Healthnet - R06347498	 
+222797				OHP PO# 550-31-4084 - 550-31-4084	 
+223801	Dennehy	5412456648	N		 
+222798				Blue Cross ZVF920654668	 
+220640	Willamette Dental		N		 
+222801	none given			OHP #544087585 (05-06) - 544087585 (05-0	 
+222802				INSURANCE - 2009-10	 
+222804				Regence BC/BS # 015101730 - 15101730	 
+222805				OHP #RX300J1T - RX300J1T	 
+222535				OHP BV64391B (06-07) - BV64391B (06-07	 
+223990			Y	Oregon Health Plan - BV64391H	 
+222536				Assurant #5858496 (07-08) - 5858496 (07-08)	 
+223991			Y	Blue Cross Blue Shield - JPC83531011	 
+220463	willamette				 
+223664			N	Blue Cross/Blue Shield - BC/BS	 
+222604	Modern Dentist	5417766996		L12869401504 - CIGNA	 
+223665	Dr. Miller		N	GEHA - GEHA	 
+221165				BC.BS	 
+220505	Houghton	5417795111	N	Blue Cross - 543083874	 
+221167			N	Blue Cross Blue Shield - YES	 
+220416				5	 
+221748	Dr. Steven Frimkess	5417733327	N	 - PACIFIC SOURCE	 
+223667			N	Assurant Health	 
+221749			N	Regence Life & Health - ZVP920412625	 
+221169			N	ODS - YES	 
+221750			Y	MVP - A01601740	 
+220417	Dr Joe Cochoran	5414829442	N	5 - CONFIRMED	 
+224025			Y	Blue Cross Boise BVO949079497 - BPB949079497	 
+221170			N	Myers, Stevens & Toohey - YES	 
+224026	Modern  Dental	5417766996		Cigna	 
+222606				Pacific Source	 
+224027				OHP	 
+221172				OHP - YES	 
+221173			N	OHP Plus - YES	 
+222607	none given			Aetna 444040616 - 444040616	 
+223668			N	ODS - ODS	 
+223669			N	OHP - OHP	 
+222608				United Health Care 860117339140000 (06) - 860117339140000	 
+221286	Dr Ortiz		N	OHP - OHP	 
+223670				HealthNet - CONFIRMED	 
+223671			N	Cigna - CONFIRMED	 
+223673				Mega Health - CONFIRMED	 
+223674			N	OEBB - CONFIRMED	 
+223675			N	Pacific Source	 
+220511			N	PHP - PHP	 
+224029				Health Future  545395326 - 545395326	 
+223679			N	Regence - CONFIRMED	 
+223680			N	Aetna - CONFIRMED	 
+222276			N	bcbs yva080021875 - BCBS	 
+221800	Willamette Dental	8004618994	N	OHP HM60019P	 
+221801	Willamette Dental	8004618994	Y	OHP KF600G4K - KF600G4K	 
+224064	Williamette Dental		N	OHP - EWF3869K	 
+224065	Willamette Dental	8004618994		OHP	 
+221802			Y	TImber Products Co.Health Plan -  ID#250101702	 
+222733	E.M.D.			Providence 105122 - 105122	 
+222734				Timber Products Group#TPC2502  250200575 - 250200575	 
+222122				United Health Care	 
+224066				BCBS	 
+221803			N	BCBS	 
+221194			N	OHP - YES	 
+221851	Dr. Miller		N	RBCBSO	 
+221850			N	Pacific Source	 
+220644				Mega Life and Health	 
+221410	Dr. Costa	5415356239	N	OMAP	 
+222809				health net U6985A (08-09) - HEALTH INS	 
+222145				Health Net U6985A (08-09) - HEALTH INS	 
+222810				BCBS yvp921406172 - BCBS	 
+221411	Willamette Dental		Y	Blue Cross Blue Shield	 
+220647	Dr.Ortiz		N		 
+221412				OMAP	 
+221413			Y	Care Oregon - GT56108	 
+223803			N	BS/BS	 
+223804	Dr. Dan		N	OHP - YES	 
+222812	Dr John Price			meyers/stevens	 
+221203				OHP	 
+221204			N	OHP - YES	 
+223805			N	Aetna	 
+222146				OHP - CONFIRMED	 
+220649			N	Lifewise	 
+222813				BCBS YVB531843497 - PROVIDENCE	 
+221853			N	OHP - OHP	 
+221854			N	OHP	 
+221155				OHP - CONFIRMED	 
+223992				DHS - DHS	 
+222537				Blue cross YVP 542-66-7579 - YVP 542-66-7579	 
+223993				OHP AT16934E - AT16934E	 
+221257	Willamette Dental	8004607644	Y	Care Oregon  WV000I4A	 
+222047				Select Benenfits 557089040 #Grp625 - CONFIRMED	 
+223994	Catts			Blue Cross	 
+222048	stebbens				 
+221156				Myers, Stevens and Toohey - YES	 
+221258				OHP	 
+225076	Willamette Dental		N		 
+223681			N	Health Future - CONFIRMED	 
+223684			N	Healthnet - HEALTHNET	 
+223685			N	pacific Source - PACIFIC SOURCE	 
+223686			N	Health Net - HEALTH NET	 
+222082				GreatWest Health Care 00167772 - GREATWEST	 
+222614				The Guardian/Biomass One	 
+221751			Y	Myers Stevens & Toohey & Co. - M&S	 
+221287			N	Regence Blue Cross - YVP920486466	 
+221752	Dr. Jaun		N	OHP	 
+222616	Bruce Mitchell	5417733959		Blue Cross R09089562 - HEALTH INS	 
+222617				Aetna 444054139 (07-08) - 444054139 (07-0	 
+222619				HMA 9HP541044043 - 9HP541044043	 
+222083	Jeremy King	5417721215		HMA Group - HMA GROUP	 
+221753			N	Myers - Stevens & Toohey & Co.	 
+222620				Health Net 625481493 (08-09) - HEALTH INS	 
+222622				Healthnet V2684B (07-08) - V2684B (07-08)	 
+221290			N	DHS Medical Care OHP Plus - R120017G	 
+222623				HEALTHNET  PO #  559191753 (07-08) - 559191753 (07-0	 
+222625	Affordable dentist	5417765259	N	OHP A070538N - A070538N	 
+220516				OHP	 
+221754	Affordable Dental	5418580740	N	OMAP - OHP	 
+221755			Y	OHP	 
+221177				OHP - CONFIRMED	 
+224032				Healthnet R05451908 - R05451908	 
+224033				ohp - OHP	 
+223691			N	OHP	 
+221292	Affordable Dental		N	OHP - #VE000J21	 
+221293			Y	OHP	 
+224034				ODS - H85974583	 
+222628				OMAP BZ23811C (07-08) - BZ23811C (07-08	 
+222085				OHP	 
+221027			N	ODS - YES	 
+224067	Willamette Dental	5039522100		Medical  626706888 - 626706888	 
+223744			N	Providence Health Plan - PROVIDENCE	 
+221028			N	OHP - YES	 
+220322				OHP - OHP	 
+221805	Affordable Dental	5418580740	N	 - OHP CARE OREGON	 
+224069				CAREOREGON MEDICAID - CAREOREGON	 
+222740				266249667 (08-09) - MEDICARE	 
+224070			Y	OHP - DE87374C	 
+222123	Dr Reynolds			 - CONFIRMED	 
+222741				Timber Products Health Plan #TPC-2502 - TPC-2502	 
+222742				OMAP 266249667 (08-09) - HEALTH INS	 
+223745				BC/BS	 
+221807			N	OHP - OHP	 
+220324				Blue Cross Blue Shield - YES	 
+220325				Providence	 
+221354			N	ODS	 
+221356	dinicadel Valle	5415356239	N		 
+224071				OHP	 
+221357			N	DHS Medical - SP300LP	 
+224072				Blue Shield	 
+222128	Miller	5417738216		United Health Care	 
+222749				OHP BW58698B (08-09) - OHP	 
+222750				BC/BS  CJI7081G6305 (07-08) - CJI7081G6305 (0	 
+222751	none given				 
+220654			N	Pepsi & Asante	 
+221415			N	Care Oregon	 
+222814				am hlmrk 44cl428654 - AMERICAN HLMRK	 
+221416			N	HMO	 
+220655	Duffin		N		 
+220656	Duffin		N		 
+220657	Duffin			halmark - HALMARK	 
+221051			N	OHP - YES	 
+224089	La Clinica		N	OHP	 
+221419			Y	OHP - Care Oregon	 
+222820	Rollem	5417733756		Pacific Source R12569856 / School Ins. - R12569856	 
+222821	Dr. Wu			BCBS	 
+222822				Regence BC/BS #YVP921184038 - YVP921184038	 
+221421			N	OHP	 
+221423			N	OHP	 
+222148				OHP - OHP	 
+224090				OHP - OHP	 
+221425				OHP	 
+221426	Willamete Dental		Y	Care Oregon	 
+224092	Anne Dennehy	5412456648		BCBS YVP921235907MT200A6T - E00177862	 
+221864			Y	OHP	 
+220667				OMAP Medical	 
+222825				Regence BC/BS yvb9201761126 - yvb9201761126	 
+221427			Y	OHP - HI000P8X	 
+221428			N	OHP	 
+220415	Ted Bennion	5417797936		OR Health Care - OR HEALTH CARE	 
+221260				OHP HL800810 - HL800810	 
+220307				Blue Cross Blue Sheild - YES	 
+222540				OMAP AR000A8M (07-08) - AR000A8M (07-08	 
+221715			Y	OHP - OHP	 
+222541				BC/BS #LWE897273820 - LWE897273820	 
+221261			Y	OHP - TK54094	 
+221262			Y	OHP - OHP	 
+222542				nn100wit - OHP	 
+222544				Providence 45125 (07-08) - 45125 (07-08)	 
+222545				OHP	 
+222547				OHP	 
+222549				Kaiser #88775460 - #88775460	 
+223996				Ace American Ins 1326422  (08-09) - HEALTH INS	 
+221263			N	OHP - #T050010K	 
+221721			N	OHP Plus - CF 24954	 
+222554	Luke Murphy			Blue Cross YVB920396056 (07-08) - HEALTH INS	 
+220465			N	ODS - CONFIRMED	 
+220308				HMO OHP	 
+221724			N	OHP	 
+221725			N	OHP	 
+221726			N	Blue Cross Blue Shield	 
+222555				United Health Care - UNITED HEALTH	 
+222051	Affordable Dental	5418580740		Plan OHP - MIDROGUEHLTH	 
+220993				AETNA	 
+221158			N	Care Oregon OHP - YES	 
+221159				Blue Cross/Blue Shield - YES	 
+222631				Blue Cross/ blue Shield R09089562 - R09089562	 
+220419			N	5 - MEDICAID	 
+221294			N	Blue Cross Blue Shield	 
+224035				Migrant Ed SDAN00719754 - MIGRANT ED	 
+221757			N	Aetna	 
+222634				OHP	 
+221178				OHP - YES	 
+222635				OHP #CTI00M2D (07-08) - CTI00M2D (07-08	 
+221179	Luke Murphy	5418782115		ODS Plus Network - ODS	 
+221295				OHP	 
+221759			N	Mid Rogue - EN500I0B	 
+220314				OHP - OHP	 
+220315				OHP - OHP	 
+221180			N	OHP - YES	 
+221762	Advantage Dental	8002689631	N	OMAP - YR700O1J	 
+220519				OHP	 
+223692				Health Future - CONFIRMED	 
+222642				bc bs yvb920399297 - yvb920399297	 
+223693				BC/BS	 
+222644				OHP	 
+223694			N	BC/BS - BC/BS	 
+223695				OHP - CONFIRMED	 
+222087	Hayden			CareOregon 569830321 - CARE OREGON	 
+222645				Cigna #VO554840703 - VO554840703	 
+224037	Advantage	8884680022		OHP	 
+222088				ID # 10070963002 GRP 108753 - PROVIDENCE	 
+222089				BC - CONFIRMED	 
+222648				School Insurance (07-08)	 
+222651				Cure of Oregon Policy #DM01584A - DM01584A	 
+222652				OHP #	 
+221000	Luke Murphy	5418782115	N		 
+221002	Dr. Shiskin	5414717062	N		 
+221004			N	Nesika Health Group - YES	 
+220523				OHP - OHP	 
+224042	none given				 
+222656	Central Point Health	5415356239		OHP CF98115C (08-09) - HEALTH INS	 
+224043				Medical	 
+221763			N	OHP	 
+224044			Y	OHP NR100ARB - NR100ARB	 
+222658				Mountain Claims Management	 
+222092	Dr. Frimkiss	5417733327		ODS - ODS	 
+223697			N	Regence BC/BS - CONFIRMED	 
+222752			Y	pending - 11/07/2008 - SCHOOL INS	 
+222753				Pacific Source R12599728 (08-09) - HEALTH INS	 
+220326	Kip Hampton			OHP - OHP	 
+222129				OHP	 
+223748			N	OHP	 
+222756				OHP DE56486B (07-08) - DE56486B (07-08	 
+220599			N	OHP - OHP	 
+222759				OHP #BZ29651 - BZ29651	 
+222762				regence bc #yvp949342696 - yvp949342696	 
+224076				OHP	 
+221809			Y	TriCare Prime	 
+224077	Phoenix Family Dentist			TriCare Prime 566392598 - 566392598	 
+221196	Luke Murphy	5418782115		BCBS Walmart - WALMART	 
+220327	Luke B. Murphy	5418782115		Walmart	 
+222763				OHP	 
+222764				OHP WY300S0U / School Ins. - WY300S0U	 
+222765				OHP # WY300S0T - WY300S0T	 
+222766				BC/BS yvp921240246 - yvp921240246	 
+220602	Leong		N	Pacific Source	 
+223752			N	BC/BS	 
+223753	Dr. Shultz	5418268989	N	Health Future	 
+223754			N	Regence Life & Health	 
+221360				BS/BC	 
+223755			N	Providence Preferred	 
+222052				signa - SIGNA	 
+223998	So. Oregon Dental	5418260599		ohp cx46633b - OHP	 
+220995	Dr. Alax			 - REGENCE BC	 
+222053				Medicaid OHP - CONFIRMED	 
+221264				Blue Cross/ Blue Shield	 
+223999				Blue Cross/Blue Shield	 
+224000				Aetna	 
+224001				OHP	 
+222560	S.O. Dental	5418260599		 - ASANTE	 
+222054	Ralph Miller	5417738216		Asante 900010643-03 - ASANTE & ODS	 
+223640			N	Aetna - AETNA	 
+221163			N	OHP	 
+220468				Fortis & Militon	 
+225771	La Clinica	5416181300	N		 
+222659				Bear Creek Aetna 444 02 3427 - 444 02 3427	 
+224046				Bear Creek    004336 - 4336	 
+222660				ohp - OHP	 
+224047				DMAP 0I100s0x - 0I100s0x	 
+221299			Y	OHP - OHP	 
+222661	Randy Roth Ins	5418260599		PS 122690458 - PACIFIC SOURCE	 
+222094	Dr. Chamberlain	5417735902		Aetna Choice - AETNA	 
+223698				OHP	 
+222663				School Insurance (05-06)	 
+222664				CareOregon yw300R7F2 (08-09) - HEALTH INS	 
+222096				bluecross/blueshield - CONFIRMED	 
+222665				Blue Cross YVP921260512 - YVP921260512	 
+222666				OHP / School Insurance	 
+223699				Signa U13206068 04 - SIGNA	 
+222097				Providence - CONFIRMED	 
+222667				PI 80017B	 
+219472			N	AETNA IDW1526-42852	 
+225542	Steven Frimkess	5417733327	N		 
+221429			N	OHP	 
+224094			Y	OHP - WJ300L3D	 
+223806			N	OHP - CONFIRMED	 
+222828				OHP YP100TOU - YP100TOU	 
+222829				BC/.BS #	 
+224095	Affordable			OHP	 
+223809		5418408989	N	OHP	 
+222149				OHP C295192 - OHP	 
+221054	Dr. Alex		N	Pacific Source - YES	 
+222832				NO insurance	 
+222834				Blue Cross 10019571 (07-08) - 10019571 (07-08	 
+222835				Blue Cross	 
+220670			N	BS/BS	 
+222151	Dr Jacob O Layer			AFLAC  (08-09) - HEALTH INS	 
+222837				core source 47608013 - CORE SOURCE	 
+222838	Dr Hayden	5417725174		Pacific Source #R12454283 - R12454283	 
+222839	Eagle Point Dental			BCBS YVP921023984 (08-09) - 2008-09	 
+221056			N	Tri-Care - YES	 
+223810				OHP	 
+222840				Regence Blue Cross/Blue Shield	 
+221431				Heath Future	 
+224097				Health Future 900200425-02 - 900200425-02	 
+222153				OHP	 
+222154	Dr. Gilespie	5417766996		OHP - CONFIRMED	 
+221868			Y	Blue Cross/Blue Shield	 
+224002				bluecross/blueshield - BLUECROSS	 
+220469	Barsalou-La Clinica	5415356239	Y	Oregon Health Plan & Champ V.A. - KH100A8R	 
+222055				OHP - CONFIRMED	 
+223641				OHP - CONFIRMED	 
+224003				purchased 8/19/11 - SCHOOL INS	 
+223642				ohp - CONFIRMED	 
+224828			N	OHP - OHP	 
+223756	Dr. James Catt		N	BC/BS	 
+223757				GEHA	 
+223758	Dr. Ortiz	5417732625	N		 
+220603				OHP	 
+221031			N	BCBS - YES	 
+221033	Bruce Mitchell		N	OHP - YES	 
+221034	Keith Berg	5417794517	N	BCBS - YES	 
+221036			N	Regence/BCBS - YES	 
+223761			N	Providence Preferred	 
+221037			N	Pacific Source - YES	 
+222769				OHP	 
+221362			Y	OHP	 
+220604	Luke Murphy		N		 
+223763	Hayden	5417725174	N	OHP	 
+221812	Dr. Frimkess	5417733327	N		 
+221813			Y	OHP	 
+225039			Y	OHP	 
+221869			N	Blue Cross/Blue Shield	 
+221433			N	OHP	 
+222563				Pacific Source G0021648 - OHP	 
+221265			Y	Care Oregon - VI100J3B	 
+222668				Providence	 
+222669				Select Benefits 544945711 (08-09) - HEALTH INS	 
+221183	Affordable Dental		N	OHP/Care Oregon - YES	 
+221765			Y	OHP	 
+224052				OHP - XU200I4C	 
+222098				Regence BC/BS	 
+224053				OHP - OHP	 
+221301			N	OHP - #BUP1603D	 
+218390			N	OHP - YES	 
+220318				Aetna - AETNA	 
+221766	Affordable Dental	5418580740	Y	OHP - EW900J1X	 
+221768			Y	Health Net	 
+221770			N	OHP	 
+221772			Y	OHP	 
+221774			N	OEA	 
+221775			N	Blue Cross	 
+222674	Willamette			Aetna #542-98-9812 - 542-98-9812	 
+221776			N	Health Net	 
+222100				bcbs YVP 920123004 - BLUE CROSS BS	 
+222101	Willamette			BC/BS - BC/BS	 
+221302			N	OHP - YJ20019R	 
+221006			N	OHP - YES	 
+221008			N	OEBB - YES	 
+221303			Y	OHP	 
+221305			N	Blue Cross	 
+221306	Dr. Alex		N	Blue Cross	 
+221307	Dr. Alex		N	Aetna	 
+202716	Costa	5415356239	N	Regence Blue Cross - YES	 
+207431			N	Oregon Health Plan	 
+221310			Y	OEBB	 
+221311	Dr. Catt	5417728846	N	Health Net	 
+223702	Dr. Frimkess		N	Regence	 
+221314			N	Myers Stevens Toohey & co.	 
+221316	Clinica del Valle	5415356234	Y	Care OR	 
+221317	Dr. Berg	5417794517	N	Aetna	 
+221319			N	OHP	 
+221320	D. Anne	5412456648	Y	Myers Toohey	 
+221321	Dr. Abbott	5417790226		Joint Labor Management	 
+221322			Y	Blue Cross	 
+223703	Ortiz			OEA Choice - COMFIRMED	 
+222102				Pacific Source - CONFIRMED	 
+221184				Regency Blue Cross - YES	 
+221324			N	Care Oregon	 
+222676				Blue Cross/Blue Shield	 
+220673	Frimkess	5417733327	N	BC/BS	 
+221434				OHP	 
+222843				Regence Blue Cross - REGENCE	 
+221871	La Clinica	5415356239	N	OMAP	 
+222678				Blue Cross YVP921033946 - YVP921033946	 
+222679				Blue Cross YVP921033946 (07-08) - YVP921033946 (0	 
+222680				Blue Cross YVP921002951 (07-08) - YVP921002951 (0	 
+221326			Y	Blue Cross/Blue Shield - ID#YVP920634483	 
+222103				BCBS 378A15577-06 - 378A15577-06	 
+222683				Premera #ZKR600396457-04 - ZKR600396457-04	 
+222684				Blue Cross 378A1557705 (06-07) - 378A1557705 (06	 
+222685	Willamette Dental	8004618994		Regence BC/BS #921205890 - 000027000	 
+224054				BCBS 921151458 - 921151458	 
+220529	Jeremy King	8004618994	N	Regence Blue Cross - CONFIRMED	 
+222105	Willamette		N	 - REG BLUE CROSS	 
+220530	Abbett	5417799059			 
+221327	Anne Dennehy		N	Regence Blue Cross	 
+220532	David Alex	5417798923	N	Aetna - CONFIRMED	 
+222106				BC/BS	 
+220536	Alex		N		 
+220537	Borg	5417733422			 
+220540	Modern Dental Care	5417766996	N		 
+222686				BC/BS ETN80468407 (07-08) - ETN80468407 (07	 
+222688				BC R59465796 (07-08) - R59465796 (07-0	 
+221328	Dr. Ray		Y	Cigna	 
+221329			N	OHP	 
+222108				BCBS 140000 - BLUECROSS BS	 
+220542	Dr. Murphy	5418782115			 
+220546	Dr. Catt		N		 
+223707	Southern Oregon Dental		N	United Way PPO	 
+220548			N	Cigna	 
+222689				CIGNA- U1003594003 (07-08) - U1003594003 (07	 
+225953			N	First Choice - YES	 
+221435			N	OHP	 
+221873	Steven Frimkess	5417733327	N	Blue Cross	 
+224100			Y	Regence - YVA920107270	 
+224102				OHP	 
+222845				OHP #	 
+222847				United Health Care 85574361 (08-09) - UNITED HC	 
+221874			N	Aetna - W1526 42852	 
+223815				Kodak Natural	 
+220675			N	OHP - CONFIRMED	 
+222157	Judd Larson	5416649308			 
+222158	Dr Shultz	5418260599		ohp - OHP	 
+222159				ALL Care - ALL CARE	 
+223816			N	Great West	 
+222850				OHP CG76655C (07-08) - CG76655C (07-08	 
+222851	Willamette	8004618994		OHP B004023F - B004023F	 
+222853	Philips			Regence BC/BS #YVB920653333 - YVB920653333	 
+220431	Affordable Dental			OHP	 
+221437			N	OHP	 
+222161				Champ VA - COFIRMED	 
+221060				Blue Cross of CA	 
+225973	Willamette Dental		N		 
+222690				Cigna U1003594003 (07-08) - U1003594003 (07	 
+221185			N	Blue Cross - BCBS	 
+221331	Aspen Dental		Y	Cigna	 
+220552	Berg		N	Aetna	 
+223708			N	Asante Health Systems	 
+220553	Alex		N		 
+224055			Y	OHP - DC74377E	 
+223709	Dr. Burg	5417733422	N	Assurant Health	 
+223710	Dr. Oas		N	A & I Harrison Trust PPO	 
+220333				Lifewise	 
+222854				School (07-08)	 
+224107				OHP - OHP	 
+221438			Y	OHP	 
+221065	Luke Murphy		N	Pacific Source - YES	 
+221071			N	BCBS - YES	 
+223817			N	BC/BS	 
+220681				ohp - OHP	 
+222856				OHP UF60092U (07-08) - UF60092U (07-08	 
+224108				Pacific Source - G0016324	 
+222162	Dr Capsey			OEBB - OEBB	 
+224109				TriCare	 
+223822				Asturant	 
+223825				Regence BC	 
+220682	Dr. Murphy				 
+223828				BC/BS	 
+223830	Wooten				 
+223831	Modern Dental				 
+223832				Select Benefits	 
+222565				Pacific Source #R12554070 - R12554070	 
+222566				Regence zve949342995 - zve949342995	 
+224005				OHP	 
+223643				Harrison Trust	 
+224006	Affordable D.C.	5418580740			 
+222057				OHP	 
+216720	Modern Dental	5417766996	N	Great West/Blue Cross Blue Shield - YES	 
+221513	Dr. Shaufler	5418580740	N	Blue Cross Blue Shield - OHP	 
+221514			N	OHP	 
+220782				OHP	 
+222920				Oregon Health Plan (07-08)	 
+217040	Shiskin	5414717062	N	OHP - YES	 
+202154	Dennehy		N	OHP/BIBS - YES	 
+222474				Timber Products	 
+220403	Affordable Dental				 
+222475				HMO	 
+222477				United Health Care	 
+223522				Regence BCBS (08-09) - HEALTH INS	 
+222478				regence bcbs yvp921266468 (08-09) - HEALTH INS	 
+223523				OHP	 
+222479				Aetna - CONFIRMED	 
+222481				# CP64784C - DHS MEDICAL	 
+220404				Blue Cross/Blue Shield	 
+223526				DMAP CT00415C 09/10 - HEALTH INS	 
+222482				Providence Health Plan - CONFIRMED	 
+222483				Regence BC/BS - CONFIRMED	 
+222484				BC/BS - CONFIRMED	 
+223926	Dr. Kapp		N		 
+224154			Y	OHP/DHS - AD200T3W	 
+221973			Y	OHP	 
+221974	Dr. Frimkess	5417733327	Y	OMAP	 
+221975			Y	OHP	 
+224155	Affordable Dental	5418580740		OHP	 
+223927			N	OHP	 
+222208				OHP - CONFIRMED	 
+223929	Sisiyou Dental Assoc				 
+223930	Dr. Price	5417734073			 
+221598				Blue Cross Blue Shield	 
+223932				pacific source - CONFIRMED	 
+222984				School insurance	 
+221979	Willamette		Y	OMAP	 
+221601			N	Select Care - 800561357	 
+221603	Willamette Dental	5414618994			 
+222986				Oregon Health Plan	 
+220871	Willamette Dental	8004604644			 
+222212				LIfewise 600245052 1027345 - CONFIRMED	 
+220450	meyers			 - CONFIRMED	 
+220872	Dr. Miller	5418260599	N		 
+220879				Blue Cross	 
+221606	Dental Prevention				 
+220883	Anne Barry	5417792634			 
+221984			Y	OMAP	 
+221985	N/A		Y	IEHP - IEHP 98618443D	 
+221986			Y	OHP	 
+220890	Dr. Spencer	5417766996	N		 
+224161				Oregon Care - OREGON CARE	 
+224162				OHP - OHP	 
+220348				CTGR	 
+222995				Blue Cross/OHP	 
+221987			Y	ohp	 
+221990	none given				 
+222274	Dr. Catt	5417721084		Pacific Source G0020389 - 2008-09	 
+224207				BCBSO 480019704 - BLUE CROSS	 
+224208				BC/BS R58812891 - ODS E00140049	 
+223345				Myers Stevens & Tooney	 
+224209				Providence Preferred 999-57-0285 - 999-57-0285	 
+224210	SOR Dental			OEA Choice - ODS E00130955	 
+223346				Health Net #V9050D (07-08) - #V9050D (07-08)	 
+224211				Regence Life & Health	 
+223347				Assurant	 
+221221				OHP	 
+221222				Blue Cross/Blue Shield	 
+220354				Nesika Health Group	 
+220356				Providence Preferred - HEALTH INS	 
+221223				B408979D - MID-ROGUE	 
+220358				oebb 00001547 - ODS	 
+221224				Blue Cross Blue Shield	 
+223349				Blue Cross R59411837 (07-08) - R59411837 (07-0	 
+224213				Lifewise 2020880 - 2020880	 
+224214				Pacific Source 8865865 - 8865865	 
+222277				Western Benifits	 
+223350				Blue Cross #1271CA - 1271CA	 
+220359				OEA - ODS	 
+224215	Modern Dental	5418572016		r59649386 - BLUE CROSS	 
+222278	Ann Barry	5417792634		health net R05953166 10-11 - HEALTH INS	 
+223367				Coventry Health Care  4085396 Grp#455 - 4085396 Grp#455	 
+224227				Asante  568555991 - 568555991	 
+224228				Aetna YCC025592 - YCC025592	 
+222289				HMO	 
+223368				Providence Preferred  TPC-2501#250100545 - TPC-2501#250100	 
+223370				OMAP #FC400G9H - FC400G9H	 
+223371				MYERS STEVENS 54113  8-23-10 - SCHOOL INS	 
+222291				Aetna W164668418 - AETNA	 
+221226				Pacific Source	 
+222292				OEA Choice - OEBB	 
+223372				BC/BS YVB920567717 (08-09) - HEALTH INS	 
+223373				 AG55941 - OHP	 
+223374				Blue Cross Blue Shield	 
+224230				Blue Cross YVB921002793 - YVB921002793	 
+223376	Davenport			Blue Cross/Blue Shield	 
+223378				Blue Cross ZVE949326396 (07-08) - ZVE949326396 (0	 
+223379				Providence Preferred 800022 (07-08) - 800022 (07-08)	 
+222294				OEBB - OEBB	 
+222295				Healthnet	 
+220362				Blue Cross zve949326396 - RBCBSO	 
+222297				Blue Cross	 
+224232				none	 
+224235				OHP	 
+224365			Y	Blue Cross R59072675 - R59072675	 
+222485				BCO Insured	 
+224366				Health Net 562352624 - 562352624	 
+224367				Bear Creek  444000780 - W1645 32928	 
+224368				HealthNet - 562352624	 
+223528				W1645 32928 - HARRY & DAVID	 
+223529				Health Net #562-35-2624 - 562-35-2624	 
+223531				Aetna 444008257 10-11 - 444008257 (07-0	 
+223534				Y	 
+224370				Amalgatamated Life - AMALGA LIFE	 
+224371				Les Schwab	 
+222486				Aetna 12-13 - CONFIRMED	 
+224372				Blue Cross YVB920639979 - YVB920639979	 
+223536				OHP YA600MGE - 08-09	 
+223537				OHP    BV841180 (06-07) - BV841180 (06-07	 
+222488	Frimkess			900069845 - FIRST CHOICE	 
+224374				Providence Health Plan 103994	 
+224375				MyersStevens SDAN00719754 - SCHOOL INS	 
+223538				Healthnet V6289AR06025300 -09/10 - HEALTH INS	 
+223541				BC VF944797  (07-08) - VF944797  (07-0	 
+223543				BC 295510PPG  (06-07) - 295510PPG  (06-	 
+222490				bcbs 295510PPO - BCBS	 
+224376	Frimcus			OHP ODS Plus - 540881057	 
+220405				OHP - YES	 
+223547	Souothern Ore Dental			KIP &CO  540153004 (07-08) - 540153004 (07-0	 
+222493				Providence Prefeered - CONFIRMED	 
+222494				Combined - CONFIRMED	 
+220406				ohp - OHP	 
+223955				OEA Choice Trust - CONFIRMED	 
+222495				BC/BS - CONFIRMED	 
+222496				BC/BS - CONFIRMED	 
+222498	S. Ore Dental	5418260599		Asante 000500-541-42-4428 06 - CONFIRMED	 
+220407				Great West 167772 - 167772	 
+222499				Boise	 
+220408				BC/BS - YES	 
+222500				BC/BS - CONFIRMED	 
+223549				Regence BC/BS #YVB920581858 (07-08) - YVB920581858 (0	 
+221611				OHP	 
+224163	Coots			OHP	 
+223935				Blue Cross/Blue Shield	 
+223936	Affordable	5417765259			 
+224164				ohp - OHP	 
+221613				OHP	 
+223003				Aetna ID#w152642705 - w152642705	 
+221617	Smile Keepers	5417720102			 
+222214				OHP - OHP	 
+220909	Hayden				 
+224165				Regence 838513523 - 838513523	 
+218076	unknown		N	OHP	 
+222299	Affordable Dental			OHP - CAREOREGON	 
+223383	none given			OHP	 
+223384				Aetna 444-042713 - 444-042713	 
+220363				OHP CI500G8W - CI50068W	 
+224236				regence BPB949067279  (08-09) - HEALTH INS	 
+224237				Health Net V3778A R05794115 - CAREOREGON	 
+224239	Andrew Oas			Blue Cross/Blue Shield #R58444422 - R58444422	 
+224240				OHP	 
+224242				Blue Cross Blue Shield - BCBS	 
+224243	Southern Oregon Dental			gena 503062628 - GEHA	 
+223386				Blue Shield KROAN0389719 (07-08) - KROAN0389719 (0	 
+222302				BC/BS - CONFIRMED	 
+222303				prov 10017714103 - PROVIDENCE	 
+224244	Hayden Family Dentistry			 OHP CME58214	 
+222304				Untied Health Care - CONFIRMED	 
+222305				GEHA - CONFIRMED	 
+224245				OHP	 
+224246	long	5417733703		 - ZENITH ADMIN	 
+224247	Layer	5417340970		BCBS YVP921236767 - XU100N3N	 
+222306				preferred care - PREFERRED CARE	 
+220365				Blue Cross Blue Shield	 
+223387				Healthnet	 
+223389				Western Benefits 16426H63569 (06-07) - 16426H63569 (06	 
+223390	John Price	5417734073		BC/BS #	 
+223392	Dr. Wu	5417765271		Pacific Source 544980517 - 544980517	 
+223395				BC 544150467 (06-07) - 544150467 (06-0	 
+223396				OHP 264220364 (08-09) - OHP	 
+223397				Providence Prefered #105122 (06-07) - 105122 (06-07)	 
+223398				Blue Cross Blue Shield - BCBS	 
+223399				Providence Preferred #45815 - 45815	 
+223400				OHP	 
+223401				Blue Cross 8050046000 - 8050046000	 
+223550				OEA - R73419882 (07-08) - R73419882 (07-0	 
+224379	Southern Oregon Dental			OHP	 
+222502				OEA Choice - CONFIRMED	 
+222503				Healthnet	 
+223554	Dr. R. Miller			McLane Company Inc GP185/300 - GP185/300	 
+223555				BCBS- ID#yvp921074551 GRP#839084000 - yvp921074551	 
+222505				OHP - CONFIRMED	 
+224380				Health Sav 4335383015801040 (08-09) - HEALTH INS	 
+222506			Y	 OHP AR12955H	 
+223557				OHP  CF70973E - CF70973E	 
+223558				OHP	 
+223559				Blue Cross Blue Shield	 
+224381			Y	OHP - OHP	 
+222508				HMO - HMO	 
+220412				OHP	 
+224383				OHP	 
+223560				purchased 08-20-09 - SCHOOL INS	 
+224386				Blue Cross	 
+222509	Julie Fagundes	5417746401		Regence Life and Health Co - CONFIRMED	 
+222510				DA96124C - CONFIRMED	 
+223562	S O Dental	5418260599		BlueCross/Blue Shield	 
+223563				OHP	 
+222511	So. Oregon Dental	5418260599		BC/BS	 
+222020			N	Regence BC/BS	 
+221677			N	OHP - OHP	 
+222022			N	Health Net	 
+220957				OMAP-EP15776C - CONFIRMED	 
+220958			N	Life Wise - CONFIRMED	 
+223566				AEDNA	 
+224389				OHP	 
+222512			N	OHP - CONFIRMED	 
+222513	Dr. Bowlin	5416641525		Lifewise - CONFIRMED	 
+223569				Blue Cross LWE897919027	 
+221626	Dr. Wu	5417765271	Y	BlueCross BV0949080940	 
+221627	Ung	5418580740			 
+220917	Denehey				 
+220918				OEBB - OEBB	 
+221629				OHP	 
+221630				Blue Cross	 
+224168				BC of Idaho BVO 949067426 - 949067426	 
+223007				Teamster Benefit Trust YVP921302763 - YVP921302763	 
+221995	So Ore Dental		Y	BCBS	 
+221997			Y	none	 
+222218				Indian Heritage Coverage	 
+221632			Y	OHP	 
+220349				Aetna	 
+221215				OHP	 
+224169				HMO	 
+224170	Affordable Dental			HMO	 
+222219				OEBB E 00130926 - OEBB	 
+221998	Modern Dental		Y	Providence Preferred	 
+224171				Pacific Source R12625426 - R12625426	 
+220921				Health Future Primary	 
+220922	Dr. Rollen	5417733756	Y	BC/BS - BC/BS	 
+224172				OHP HL86344A - HL86344A	 
+223944	Dr. Rollem		N		 
+221640				BC/BS of Rochester	 
+222279				Healthnet	 
+222280				School Ins - SCHOOL INS	 
+223357				OHP 562357418 (07-08) - 562357418 (07-0	 
+224216				Aetna W1526Y2818 - AETNA	 
+224217				Joint Labor Management Retail Trust	 
+224218				Care Oregon UT100TOC - UT100TOC	 
+222282				Providence Health Plan	 
+224221				Mountain Claims Mgmt.	 
+224222				Health Future 900006183 - 900006183	 
+224225				BCBS	 
+224226	none given				 
+222283				first choice 9-10 - FIRST CHOICE	 
+223364				first choice  9-10 - FIRST CHOICE	 
+222284				Regence HMO 80669900 - 80669900	 
+222286				97435647570681 - UNITED HEALTH	 
+222287				OEBB E0006622 - OEBB	 
+223365				MYERS-STEVENS XXX-XX-1413 (08-09) - SCHOOL INS	 
+223402				ODS 10006622 (08-09) - HEALTH INS	 
+223403				BC/BS #YVP920625775 - YVP920625775	 
+223404				School (2008-09) - 2008-09	 
+223405				QVI 100132 (08-09) - HEALTH INS	 
+223407				school ins 09-30-09 - SCHOOL INS	 
+223408				Blue Cross YVP921269323 (07-08) - YVP921269323 (0	 
+223412				yes	 
+224248				Oregon Health Plan	 
+223413				BC Teamster #	 
+222307	Pearson	5417733422		BCBS	 
+223414				Aetna 701143-OR-00014 - 701143-OR-00014	 
+223415				HERE Health Trust 1197637 (07-08) - 1197637 (07-08)	 
+222308				Providence Preferred 542824511 - PROVIDENCE PREF	 
+224249				OHP	 
+224250				Select Benefits - PACIFIC SOURCE	 
+222309	Davenport			OHP - OHP	 
+223420	Luke Murphy	5418782115		Pacific Source 4290296 (07-08) - 200108007	 
+224251				OHP	 
+223421				OHP	 
+222310	Mall Dentist			bcbs - BCBS	 
+222311				bluecross uhl850751936 - BCBS	 
+223422				Select Benefits 1100 - 1100	 
+223423				Lifewise # F442402 - F442402	 
+221229				OHP	 
+223424				Pacific Source 541741267 (08-09) - HEALTH INS	 
+223425				Assurance Health #58560988 - 58560988	 
+223426				Pacific Source R12536223 - R12536223 (07-0	 
+223427				Pacific Source #R12536223 - #R12536223	 
+224252				Blue Cross  003320650 - 3320650	 
+224253				OHP - OHP	 
+223433				myers/toohey 08/24/2009 - SCHOOL INS	 
+224254				BCBS ABL849249693 - ABL849249693	 
+224255				RBCBO ZVE 920281534 - ZVE 920281534	 
+222315				Blue Cross Blue Shield KROAN0389719 - KROAN0389719	 
+224256				Providence pref. TPC 2501 - TPC 2501	 
+223439				combined	 
+223440				BC/BS	 
+220367				OHP - CN16127C - HEALTH INS	 
+224258				Blue Cross/Blue Shield	 
+223443				Pacific Source 60013233 - 60013233	 
+223570				ohp - OHP	 
+223573				OHP	 
+221234				Health Net - YES	 
+221235				Blue Cross/Blue Shield - BCBS	 
+221236	Dr Luke Murphy	5418782115			 
+223956	Wu	5417765271		ohp - OHP	 
+221237				Asante Health Future - YES	 
+221238	Advantage			champva - CHAMPVA	 
+221239				 Providence Health Plan - PROVIDENCE	 
+221240				Providence Preferred	 
+223576	Dr. Murphy	5418782115		OEBB-ODS - 569715290 (06-0	 
+221241				Cigna - YES	 
+223957				HMO - CONFIRMED	 
+220926				OHP	 
+221641	Dr. Ortiz	5417732625		Tricore Prime Remote	 
+221216				OHP	 
+223012				Health Future  #900011968 - 900011968	 
+223013				Blue Cross YVP921269323 - YVP921269323	 
+223014	Dr Wu	5417765271		ODS 10006622  (08-09) - HEALTH INS	 
+224173				OHP - OHP	 
+222220				Select Benefits	 
+222001			Y	DHS	 
+224176	Affordable Dental	5418580740		OHP	 
+224177	Affordable Dental			OHP/Migrant Ed 543454064	 
+220930	Boldt	5417722756			 
+223946			N	Providence Health Plan - PROVIDENCE HLTH	 
+221642	Clinica del Valle				 
+222223	Dr. Hayden	5417745174			 
+222224				Providence Preferred 800022 - 800022	 
+221897	Steven Frimkiss		N	Pacific Source & OHP	 
+221898	Willamette Dental	8004618994	Y	OHP	 
+221899			N	OHP	 
+221463	Willamette Dental		N	Regence Blue Cross Blue Shield	 
+221900			Y	OHP	 
+220702	Workinger			 - CONFIRMED	 
+222163	LaClinica CPt.			 - CONFIRMED	 
+221464	Alex		N	Regence Blue Cross  4Vp920434913 - 4Vp920434913	 
+221902	Advantage Dental	5417725174	N	Health Net	 
+222863	Willamette Dental	8004618994		Lifewise ZNX60031882805 - ZNX60031882805	 
+221466	Dr. King	5418574453		Regence YVB920582118 - YVB920582118	 
+222164	Willamette Dental	5414618994		Lifewise ZNX600318828 - ZNX600318828	 
+221903			Y	OHP	 
+224111				Blue Cross and Blue Shield	 
+220705				Cigna	 
+221468				OHP	 
+222864				Myers-Stevens & Toohey & Co Inc	 
+221906	Dr. Alex		Y		 
+221469			Y	Pacific Source - 200045787	 
+220706	Houghton			Providence Perferred	 
+221470	SMile Keepers		N		 
+221907			Y	OHP	 
+223850	Frimkess			Blue Cross	 
+222167				United Health Care - COMFIRMED	 
+220712				BC/BS	 
+224113				OHP - OHP	 
+224261				OHP	 
+222316	modern dental	5417766996		BC/BS	 
+224262				Providence Preferred	 
+224265				id # EN18956 - CASE INS	 
+224266				OHP	 
+224267				AFLAC	 
+224268				BCBS	 
+224269	La Clinica				 
+224270			N	OHP	 
+224272	Dr. Mitchell	5417733959		BC/BS R58812891 - ODS E100140040	 
+222321				Blue Cross/Blue Shield	 
+224273	Clinica de Ville	5415356239			 
+224274				 Health Trust F19 - OHP	 
+224276			Y	Providence Pref 160102612/PCI1600 - 160102612/PCI16	 
+222323	Borg			Cigna - CIGNA	 
+222324				Oregon Health Plan - CONFIRMED	 
+224282				ODS - E00130913	 
+224283				OHP - OHP	 
+224284	Preventive Dental		Y	Cigna 541741562 - 541741562	 
+222327	Dr Catt	5417721084		Blue Cross/Blue Shield - CONFIRMED	 
+224286			Y	Blue Cross Blue Shield - LWE897974075	 
+224288				Providence Preferred - 250101650	 
+223446				Oregon Medical Plan	 
+224290			Y	Aetna - 815060-25-011	 
+224291				BCBS	 
+220368				Oregon Health Plan - OHP	 
+224292	Modern Dental	5417766996		BCBS - BCBS	 
+222329	East Main Dental	5417733422		BC/BS - CONFIRMED	 
+222330				Select Benefit - CONFIRMED	 
+222332	Dr. Casta	5415356289		OEA Choice - CONFIRMED	 
+222335				umr 128959679 - UMR	 
+222336				OEA Choice 455-41-5353 - 455-41-5353	 
+222337				Assoc Admin 570553297 - 570553297	 
+222338				ohs ch4849 - OHS	 
+222339	Wright	5414764511		ohp - YES	 
+224293				OHP - MID ROGUE	 
+222342				BC/BS  009601 - BCBS	 
+224129	Non given			BCBS - REGENCE	 
+222921				United Health Care #834320519 - 834320519	 
+222923				OHP	 
+221091	Affordable Dental		N	Myer Stevens & Toohey - YES	 
+221208				Myers, Stevens & Toohey - YES	 
+221092	Afforfable Dental		N		 
+224131				Regence BPB949080831 - BPB949080831	 
+222925				Regence #BPB949080831 - BPB949080831	 
+221932	Anne Denhey  no phone#		N	OHP	 
+223871				Tricare Prime	 
+221516	Dr. Ortiz	5417732625		OHP	 
+223872			N	Cigna U4217325503 - CIGNA	 
+221518			N	DMAP Medical Care - FY500T6A	 
+222927				BC/BS #173084M041 - 173084M041	 
+221519			N	OHP	 
+222179	Affordable Dental	5418580740		 - CONFIRMED	 
+222929	Larsen Dental	5417743928		Regence YVB921002807 (07-08) - YVB921002807 (0	 
+222930				OEA OFBA03 (07-08) - OFBA03 (07-08)	 
+224133				ohp - OHP	 
+221521	Fremkiss		Y	OHP	 
+221935			Y	OHP	 
+221209				Rogue Mid - YES	 
+222184				Pacific Source - CONFIRMED	 
+223875	West	5417701176		United Health Care - CONFIRMED	 
+222185				Providence	 
+222932				OEA Trust 541-13-8348/OFBA02 - 541-13-8348/OFB	 
+224135	Bigelow Pastrell	5414764199		Cigna UZ042516104 - UZ042516104	 
+222933	Bigelow Pastrell	5414764199		Cigna #U2042516103 - U2042516103	 
+224136				BCBS YVA 080041006 - BLUECROSS	 
+221095			N	OHP - YES	 
+220341				OHP - YES	 
+222009			Y	BCBS	 
+220936	N/A		N	 - CONFIRMED	 
+221147	Dr. Catt				 
+224183			Y	OHP Plus - DD47348C	 
+222011			Y	OHP	 
+221218			N	OHP - OHP	 
+221649	Willamette Dental		Y	OHP	 
+224184			Y	OHP?	 
+220939				Blue Cross/Blue Shield	 
+222225				Providence Health Plan - PROVIDENCE	 
+223024				United Hlth 916042632  191111 (08-09) - HEALTH INS	 
+224186				ohp - OHP	 
+221654	Youngman	8884680022			 
+221655				OHP	 
+222013			N	Providence Preferred - 10069460502	 
+221656				OHP	 
+221657				Health Net	 
+221658				Health Net	 
+224187			N	Blue Cross Blue Shield - YVA080049358	 
+223025				United Health  Care #19115 - #19115	 
+221148			N	Blue Cross - YES	 
+223028				Tricare #261399257 - 261399257	 
+221220	Hayden Family			OHP - YES	 
+223952	Dr. Rothfus	5416651112	N		 
+222229				Mega Life & Health 9054110856 - CONFIRMED	 
+223030				BC/BS  #YVP921317220 - YVP921317220	 
+222018			Y	OHP	 
+223032				none given	 
+223033	Dr. Frimkess	5417733327		Providence Preferred 3250101623 - 3250101623	 
+223034	Dr King Family Dental	5417721215		 - OEBB	 
+223037				myers & Stevens xxx-xx-3493 (07-08) - -3493 (07-08)	 
+223038				Pacific Source R12511598 - R12511598	 
+225777			N	BCBS yvb920410425 (08-09) - HEALTH INS	 
+220715	Pamela Ortiz				 
+221471			N	OHP	 
+220716	Denehey	5412456648			 
+221472	Dr. Berg				 
+224114				Blue Cross Blue Shield	 
+220719	Tamara Abbott			BC	 
+220720	S.O Dental				 
+224115				Pepsico - PEPSICO	 
+220728	Anne Barry				 
+220729	Alex				 
+223853	Dr. Frimkess	5417733327			 
+220730				OHP	 
+223854				United Health Care - CONFIRMED	 
+223855				OHP	 
+221474	Zahra T. Shaw, D.D.S.	5414889260	N		 
+222868				Tricare  #556413388 - 556413388	 
+224117				OHP	 
+221909			Y	Blue Cross  CHR848198949 - CHR848198949	 
+222869				Blue Cross YVP921210827 - YVP921210827	 
+222168	Miller	5417733422		 - CONFIRMED	 
+222873				BCBS UBK02-214 (07-08) - UBK02-214 (07-0	 
+220746	Dr.Ortiz	5417732625			 
+222876				Lifewise 60032408503/GP1030590 - 60032408503/GP1	 
+222877	Dr. An	5417725755		Pacific Source #R12592098 - R12592098	 
+222880				Oregon Health Plan - ATNA	 
+221076			N	Pacific Source - YES	 
+222883				Tri West #497781239 - 497781239	 
+222344				PS 12687622 - PACIFIC SOURCE	 
+222346				OHC #1n14746 - OHC	 
+222347	Bruce Mitchell	5477733959		Assoc Admin - CONFIRMED	 
+222348				10070920203 - PROVIDENCE	 
+224295				Regence Blue Cross YVP617208549 - YVP617208549	 
+222350				Oregon Health Plan	 
+222351	Dr. Wu	5417765271		BluecrossBlueShield GTT089A21804 - BCBS	 
+222352	Dr Egidy	5417793993		bcbs yvp9206 - BCBS	 
+222355				BCBS - BCBS	 
+220370	Holten	5417734435		Asante 900012039-00 - ASANTE	 
+222356				Cigna Health Choice 4839420000 - CONFIRMED	 
+220371	Dr. Murphy	5418782115		OEA Choice - OEBB / ODS	 
+220372				Pacific Source GP AD61061 - AD61061	 
+220373				Blue Cross/Blue Shield	 
+220375				ohp - OHP	 
+220376				OHP  09-10 - OHP	 
+220377	Dr. Kathy Sprick	5416643335		Pacific Source 200012062 - ODS	 
+224296				OHP - OHP	 
+222360	Oas	5417733420		Regence - CONFIRMED	 
+224298				Care Oregon - CARE OREGON	 
+220380	Luke Murphy - Shady Cove			OEA Choice	 
+220381				OHP	 
+220382				chmpva - CHAMPVA	 
+224299				Blue Cross YVB921002793 - BCBS	 
+222364				10006622  oebb - OEBB	 
+221230				regence bcbs yvp920672066 (08-09) - HEALTH INS	 
+223449				HealthNet r04636221 - r04636221	 
+220385				Cigna 100808766 - CIGNA	 
+220386	Shishkin			OHp - SC MED CENTER	 
+222369	Judd Larson			BC/BS - CONFIRMED	 
+225086			N	Blue Cross  CJI6107N9140	 
+225090			N	OHP	 
+221525				Blue Cross	 
+221526				Blue Cross	 
+222187				OHP VK 700U6P - OHP	 
+220790	SO OR Dental	5418260600		Regence Blue Cross	 
+221211			N	Oregon Health Plan	 
+224138	LaClinica	5415356239			 
+221528				OHP - YES	 
+221096	OHP				 
+222937	Dr. Caff			aetna W152642811 - AETNA	 
+222938	Hayden Family Dentis			OHP	 
+222939				Champ VA	 
+222189				Blue Cross of Idaho 10019571 - 10019571	 
+223876				BC/BS	 
+222191	Dr. Childreth	5417728842		Aetna  W112393493-04 - W112393493-04	 
+221529	Dr. Ortiz			OHP	 
+221532	Randy Ruthfus	5418260599	Y	BCBS - BCBS	 
+224139	Randy Rothfus	5418260599		Medco 020242 ID#1174150 - 1174150	 
+222941				03/08/2010 - SCHOOL INS	 
+224141				HERE Health 12117306 - 12117306	 
+224144				Cigna U0524481503 - U0524481503	 
+222944				Medical	 
+221535	Thomas Capsey			Regence Blue Cross/Blue Shield of OR	 
+220797	Wooten	5417733422		Providence Health Plan	 
+222193				BC/BS - CONFIRMED	 
+220799				BC/BS	 
+220800				United Healthcare	 
+223039				Blue cross/ blue shield	 
+223040				Migrant Ed. SDAN00719754 (07-08) - SDAN00719754 (0	 
+223043				OHP  CDP22979D  (07-08) - CDP22979D  (07-	 
+223044	Richard Davenport	5417732163		No Insurance - 45125	 
+223046				School Insurance (07-08)	 
+223049				Providence Health 105122 (06-07) - 105122 (06-07)	 
+223050				W164668777 - AETNA	 
+223051				BC #838730000 - 838730000	 
+223052				BS/BC R58066048 - R58066048	 
+223055				Teamster Blue Cross  140000 - 140000	 
+223058				Providence Health10022264603 - HEALTH INS	 
+223059				bc bs - nfa426a15807-03	 
+223061				Regency BC/BS	 
+223062				bc bs yvb921076129 - yvb921076129	 
+223063				school ins need verify - SCHOOL INS	 
+223067				Timber Products 250101570 (07-08) - 250101570 (07-0	 
+223071	Dr Hampton			OHP CC2136 (08-09) - 2008-09	 
+223072	Dr. Hampton	5412825523		 - OHP	 
+223076				OEBB E00131078 (08-09) - HEALTH INS	 
+224191				myers&toohey 08-31-09 - SCHOOL INS	 
+223078				School Insurance (06-07)	 
+222884				Ore Health Net #543623672 - 543623672	 
+221916			Y	OHP	 
+220749	Dr. Fremkist				 
+222891				Blue Cross 541826742 (06-07) - 541826742 (06-0	 
+220750	White	5417799059			 
+222892	GAry May			OHP	 
+224118	none given				 
+221917			N	Blue Cross/Blue Shield	 
+221918			N	Blue Cross Blue Shield	 
+221477	Gentle Dental		N		 
+222894				Healthnet PPO #w3180A (07-08) - w3180A (07-08)	 
+222898				BC/BS #XQH252AD4263 - XQH252AD4263	 
+222899				Providence 1601-02612 (08-09) - 2008-09	 
+221478			N	Preferred Teamsters	 
+224121	Dr. Miller S.O. Dental	5418260599	Y	Health Future 900013148-03 - 900013148-03	 
+221479				Select Benifits	 
+221919			N	OHP	 
+221480			Y	OHP	 
+220755				OHP	 
+221483	Affordable Dentist		Y	Healthy Kids Connect - OHP	 
+224122				Greatwest 167772 - 167772	 
+221484	OR Health Plan				 
+221485			Y	OHP	 
+223860				BC/BS - CONFIRMED	 
+224123				OHP ch07229d - ch07229d	 
+222169				OHP - OHP	 
+220756	Shiltz	5414717062		 - OHP	 
+223861			N	BC/BS	 
+223862				BC/BS - BCBS	 
+221077	Capital Dental	8005856800	N		 
+224124	Dr Frimkess	5417733327			 
+222901				OEBB E00177729 (08-09) - OEBB	 
+222170				Regence BC 541826742 - CONFIRMED	 
+222902				bcbs R58444412 - R58444412	 
+222903				Select Benefits 1100 - PACIFIC SOURCE	 
+221922	Igor Shizhken		Y	OHP	 
+224301				Mld Rogue Health Plan VY500v3k - MIDROGUE HEALTH	 
+222370				Healthnet	 
+224302	Willamette			OHP	 
+223451				Blue Cross YVB920353464 (06-07) - YVB920353464 (0	 
+222371	Dr. Wu			Pacific Source - PACIFIC SOURCE	 
+223452	SO Dental	5416651112		No Insurance	 
+223453				school 08-09 - SCHOOL INS	 
+222372	Wess			BC/BS - CONFIRMED	 
+222373				bcbs 841693008 - BLUECROSS BS	 
+223454				OHP Care Oregon VW500 K3R (07-08) - VW500 K3R (07-0	 
+224304				OHP	 
+222375				BCBS 1739DC - BLUECROSS	 
+224306	Affordable Dental			OHP - OHP	 
+224307		8004607644		OHP	 
+224308				Providence Preferred	 
+224309				Regency RPP547310441 - HEALTH INS	 
+224310				Aetna 444041157 - 444041157	 
+224311				Health Net 081964 - 81964	 
+224312				purchased 08/20/11 - SCHOOL INS	 
+224313				purchased 8/20/11 - SCHOOL INS	 
+222376				Providence Health Plan - PROVIDENCE	 
+224314				OHP bx95383D - OHP	 
+222379				OHP CG 97560D - CONFIRMED	 
+222382	Hayden Dental	5417725174			 
+222383	Tyerman	5416642210		Pacific Source - CONFIRMED	 
+224316	Willamette	8004607644		OHP - OHP	 
+224317	La Clinica	5415123900	N	Care Oregon	 
+223461				Blue Cross YVP920426379 (07-08) - YVP920426379 (0	 
+223463	SO Dental	5418260599		BC/BS 553961536 - 553961536	 
+224319				OHP - OHP	 
+223464	none			 - BCBS YVB9201305	 
+224320				OHP	 
+224321				care oregon CE 957906 - OHP	 
+223466				Schmidbauer Lumber 57025 (05-06) - 57025 (05-06)	 
+223467				BC/BS #	 
+223468	Ann Barry			regence blue cross #YVP920611657 - YVP920611657	 
+224146	Affordable Dental	5418580740	Y	OHP - CZ13795B	 
+221536			Y	Bue Cross	 
+221537			Y	Blue Cross Blue Shield	 
+221097				OHP	 
+221940	Advantage Dental		N		 
+220801			N	OHP	 
+222946				meyers stevens/11-10-2008 - SCHOOL INS	 
+220342				BCBS - BCBS	 
+220343				BCBS - BCBS	 
+224148	LaClinica			OHP	 
+222949				Blue Cross MDQXZ946440 - BLUECROSS BS	 
+222950				BC 152537M004 (07-08) - 152537M004 (07-	 
+221104	Dr. Ortiz	5417732625	N	 - OHP	 
+222953				Regence #BPB949073415 (07-08) - BPB949073415 (0	 
+221108	Dr. King	5417721215	N		 
+221109	So Or Dental	5418260599		 - TRICARE	 
+221539			Y	OHP NP800U4N	 
+220806			N	OHP	 
+222955				School Insurance (07-08)	 
+221113	Dr. Alex		N		 
+221946	Grin 4Kids	5417732625	Y	OHP	 
+221952			Y	OHP	 
+221119	Advantage		N		 
+221956			Y	OHP	 
+221957	Dr. Barry	5417792634	Y	BCBS	 
+220808	Pearson			 - ODS	 
+220810	EMDC	5417733422		Pacific Source Health	 
+220811				BC/BS	 
+220813	Advantage Dental	8884680022			 
+223082	Modern Dental Care	5417766996		Aetna W081846575-02 - W081846575-02	 
+223085	none given			Aetna #W0818 46575.04 - W0818 46575.04	 
+223086				blue cross YVB920408771 - 10D71991202	 
+223098				ace america 1263683 - ACE AMERICA	 
+223100	Shady Cove Dentistry	5418782115		YVZ 949424176 - RBCBS	 
+223102				Assuant 58670335 (07-08) - 58670335 (07-08	 
+223108				Providence Preferred 573199434 (07-08) - 573199434 (07-0	 
+223117				Pacific Source V1549622 (07-08) - V1549622 (07-08	 
+223118				bcbs - BCBS	 
+223126				BCBS	 
+223133				OEA OFBE03 (07-08) - OFBE03 (07-08)	 
+223134				Prudential Insurance/99000 - 99000	 
+223138				Mega Life 9053343292 (06-07)	 
+223139	Modern Dental	5417766996		Atena 815060-25-010 - 10075014	 
+223140				Mega Life 9543343292 (05-06) - 9543343292 (05-	 
+223143				Oregon Health Plan BY51855F - BY51855F	 
+223147	John Houghton	5417795111		Providence Health Plan #TPC-2501 - TPC-2501	 
+223152				OHP  CH47514B - CH47514B	 
+223154				Pacific Source	 
+223156				Regence BPB949014562 - BPB949014562	 
+223162	Dr Wooten			ODS N46445861(08-09) - PACIFIC SOURCE	 
+223165				BC/BS R12523825 (07-08) - R12523825 (07-0	 
+223166				Pacific Source #R12534960 (08-09) - HEALTH INS	 
+223169				BCBS fwy846148524 (08-09) - HEALTH INS	 
+223173	none given				 
+223174	Haddad	5418262525			 
+223175	Luke Murphy			Blue Cross ZLP990987117 (08-09) - HEALTH INS	 
+223176				BC YVB92052609 (06-07) - YVB92052609 (06	 
+223177				Timber Products	 
+223178				Blue Cross R59072675 (07-08) - R59072675 (07-0	 
+223179				OHP CG05811D - CG05811D	 
+226206	Dr. Alex		N		 
+221923			N	OHP	 
+222904				The Mail Handlers Benefit Plan #7500322 - 7500322	 
+224125				OHP	 
+221488	Dr. Schultz		N	Blue Cross Blue Shield	 
+222905	Willamette Dental	8004618994		Heatlh Net - 8409420	 
+222906				OHP # jk900t0s - jk900t0s	 
+223863			N	OHP - YES	 
+222171	Hayden			Medicaid	 
+222907				OHP HL600T4Y (07-08) - HL600T4Y (07-08	 
+221925	Dr Pamela Ortiz	5417732625	N	Cigna V4030967304	 
+222910				LifeWise #1030659 (07-08) - 1030659 (07-08)	 
+221926	Dr. Jaun	5418580740	N		 
+223867				Asante	 
+221207				OHP - OHP	 
+221494				OHP	 
+221495			N	OHP - FH300P9G	 
+221496	ADC Dental		Y	Cigna	 
+222173				United Health Care 829869503/706255 - 829869503/70625	 
+221083			N	OHP - YES	 
+220339				Cigna - CONFIRMED	 
+220767				Regence BC/BS	 
+222175				Mountain Claims Managment	 
+221499			Y	OHP	 
+223868				Lifewise	 
+221086	SC Dentistry-Dr Luke Murphy				 
+221500			Y	OMHP - YN000P6T	 
+221501			Y	United Health Care	 
+222389	Dr. Abbott			Great West 571-63-6080 - 571-63-6080	 
+223472				Asante 900014791 (06-07) - 900014791 (06-0	 
+223474				OHP (07-08)	 
+224325	Modern Dental	5417766669		Pacific Source/OHP	 
+224326				OHP CK23880D - HEALTH INS	 
+222391	Ortiz			ohp - OHP	 
+223477				OHP CD79524B (07-08) - CD79524B (07-08	 
+223478				OHP  AR12955G - AR12955G	 
+222392				BC/BS - CONFIRMED	 
+222393				BC/BS - CONFIRMED	 
+223479				Regence 838543523 - 2008-09	 
+223480				Harrison Trust Providence PPO 4800/3690 - 4800/3690	 
+222394				NALC 3394 - CONFIRMED	 
+222395				BCBS R59187750 - R59187750	 
+222396				NONE	 
+223483				BCBS UNR3944A69423 - UNR3944A69423	 
+220391				OHP CF00855E - OHP	 
+224327			Y	OHP - LO900K1N	 
+222398	Luke Murphy	5418782115		OHP - CONFIRMED	 
+222399	La Clinica		N	OHP	 
+223486	So Oregon Dental	5418260599		BCBS YVP543881599 - LSB638151309283	 
+224328				Kaiser Permante	 
+224329				OHP	 
+224330			N	OHP	 
+222400				BC/BS UBK51SA - UBK51SA	 
+222401				Blue Cross	 
+222403				Regence Blue Cross - CONFIRMED	 
+224332				OHP	 
+222404	Dr. Frinkess	5417733327		Aetna Life - CONFIRMED	 
+222405				OEBB - OEBB	 
+222406				Aetna  701143-010-00004 - CONFIRMED	 
+223491				Tooley & Stevens	 
+221231				Blue Cross/Blue Shield	 
+224334			Y	Regence Blue Cross Blue Shield - LRT921277645	 
+224335				Asante Health Futures 900008776-05 - 900008776-05	 
+221541	Willamette Dental	8004618994		Regence Blue Cross	 
+221543	Hayden Family Dentistry			OHP	 
+221544	Dr. Rivzi			OHP - OHP	 
+221548	Pamela Ortiz	5417732625		 - OHP	 
+221550	Eugene Meyerding				 
+221552	Clinica del Valle	5415356239			 
+221553	Dr. Hampton	5412825523		Select Benefits - OHP	 
+221554				Care Oregon	 
+221556	Dr. Frimkiss	5417733327			 
+222957				BCBS 920615289 (07-08) - 920615289 (07-0	 
+221559	David Allen	5417798694		Blue Cross Blue Shield Teamsters	 
+221561	Dr. Frimkiss			Regence Blue Cross	 
+221562				Blue Cross	 
+221124	D. Kapp	5417743928	N	Regence Blue Cross - YES	 
+221564	Dr. Frimkiss			Select  Benefits	 
+221565				OHP	 
+221566				OMAP	 
+221568	Willamette			OHP	 
+221573				OHP	 
+221575				Select Benefit	 
+221578	Jamie White	5415354241			 
+220819	Oas	5417333422	N	 - OHP	 
+223884	Willamette	8004618994		Regence	 
+224150	Affordable Dental	5418580740	N	ODS - ODS	 
+223885	Dr. Pearson	5417733422			 
+223887	Dr. Michael Goode				 
+223888	Dr. Alex	5417798923		 - OHP	 
+222196				BCBS WMW00608084W - BLUECROSS BS	 
+223893	Dr. Jung				 
+223895	Dr. Rothfus	5418587994			 
+222230				KMSB Gr.#7105000 Member #1 - 7105000	 
+223180				Sabroso Company  542-27-6086 - 542-27-6086	 
+223181				OHP BQ86158D - BQ86158D	 
+223182				OMAP CG74171D - CG74171D	 
+223183	Affordable  Dentist				 
+223184				Blue Cross LRT921277645 (07-08) - LRT921277645 (0	 
+223187				A&I Benefits (08-09) - HEALTH INS	 
+223188	SOD			Select Benefit   #625 - 625	 
+223189				Great West  PO # 167772 - 167772	 
+223190				Asante HealthFuture  PO#900009874-04 - 900009874-04	 
+223192				Pacific Source 540901347 (05-06) - 540901347 (05-0	 
+223193				BC YVB920205482 (07-08)	 
+223194				HMO	 
+223195				BCBS Teamsters 543765810 - 543765810	 
+223197	ep dental	5418262525		Providence Health 10036426903 - PROVIDENCE	 
+223199				Aetna 568496720 - 568496720	 
+223204				OHP CG97560C - CG97560C	 
+223209				Lifewise 2001409 - 2001409	 
+222231				ODS	 
+220432	Grins 4 Kids	5417732625		OHP  VE 800S2W - VE 800S2W	 
+220433				Lifewize  ZNM 600305888 - ZNM 600305888	 
+220434	Grins 4 Kids	5417732625		OHP VE80052V - VE80052V	 
+220435	Oldroyd			CCN Healthcare Mgmt. admin 4133547499174 - CONFIRMED	 
+220436	Dr Wooten	5417733422		Regence Blue Cross/Blue Shield - 60009690	 
+220437	Bruce Mitchell			BBBS  FWY848420942 - FWY848420942	 
+220438			N	Preferrred Care - 574324557	 
+220439	Steven Frimkess	5417733327		Preferred Care 574324557 - 574324557	 
+220440	Dr. Caspey		N	Harrison Elecrical Trust	 
+220441				Harrison Electrical Workers Trust - CONFIRMED	 
+220442				OHP	 
+220443				Lifewise grp#1027576  id# 600296742 - id# 600296742	 
+220770	Willamette Dental		N	OHP	 
+221503				OHP	 
+220446				OHP	 
+221506				Blue Cross Blue Shield	 
+221507			N	OHP	 
+220771	Willamette	8004618994			 
+220773	Hayden	5417725174			 
+221508				OMAP	 
+221509				OHP	 
+221089			N	BC BS REGENCE - YES	 
+221510				Regence Blue Cross Blue Shield	 
+224338			Y	BlueCross of Idaho - BC IDAHO	 
+223213				BC/BS VVB544689352 - VVB544689352	 
+223216				School Insurance (06-07)	 
+223217				Atena 444022125 - AETNA	 
+224192				OHP AV11669A - AV11669A	 
+223218				Care Source Group 29017-3 - 29017-3	 
+223220				Regence BPB949078487 10-11 - BPB949078487 (0	 
+223221				bluecross blue shield - BLUECROSS BS	 
+223222				School Insurance (07-08) - SCHOOL INS	 
+223223				United Healthcare  570553297 - 570553297	 
+223224				Asante Health Future 559-69-7332 - 559-69-7332	 
+223226				BCBS 803922000 - 803922000	 
+223227				Pacific Source 112675375 (07-08) - 112675375 (07-0	 
+223229				Aetna 0006718 (05-06) - 0006718 (05-06)	 
+223230				Aetna	 
+223232				GEHA 22318865 (06-07) - 22318865 (06-07	 
+223233				GEHA	 
+223234	Dr. Alex			BC/BS 003324107 (07-08) - 003324107 (07-0	 
+223235				American Postal Workers Union	 
+223236	Luke Murphy			BCBS #170060M029 - 170060M029	 
+223238				Ore Health Plan	 
+223239				United Health Care #974356475 grp 706781 - 974356475	 
+223240				Select Benefits  544780172  Grp 625 - 544780172  Grp	 
+223241				Select Benefits 544780172 grp 625 - 544780172 grp 6	 
+223242				Timber Products 250101369 (05-06) - 250101369 (05-0	 
+223243				National Health Ins Co 001256417 - 1256417	 
+223245				Providence 103994 (08-09) - HEALTH INS	 
+223246				assurance # not given - ASSURANT 09-10	 
+223247				coventry  801977529 - 801977529	 
+223248				Cigna - CIGNA 3173648	 
+223250				BCBS YVP921178415 (10-11) - YVP921178415 (0	 
+223251	Dr. Abbett	5417799059		ODS - HEALTH INS	 
+223252	DeBorg			Lifewise 1033484 (07-08) - 1033484 (07-08)	 
+223253				ohp cg42319c - OHP	 
+222407				ODS Health Plans ID#544111203 - CONFIRMED	 
+222409				Regency HMO 543-88-6396 - CONFIRMED	 
+222411	D. Ravassipour - Ortho			Blue Cross - CONFIRMED	 
+223493				Providence Preferred	 
+222412				BCBS of Or.  561911490 - CONFIRMED	 
+222413				bcbs 60018147 - REGENCE BCBS	 
+222415				Regence BC/BS	 
+224339				Aetna	 
+223498				OHP #BK53656D - BK53656D	 
+224340				OHP - PROVIDENCE	 
+224341				Caremark 004336 - 4336	 
+223499				Blue Cross YRP769M60379 (07-08) - YRP769M60379 (0	 
+220396				OMAP	 
+223502				OHP #	 
+223504				Health Net R04717206 (06-07) - R04717206 (06-0	 
+222417				BlueCrossBlueShield - BCBS	 
+224346	Dr. Tyerman	5416642210		BCBS CXJan1696162 - CXJan1696162	 
+223507				Blue Cross 540822213 (07-08) - 540822213 (07-0	 
+222418	none			 - OHP	 
+224349			Y	OHP  MI700J8V - MI700J8V	 
+224352				Regency Blue Cross	 
+222419				Asante Health Systems - CONFIRMED	 
+222422	Dr. Fagundes			Asante Health Future - CONFIRMED	 
+222423	Jeremy King	5417721215		OEA Choice OFBA00 - OFBA00	 
+222424				OHP - CONFIRMED	 
+222425	Workinger			GEHA 570718195 - 570718195	 
+222427				Pacific Source - CONFIRMED	 
+222428	Ritacca	5417794196		BC/BS - CONFIRMED	 
+226372			Y	Care OR	 
+222429	Dr.Price			Aetna - CONFIRMED	 
+222430				BC/BS - CONFIRMED	 
+222432	LaClinica (CP)			EBMS-866-304-1348 - SIGNA	 
+222434	Modern Dental			OEA Choice Trust - CONFIRMED	 
+222435	Steven Greespie	5417766996			 
+222436	Dr. Borg	5417733422		Bc/BS - CONFIRMED	 
+222437				Blue Cross Blue Shield - BLUECROSS	 
+222438				Blue Cross - CONFIRMED	 
+222439				BC/BS - CONFIRMED	 
+222440	Dr. Miller			United Health Care	 
+222441				BC/BS UBK51SA - CONFIRMED	 
+222442				Aetna - CONFIRMED	 
+222443				BC/BS - CONFIRMED	 
+222445	Affordable Dental			BS/BS PFCS544080263 - CONFIRMED	 
+224353				Blue Cross  015101582 - 100666467002	 
+222446				Regence BCBS YYP20316015 - YVA920316015	 
+220955				ODS - ODS	 
+221662	Frimkess			Regence BC/BS	 
+221581				OHP	 
+220823	Alex				 
+221966			Y	OHP	 
+221967	Dr Steven Frimkess	5417733327	Y	Regence	 
+223900	Dr. Younger				 
+223905	Dr. Frimkes	5417733327			 
+222197				Signa - CONFIRMED	 
+223910	Anne Denehy			OHP	 
+222198				cigna - CIGNA	 
+223255				HMO	 
+221663				Blue Cross - CONFIRMED	 
+221664				Care Oregon - CARE OREGON	 
+223953	Dr. Pearson	5417733422		Health Care Future - CONFIRMED	 
+220956	Borg	5417733422		BCBS - CONFIRMED	 
+221666			Y	Myers, Stevens & Toohey & Co. - CONFIRMED	 
+221667			Y	OHP - RM500A6K	 
+202679			N	OHP	 
+220828	Southern Oregon Dental	5419739204			 
+222199	Dr. Miller			Healthnet R05308696 - R05308696	 
+222200	Dr. Murphy	5418782115			 
+222959				OEA Choice	 
+222201				AETNA 658726-10-001 - CONFIRMED	 
+223257				Cigna 405229990 04 - 405229990 04	 
+223261				Pacific Source R12592925 (07-08)) - R12592925 (07-0	 
+223262				BC/BS YVB920292660 (07-08) - YVB920292660 (0	 
+223263				Regence Life  007928252 (06-07) - 007928252 (06-0	 
+223264				Great West 571-63-6080 - 571-63-6080 (07	 
+223265				Blue Cross - 920656549	 
+223268				GEHA 22379849 (06-07) - 22379849 (06-07	 
+223269				Cigna 00856913203  3209208 - CIGNA/BCBS	 
+223270	Dr. Houghton			Regence BC/BS #	 
+223272				10071920202 - PROVIDENCE	 
+223274				Pacific source	 
+223280				Trusted Plans #415250 - 415250	 
+223282				pac source - PACIFIC SOURCE	 
+223283	Williamette Dental			Blue Cross/Blue Shield	 
+223285				BCBS #840063000  YVP949341420 - BCBS	 
+223287				OHP Plus  CX32252B - CX32252B	 
+224354	Dr. Frimkess	5417733327	Y	BCBS MDQXZ8749870 - MDQXZ8749870	 
+221673			Y	OHP - VA78437	 
+222449	Pearson				 
+222450				OEA Choice - CONFIRMED	 
+222451				ODS	 
+221674			Y	OHP - UH800H4U	 
+224355			Y	Aetna W1645-32172 - OHP CR34049D	 
+222452	Youngers	5417725174		OHP - YES	 
+224357				OHP	 
+222453				MVP healthcare - CONFIRMED	 
+221675	Hayden		Y	OHP - PT400A1D	 
+222454				Blue Cross ZVP920354530 - REGENCE BSBC	 
+223512	Bruce Mitchell			BCBSO YVP921311988 - R56745886	 
+224359				OHP - OHP	 
+224360	Mitchell	5417733959		 BCBSO YVP921311988 - R56745886	 
+224361	A. Oas	5417733422	Y	Blue Cross - BV0949062762	 
+222456	Ventana Wellness			 - CONFIRMED	 
+223513				W1098-34568 - BLUECROSS BS	 
+224152	Willamette Dental		Y	OHP CL19258E - CL19258E	 
+221127	OHP-Plus Care Oregon		N		 
+222202	Klamath Open Door	5418578110		BCBS YVB949355579 - YVB949355579	 
+221128	OHP Plus - Care Oregon		N	 - PACIFIC SOURCE	 
+222204				BCBS & Tricare - CONFIRMED	 
+221969			Y	Omap	 
+220344				Blue Cross Blue Shield - YES	 
+221213			N	ODS E91027162 - YES	 
+220345				Asante Health Plan - ASANTE HEALTH	 
+220347				none	 
+221586				OHP	 
+220832	Willamette Dental	8004618994			 
+220836	Egidy			 - CONFIRMED	 
+220841	Sprick			Regence BC/BS	 
+221587				Pacific Source	 
+220849	Willamette Dental			Pacific Source	 
+221590	Devin Jenkins				 
+221132	Advantage Dental	8884680022	N		 
+220854	Hayden Family				 
+221972			Y	Premium Health Plan	 
+223288				AETNA 72468201000022 - 72468201000022	 
+223289				Blue Cross/Blue Shield YUP 920602801 - YUP 920602801	 
+223290				OMAP BE41282E (07-08) - BE41282E (07-08	 
+223295				Regence Blue Cross #561982098 - 561982098	 
+223297				BC BS YVP921298699 - YVP921298699	 
+223298	S.O. Dental	5418260599		BC/BS YVP920404249 (07-08) - YVP920404249 (0	 
+223299				Providence Health Plan #10041103002 Grp# 103994 - 10041103002	 
+223300				BS/BC YVP920658815 - YVP920658815	 
+223301				Aetna W032092795 (08-09) - 2008-09	 
+225047	Dr. Douglas Smith	5417731414	N		 
+200960	Hong	5416651112	Y	Providence Prefered 08/19/10 - PROVIDENCE PREF	 
+222205				Blue Cross 13312A - 13312A	 
+220857				OHP	 
+223302				Pacific Source R125 (06-07) - R125 (06-07)	 
+223306				Health Net #R01506043 - R01506043	 
+223307	modern dental	5417766996		Lifewise	 
+223308				PACIFIC SOURCE - R12534960- - R12534960-	 
+223309				5	 
+223311				OEBB E00130905 (08-09) - HEALTH INS	 
+223314				Asante Health Future 900008776 - 900008776	 
+223315	SO Dental			AETNA W152642932 (08-09) - HEALTH INS	 
+223317			N	BlueCross Blue Shield - BLUECROSS BLUE	 
+223318				OEA #H21100908 - H21100908	 
+223320				Fortis/Assurant #58325271 - 58325271	 
+223321				Pacific Source #R12523825 - R12523825	 
+223322	David Alex	5417798923		Health Net #RO1599644 - RO1599644	 
+223325				OHP	 
+223326	Leong	5417733703		Blue Cross 837967000 (07-08) - 837967000 (07-0	 
+223327				Blue Cross 543944298 9-10 - 543944298 9-10	 
+223328				OEA N5991184 - N5991184	 
+223329				Lifewise/PAC9046/540549900 - PAC9046/5405499	 
+223330				OHP	 
+223333	Dr Alex			Regence Life&Health Ins - PACIFIC SOURCE	 
+224193				myers/toohey 08/26/2009 - SCHOOL INS	 
+223339				BCBS  JC7911W0199 (07-08) - MVP A03032834	 
+222232	Tamara Abbett	5417799059		OMAP	 
+222234				Asante 9000436 (2008-09) - 2008-09	 
+222235				BC/BS	 
+222236				pacific source - PACIFIC SOURCE	 
+222238				BCBS yvp921322652 (08-09) - HEALTH INS	 
+222239				Oregon Health Plan BY51855F - BY51855F	 
+222240				Pacific Source - PACIFIC SOURCE	 
+223514				Regence YVP921097969 (07-08) - YVP921097969 (0	 
+222963				klamath tribal health - KLAMATH TRIBAL	 
+222206	Affordable Dental	5418580740		 - BLUE SHIELD	 
+220859	Kapp			BC/BS	 
+222971				DMAP Medicare-CV57801C (08-09) - MEDICARE	 
+221136	Willamette Dental	3004618994	N	 - OHP CM700M4P	 
+220862	Affordable Dental	5418580740			 
+221592				Blue Cross Blue Shield	 
+220863				OEBB	 
+223924	Dr. Reynolds	5417725174			 
+222241				BC/BS	 
+222242				ods n46445861 - PACIFIC SOURCE	 
+222245	Dr. Bruce Mitchell			Regence BlueCross	 
+222246				pac source 200054868 - PACIFC SOURCE	 
+222247	Modern Dental	5417766996		Pacific Source	 
+222248				BCBS 803922000 - 803922000	 
+222250				Cigna	 
+222252	Dr. Jenkins			PHP 10042753203 - HEALTH INS PHP	 
+222253			N	Providence Health	 
+222254	Modern Dental	5417766996		OHP 10# CI55770B - CI55770B	 
+222255				BCBS yvp1890003 (08-09) - HEALTH INS	 
+222256	Dr. James Catt	5417728846		midrouge 05800L6F - MIDROUGE	 
+220352				Blue Cross YVP920320609 - BLUE CROSS	 
+222259				Cigna 3174800  (09-10) - HEALTH INS	 
+222260				Regence BC yvp920587947 - REGENCE	 
+222263	Dr Gillespie	5417766996		Providence 10041103003 (08-09) - HEALTH INS	 
+222264	pearson	5417733422		National Health Ins - BLUE CROSS	 
+222265				IU900I6L - IU900I6L	 
+222267				Fortis	 
+222268				OHP	 
+222270				bcbs zve949413872 - BCBS	 
+222272				HMO B/C 570119274 - 570119274	 
+223340				Regence ZVE949413872 (08-09) - HEALTH INS	 
+222273				United Service Assoc 031336764 - 31336764	 
+224194				OHP	 
+223515				Regence YVP921097969 (08-09) - HEALTH INS	 
+223516	Eagle Point Dental				 
+222458				bluecross blueshield - BLUECROSS BS	 
+223517	layer			OEA Choice	 
+222461				BC/BS - CONFIRMED	 
+222462				Pacific Source - CONFIRMED	 
+222463				aetna - CONFIRMED	 
+221233	Eugene Bowlin	5416641525		ODS - ODS	 
+222464				LifeWise	 
+224363	Dr. Kittelson	5415123900		Aetna - AETNA	 
+222467				Select Benefit - CONFIRMED	 
+220402				Health Net - YES	 
+222470				Asante - CONFIRMED	 
+223519	none given				 
+222472				Regency BC/BS - CONFIRMED	 
+224195	Joseph Cochran	5414829442		Aetna US Healthcare 701143-610-00014 - 701143-610-0001	 
+224196				Health Net	 
+224197				ohp ts100l6y - OHP	 
+224198				purchased 09/14/2010 - SCHOOL INS	 
+224199				Jenny 3/31/93	 
+224203				oregon health  plan - HEALTH INS	 
+224204				Pacific Source - HEALTH INS	 
+223344				Blue Cross/Blue Shield	 
+224205				Aetnea 444011859 - HEALTH INS	 
+224206	Affordable Dental			OHP	 
+222448	Davenport			 - CONFIRMED	 
+207300	none given		N		 
+237466	Dr Valerie Ljungkvist-(PCP)SOP	5417894096	N		 
+221733	Dr Dehenney	5412456648	N		 
+224433	Shisken	5414717062	N		 
+226917	none		N	 - NO	 
+227626			N	ohp - CONFIRMED	 
+231470	Dr. Hayden		N		 
+237587	Jeremy King		N		 
+237583	Dr. Alex	5417798923	N		 
+237576	Zahra Shaw	5414889260	N		 
+237575			N	OHP	 
+237574	Pamela Ortiz	5417732625	N	 - CIGNA	 
+237609	Dr. Frimkiss	5417733327	N		 
+240056	Dr. M Chan	9163718913	N		 
+240066	Dr. Randy	5418260599	N	BCBS - BCBS	 
+237235			N	Oregon Health Care - YES	 
+237933	Bryce Mitchell	5417733959	N		 
+224385			Y	OHP - DD26987C	 
+222080				blue cross blue shield - BLUE CROSS	 
+222181				Lifewise 600324085 - 600324085	 
+230854	none give		N		 
+221959	Affordable Dnetal	5418580740	Y	OHP	 
+228392			Y	Western Benefits - 16816F04790	 
+226647	Dr. Ortiz	5417732625	N		 
+223652			N	assurant health - CONFIRMED	 
+228293			Y	Blue Cross Blue Shield - LWE896725398	 
+221332			N	OHP - CW600IAK	 
+221764			Y	OHP	 
+221808			N	OHP - CA50056N	 
+222032			Y	Care Oregon	 
+229735			Y	Myers, Stevens and Toohey - CONFIRMED	 
+224112				Pacific Source - G0016324	 
+224285			Y	Myers, Stevens and Toohey  08/19/2011 - CONFIRMED	 
+228401			Y	EBMS - 0000957	 
+230741	none given		N		 
+231389	none given		N		 
+221889	Jordan Schleffer	5418580740	Y	Myers Stevens Toohey	 
+237285	Grins For Kids		N		 
+237286	La Clinica		N		 
+236879	Willamette	8004618994	N		 
+236884	Costa	5416181300	Y	OHP	 
+222319				regence bluecross/blueshield - BCBS 921023984	 
+220718	Dr. Shultz				 
+223819	Dr. Leong	5417733703		BlueCross	 
+222301				BlueCross Blue Shield - BCBS	 
+232162	Alex		N		 
+230560			Y	OHP - OHP	 
+226775	Affordable Dental		N		 
+226797	Affordable Dental		N		 
+230657	Willamette		N		 
+232014	Curtis Tyerman	5416642210	N	 - TRICARE	 
+236703	EMDC	5417733422	N		 
+221439			Y	OHP	 
+231004	Willamette Dental	8004618994	N		 
+232101	none given		N		 
+222353				ODS - ODS	 
+235914	Dr. Cochran	5414829442	N		 
+223678			N	Lifewise - CONFIRMED	 
+223688			N	providence Health - PROVIDENCE HLTH	 
+223848			N	BC/BS - CONFIRMED	 
+221631	Dr. Ortiz				 
+239801	Dr Tamara Abbertt	5417799059	N		 
+230966	none given		N	OHP - OHP	 
+231763			N	OHP - CONFIRMED	 
+231990			N	OHP - OHP	 
+220869				Pinnacle Health Care - GROUP #0175	 
+235626			N	Tricare - YES	 
+235627			N	Tricare	 
+229035	Ortis		N		 
+229541	Frimkiss		N		 
+229637			Y	OHP - WP400A3M	 
+231998	Dr. Frimkis	5417733327	N		 
+220923	Dr. Rollen	5417733756		Federal Regence Blue Cross	 
+239194	Dr. Alex		N		 
+239857	Willamette Dental		N		 
+237709	Steven Frimkiss	5417733327	N		 
+237701	Dr. Alston	5417796401	N		 
+237712	Blair Tudor	5417796170	N	 - CIGNA	 
+211795	none given		N		 
+227433	Stephen Olydoyd	5417766960	N		 
+234538	Wu		N		 
+234539	Catt DMD PC	5417728846	N		 
+234536	Advantage Dental	8004618994	N		 
+234567	Southern Oregon	5418260599	N		 
+234575	Dennahy	5412456648	N		 
+234584	Alek		N		 
+234629	Willamette Dental		N		 
+234785	Mitchel	5417733959	N		 
+234791	Mitchell	5417733959	N		 
+233949	Alex	5417798923	N		 
+234807	Luke Murphy		N		 
+234827	Steve Miller	5417733422	N		 
+234837	Luke Murphy		N		 
+234851	Murphy		N		 
+234874	Affordable Dentistry		N		 
+220825			N	bluecross 170060m019 - BCBS	 
+231723	none given		N		 
+231725	none given		N		 
+231724	none given		N		 
+224460	none given		N		 
+231729	none given		N		 
+207298	none given		N		 
+231732	Davenport    no phone #given		N		 
+231808	none given		N		 
+224444	Affordable		N		 
+222195	Dr. Hampton	5412825523		OHP - CONFIRMED	 
+239091	Clinica del Valle		N		 
+240063	Randy	5418260599	N		 
+202466	Affordable Dental	5418580740	N	 - OHP	 
+221361	Dr. Dennehe	5412456648	Y	OHP	 
+229458			N	United Health - CONFIRMED	 
+221376	Dr. Alex		N	United Health & Care	 
+232468	Childerth    no phone given		N		 
+232472	none given		N		 
+236486	Victoria Ortiz	5417732625	N		 
+222958				BC/BS DHRAN0291495 - DHRAN0291495	 
+222911				Tri Care #556413388 09-10 - HEALTH INS	 
+223036	Advantage Dental	5417725174		OHP - OHP	 
+223503	Robert Stebbins	5417345225		MVP Health Ins - MVP HEALTH	 
+236655	Advantage Dental no phone?		N		 
+241999	Wagner	8004618994	N		 
+242000	None given		N		 
+242001	King	5418574453	N		 
+226844	Dr. Ray (Southern OR Dental)		N		 
+226884	David M. Alex	5417798923	N		 
+229068	Southern Oregon Dental		N	Regence Blue Cross - YES	 
+229132			N	Jon Moser - YES	 
+223490				Asante #900007328-02 (07-08) - 900007328-02 (0	 
+231208	none given		N		 
+231210	none given		N		 
+231212	none given		N		 
+228134	Luke Murphy	5418782117	N		 
+228158	Affordable		N		 
+230672	Williamette Dental		N		 
+238559	Pamela Ortiz	5417732625	N		 
+230642	Grins For Kids		N		 
+231859			N	OHP	 
+232060	none given		N		 
+224486	none given		N		 
+237997	Ortiz		N		 
+231098	none given		N		 
+231326	Monte Stevens	5416462870	N	 - BC/BS	 
+232455			N	OHP	 
+232452			N	OHP	 
+221844	Steven Frimkess DDS	5417733327	Y	OHP	 
+221840	Dr. Frimkiss	5417733327	Y	Regence	 
+209499			N	AFLAC - HEALTH INS	 
+224489	none given		N		 
+239189	Luke Murphy		N		 
+226173	Dr. P. Ortiz		N		 
+223482	none given		N		 
+222738	Jenkins	5417794344	N		 
+224490	Hampton  no phone # given		N		 
+230342	none given		N		 
+221055	Dr. Alex	5417798923	N	Pacific Source - YES	 
+221355	Willamette		N	 Care Oregon	 
+230347	Alex		N	Mid Rogue - YES	 
+234792	Gosal	5306732430	N		 
+237543	La Clinica	5415123900	N		 
+238279	Anne Dennehy		N		 
+225191	La Clinica	5416181300	N		 
+221285			N	Regency Blue Cross - BVO 94906-3277	 
+236258	Randy Wooton	5417733422	N		 
+236391	Wooton	5417733422	N		 
+236412	Dr. Kupp	5417743928	N		 
+236427	Advantage Dental	5417725174	N		 
+236440	Advantage Dental	5417725174	N		 
+238876			N	Aetna - AETNA	 
+230511	none given		N		 
+230517	Eagle Point Dental no phone#		N		 
+221951	Steven Frimkess	5417733327	N		 
+223496	none given			DSHS Coupon	 
+231969	Thomas Capsey  no phone #		N		 
+232044	Lair	5417725174	N	 - OHP	 
+222611				BC CNDXZ2182135 - CNDXZ2182135	 
+240114	Affordable		N		 
+240113	Randy	5418260599	N		 
+226832			N	Providence Preferred - PROVIDENCE	 
+226833			N	Harrison Medical Group - CONFIRMED	 
+226834	Advantage Dental	5417725174	N	OHP - OHP	 
+227481	Southern Oregon Dental		N	OEBB - OEBB	 
+227487	none		N	Regence BCBS - CONFIRMED	 
+227510	Randy Rothus		N	purchased 9-11-12 - MYERS-STEVENS	 
+227523	Dr Mitchell	5417733959	N	ODS E00230913 - ODS	 
+220320	Willamette Dentist		N	 - CONFIRMED	 
+227556	none		N	Aethna - CONFIRMED	 
+227580	Wallmanette D		N	ODS - CONFIRMED	 
+227581	Dr Cunya		N	Blue Cross - CONFIRMED	 
+227604	Dr Rollem		N	Aetna - CONFIRMED	 
+227672	H. Borg	5417733422	N	 - CONFIRMED	 
+227680			N	BCBS - CONFIRMED	 
+230972	Hampton	5412825523	N		 
+230974	E Smith		N		 
+221010			N	OHP - YES	 
+220400	Eagle Point Dental			ods - ODS	 
+220321				Regence & Providence Health - YES	 
+224045			Y	Regence Blue Cross Blue Shield - YVP949340241	 
+239116			Y	OHP - BZ89960E	 
+222969	Rothfus	5418260599	N	Regence 917004468 - 2008-09	 
+221624				BCBS of Oregon	 
+233590	Willamette Dental	8004618994	N	 - IHP	 
+222408				Aetna	 
+229411	Dr. Bolt	5417722756	N	Regence	 
+222358				Asante 541642332 - CONFIRMED	 
+221232			N	OMAP	 
+231654	none given		N	OHP - OHP	 
+237562	West Main Dental		N		 
+236682	Affordable Dentist		N		 
+238479			N	EBMS - EBMS	 
+221810	Steven A Frimkess	5417733327	N	bcbs	 
+230185	Kathy Sprick	5415416664	N		 
+230938	none given		N		 
+223647	Tyerman	5416642210	N	Boise Regence - CONFIRMED	 
+223023			N	Medicaid - MEDICAID	 
+239043	Anne Dennehy		N		 
+239214	Dr Childreth	5417708841	N		 
+239778	Tamara Abbett	5417799059	N		 
+220938	David Alex		N		 
+229243	David Alex		N		 
+223662	Gillespie	5417796996	N	Regence Blue Cross - BCBS	 
+227837	Advantage Dental		Y	OHP	 
+220398	Willamette Dental			Blue Cross - CONFIRMED	 
+221444	Dr. Meyerdeen	5417795654		United Health Care	 
+227477	Southern Oregon Dental	5418260599	N		 
+227670	Ortiz		N		 
+225493			N	OHP - YES	 
+230490	none local yet		N	OHP - OHP	 
+230491	Todd Holton	5417734435	N		 
+220838	Dr. Davenport		N	 - TRI CARE WEST	 
+220847	SO Dental	5418260599	N	Aetna Life	 
+220497	SO Dental	5418260599	N	Aetna Life - CONFIRMED	 
+233710	Luke Murphy		N		 
+234573	Curtis Tyerman	5416642210	N	Cigna - YES	 
+221879	La Clinica		N		 
+221386	Dr. Frimkiss		Y	Blue Cross Blue Shield	 
+221829	Hayden Dental	5417725174	N		 
+227408	Weaver		N		 
+227410	Dr. Frimkess		N		 
+227416	Dr. Joe Cochran	5414829442	N		 
+227436	Dr. Pierson-East Main Dental		N		 
+227468	Dr. Ortiz	5417732625	N		 
+227548	Affordable Dental	5418580740	N		 
+227610	Dr. Pearson	5417733422	N	 - OHP	 
+227646	Dr. Ortiz		N		 
+227659	Luke Murphy	5418782115	N	Blue Cross Blue Shield	 
+227720	Dr. Frimkess	5417733327	N		 
+227721	Pamela Ortiz	5417732625	N		 
+227723	Dr. Hayden	5417725174	N		 
+227726	Dr. Alex	5417798923	N	Aetna	 
+227731	Dr. Mitchell	5417790863	N	Blue Cross Blue Shield	 
+227738	Willamette Dental		N		 
+227746	Tamara Abbett	5417799059	N		 
+229244	Affordable Dental Care	5418580740	N	OHP	 
+222334				Providence Preferred - CONFIRMED	 
+226408	none given		N		 
+227817	none given		N		 
+227677	none given		N		 
+228937	none given		N	Kaiser 11846689 (08-09) - HEALTH INS	 
+231449	none given		N		 
+230163	K. Hampton	5412825523	N		 
+230948	Willamette Dental	5414618994	N	 - CONFIRMED	 
+239563			N	ohp - OHP	 
+221289			N	Aetna	 
+234630			N	Oregon Care - OREGON CARE	 
+235048	Willamette Dental		N		 
+235059	S.O. Dental	5418260599	N		 
+235077	S.O. Dental	5418260599	N		 
+226619	Affordable Dental	5418580740	N		 
+227623	Dr. Hayden	5417725174	N		 
+223774				Harrison Trust - HARRISON TRUST	 
+220817	Frimkiss	5417733327		Heath Future	 
+220831			N	Pacific Source	 
+220868	Cochran	5414829442			 
+220878	Affordable Dental	5418580740			 
+231889	none given		N		 
+237607	Acosta	5416181300	N		 
+238381	Hayden Fam Dentistry	5417725174	N		 
+227352	Dr. Kapp	5417743928	N	 - ODS	 
+227365	Dr. Hampton		N		 
+224280			N	ohp - OHP	 
+221964			N	ODS OHP - AF900U9D	 
+166968	Hayden Dental		N		 
+221659			N	Aetna - W1527 73168	 
+222994			N	OHP	 
+235280	Denehey		N		 
+221992	Dr Jordan Scheiffer	5418580740			 
+235028	Dr. ortiz	5417732625	N		 
+235399	La Clinica		N	 - OHP	 
+235279	Denehey		N		 
+226668	Pamela Ortiz	5417732625	N	 - OHP	 
+226685	Steven Frimkess	5417733327	N		 
+222961	Randy Wooten	5417733422	N	 - PACIFIC SOURCE	 
+202948	La Clinica WEst		Y		 
+223284				Pacific Source 593703439 (07-08) - 593703439 (07-0	 
+235525	Kip Hampton-Siskyou Dentist	5412825523	N		 
+235538	Dr. Hampton	5412825523	N	ohp - CONFIRMED	 
+230656	none given		N		 
+231052			N	OHP - PW00011C	 
+234590	Affordable Dental		N		 
+237126	Dr. Barsolou	5415356239	N		 
+239139	Wooten	5417733422	N		 
+232407	none given		N		 
+236140	Steven Frimkess, DDS	5417733327	N		 
+236145	Karuk Tribal Health		N		 
+226720	Willamette Dental	8004618994	N	OHP - OHP BL3400AF	 
+232131	Tudor		N	Regence Blue Cross - YVA920351581	 
+232163	Moffett		N		 
+235332	Dr. Pamela Ortiz		N		 
+236146	Dr. Rollem	5417733756	Y	Pacific Source	 
+236187			Y	OHP	 
+236188			Y	Cigna Healthcare	 
+227289	Southern Oregon Dental		N		 
+226252			N	Blue Cross YVP920458072 - BCBS	 
+226518	PAMELA ORTIZ	5417732625	N		 
+226519	DR. ABETT		N		 
+230506			Y	OHP - AH500W4C	 
+237730	Advantage Dental		N		 
+237731	Tamnara Abbett	5417799059	N		 
+237732	Dental del Valle	5415318435	N		 
+237733	La Clinica		N		 
+237734	La Clinica Del Valle	5415356239	N		 
+237735	La clinica del Valle	5415123163	N		 
+237738	Dr.Oas	5417733422	N		 
+224397				Aetna 81506-25-012 - AETNA	 
+229638	Dr. Costa	5415123900	N		 
+229860	Oldroyd		N		 
+228564	none given		N	colonial 4050689250 - COLONIAL	 
+227859	Kip Hampten	5412825523	N		 
+227142	none given		N	meyers/stephens - PROVIDENCE PPO	 
+227471	none given		N		 
+227516	none given		N		 
+227515	none given		N		 
+227830	Cunya  no phone # given		N		 
+230008	Affordable Dental	5418580740	N		 
+228908	none given		N		 
+227713	Alex    no phone #given		N		 
+227575	none given		N		 
+230425	none given		N		 
+237904	Ortiz	5416081016	N	 - BLUE CROSS	 
+226835	Modern Dental		N	 - ASANTE INSUR.	 
+221025	LacLinica  Dr Luke	5415356239	N	OHP - YES	 
+227612	Dr. Price	5417734073	N	 - MVP	 
+226791	Dr. Wooten		N	Blue Cross Blue Shield	 
+223601				CE 28098C - OHP	 
+222209	Dr Kip Hampton	5412825523		 - CONFIRMED	 
+222501	Bowlin	5416641525		ODs - ODS	 
+232025	Curtis Tyreman	5416642210	N	Tricare - 041-66-2837	 
+223976				OHP - CONFIRMED	 
+232335	Frimkiss	5417733327	N	OMAP - CONFIRMED	 
+222165	S.O. Dental	5418260599		BCBS YVB920157268 - YVB920157268	 
+222637	Dr. Luke Murphy	5418782115		ODS Plus Network - ODS	 
+221891	Hayden Family Dentistry	5417725174	N	OMAD  A5400LSF - A5400LSF	 
+221793	Dr King Family Dentistry		N	OEA Choice	 
+221771	Willamette		Y	OHP	 
+222251	Dr. Kip Hampton	5412825523		 - OHP+	 
+222368	Ritacca	5417794196		OEBB - OEEB	 
+235328	Dr. Alston	5417796401	N	APWU Cigna - APWU CIGNA	 
+235673	West	5417701176	N		 
+238429	LaClinica Del Valle	5416181300	N	OHP	 
+232390	Dr. John Lindstrom	5417734583	N		 
+221620	Willamete			OHP	 
+222988			N	PS G0016443 - PACIFIC SOURCE	 
+235964	Afordable Dental	5418580740	N	OHP - HS500X8L	 
+221717			Y	OHP Plus Care Oregon - AE700G6W	 
+221756			N	OHP Plus Care Oregon - SL600I7L	 
+232376	none given		N		 
+222890	none given		N		 
+232096	M Goode	5418300043	N		 
+220970			Y	OHP - OHP	 
+223589	Kip Hampton			Cigna 2465762 - 2465762	 
+235846	David Allen	5417798694	N		 
+221650			N	OHP	 
+221653	Smith/  RVMC			None	 
+221596	OR Health Plan				 
+221255				OHP	 
+221555	Hayden Family Dentistry				 
+221927			Y	DHS Medical Care Oregon - NU200I6O	 
+239639	none given		Y	Blue Cross Blue Shield	 
+223585				OHP #	 
+221244			N	ODS - YES	 
+221245				Great West - YES	 
+221151			N	Cigna - YES	 
+221246	Affordable Dental	5418580740		OHP - CONFIRMED	 
+221153			N	OHP - YES	 
+222515				OHP	 
+223578				United Health Care #	 
+224392			Y	Myers, Stevens, Toohey & Co. - SCHOOL INS	 
+223580				OHP	 
+223582				Providence 10050676603 - 10050676603	 
+223584	So Oregon Dental	5418260599		BCBS - LSB608151309283	 
+224393	Affordable Dental	5418580740		OHP	 
+222516			N	Oregon Health Plan	 
+223586				OHP #	 
+224394			Y	OHP - PH300A1D	 
+224395			Y	Regency Blue Shield - BVO949023581	 
+224396				Aetna - 10W164668254	 
+223590				Cigna 2465762 - 2465762	 
+223592				HMO DF63894B (07-08) - DHS	 
+224399				BCBS VYP921002801 - VYP921002801	 
+224400				OHP	 
+223594				OHP	 
+224401				AA45994M - MID ROGUE	 
+220964			N	OHP - OHP	 
+224402				OHP - OHP BV1648	 
+223596				BC/BS  BV1468  (08-09) - HEALTH INS	 
+223598				Blue Cross Blue Shield	 
+224403				Preferred Care	 
+224404				myers/toohey - SCHOOL 08/24/10	 
+224406	Dr. Dehenney	5412456648		ohp hl00017y - OHP	 
+224407				OHPB1340356F - B1340356F	 
+223602				BC/BS	 
+222517				Blue Cross of Idaho	 
+222024			N	OHP	 
+222025			Y	OHP - SENT 1/9/10	 
+222027			Y	OHP Care Oregon - MI700J8U	 
+222028			Y	Regence	 
+221248				OHP - YES	 
+221250	Luke Murphy			OEBB - YES	 
+223959				OHP - OHP	 
+221252	Dr. Cochran			Pacific Source - YES	 
+220965				Blue Copado	 
+223960				Regence BC - REGENCE BC	 
+220967				OEA Choice - CONFIRMED	 
+223603	Frimkess	5417733327		Providence Health Plan #10011446701 - 10011446701	 
+223963				BC/BS	 
+223964				Mega Health - CONFIRMED	 
+223965	EP Dental	5418262525		BCBS - BCBS	 
+220969	La Clinicia			Oregon Health Plan - CONFIRMED	 
+222031			Y	pacific source	 
+221701			N	care oregon - CARE OREGON	 
+221251				OHP/Care Oregon, Inc. - YES	 
+222019			N	OHP - YES	 
+232816			N	Blue Shield #08102	 
+221563	Pamela J. Ortiz	5417732625		Regence	 
+221584	Dr. Eric Rollem			Regence Blue Cross Blue Shield	 
+239039	Willament Dental	8004607644	N		 
+222132				Aetna - CONFIRMED	 
+222518	Tyerman	5416642210		United Healthcare 380-56-6122 -  CONFIRMED	 
+222519	Dr. Gelespie	5417766996		BC/BS - CONFIRMED	 
+221679	Dr Alex			Regence "Boise"	 
+221681				Myers, Stevens & Toohey - 1411839	 
+220971	Frimkiss	5417733327		Cigna - CONFIRMED	 
+221682			N	Myers-Stevens & Toohey & Co. - CONFIRMED	 
+223966	Dr. Borg		N	Gigna 1000532254 - CIGNA	 
+221684	Spencer	5418587994	N	Blue Cross - BC	 
+221685	Affordable Dental	5418580740	N	OHP - NI600I1T	 
+221687			Y	OHP - OHP	 
+221689			N	OEBB ODS - 10006622	 
+221691			Y	OHP - DK24861B	 
+220973				BC/BS - CONFIRMED	 
+221692				Mountain claims Management	 
+221694	SO Dental	5418260599		BC/BS	 
+223967				BCBS - CONFIRMED	 
+221696				Vantage PPO	 
+220976				bcbs - CONFIRMED	 
+222036	Steven Frimkess	5417723327	N	Aetna	 
+221698	Mark Hagman	5412450247	N		 
+221699			N	DHS Medical Client - CN40013A	 
+221700			N	Blue Cross Blue Shield - 1035171	 
+221702	Pamela Ortiz		N	 Blue Cross - BVO949077262	 
+221704	Willamette Dental	8004618994	Y	OHP	 
+220977	Houghton	5417795111	N	Providence Preferred	 
+220978				OHP	 
+220980				ODS - CONFIRMED	 
+221705				OHP	 
+220413				BlueCross/BlueShield 173084M013 - 173084M013	 
+223607				OHP CH11510D (07-08) - CH11510D (07-08	 
+223608				OHP CH11510E (07-08) - CH11510E (07-08	 
+220981				BC/BS	 
+222520				BC/BS	 
+223969				OHP - CONFIRMED	 
+223610				OHP EWW6730R (08-09) - HEALTH INS	 
+223612	Luke Murphy	5418782115		Great West  768187  (08-09) - HEALTH INS	 
+222525	Dr Cochran - Ashland			NASE	 
+223613				BC/BS	 
+223614				Health Future  #900012748 - 900012748	 
+223971				Care Oregon UT100TOC - CONFIRMED	 
+223615				HeaglthNet #V4899A - V4899A	 
+223972	Dr. Pearson			OHP - CONFIRMED	 
+223973	Gillespie	5417766996		ODS - ODS	 
+223975				Shasta Admin Services - CONFIRMED	 
+229342	Steven Frimkess		N	OHP EWZ5341F - OHP	 
+228378	Dr Allen	5417798694	N		 
+229356	Dr. Hampton	5412825523	N	 - LIFEWISE & OHP	 
+229396			N	Anthem 40570E	 
+229891	Kip Hampton	5412825523	N	OHP - OHP	 
+230523			N	Regence Blue Cross/Blue Shield - BC BS	 
+237498	Acosta		N		 
+224275	Dr Catts	5417728846			 
+223639	Miller			BC/BS - CONFIRMED	 
+223704				Blue Cross/Blue Shield - BLUECROSS	 
+223635				5	 
+235995	willamette		N		 
+235864	Kip Hampton Siskiyou Dent	5412825523	N		 
+235745	Luke Murphy	5418782115	N		 
+225659	Willamette Dental	8004618994	N		 
+220422	Affordable Dentist	5418580740	N		 
+223978				BC/BS - CONFIRMED	 
+223979				OHP - CONFIRMED	 
+223621				Blue Cross Blue Shield  Grp#600141355 - 600141355	 
+223980				Pacific Source - CONFIRMED	 
+220984	Willamette Providence	5039522100		ohp - CONFIRMED	 
+220986				BS/BC 351546445 - 351546445	 
+223622				Providence Preferred 45750 - 45750	 
+220987				Cigna - CIGNA	 
+224414	Workinger				 
+223981				BC/BS - CONFIRMED	 
+224415				BCBS	 
+223624	Capsey			OEBB GOO131177 (08-09) - HEALTH INS	 
+224416	Pamela Ortiz	5417732625		OHP	 
+224417				OHP F125556 - CARE OREGON	 
+222526				Care Oregon - CONFIRMED	 
+221709			N	Health Future	 
+224419				Providence Preferred	 
+220990				Regence	 
+222043			Y	OHP	 
+223982				OHP	 
+224420				Myers, Stevens and Toohey - CONFIRMED	 
+221710			N	Blue Cross Blue Shield - YVB920471141	 
+223630				OHP - OHP	 
+224422				ohp - OHP	 
+224424				OHP Ce96558D - OHP	 
+221711			Y	OHP - HA90012Y	 
+222528				Premera Blue Cross  Policy#100505024 - 100505024	 
+223631				Blue Cross 100505024 (07-08) - 100505024 (07-0	 
+223632				Pacific Source R12425413 - R12425413	 
+220991				OHP	 
+221712				OHP	 
+222529				ods E00177641 - ODS	 
+222530				OHP - CONFIRMED	 
+222531				Medical Care DHS - BE700Y3E	 
+222044			Y	Providence Preferred	 
+223634	James Catt	5417728846		ohp - OHP	 
+223984				Providence Health Plans	 
+226722	Affordable Dental	5415850740	N	Aetna and BC/BS - YES	 
+231761	Southern Oregon Dental	5418260599	N		 
+220788	Affordable Dental	5418580740		OHP	 
+224289				Health Net	 
+230750	none given		N		 
+230747	none given		N		 
+231812	Advantage Dental		N		 
+221243			N	ODS - ODS	 
+221044	Luke Murphy	5418782115	N	BCBS - YES	 
+221449	Jamie White	5415354142		Providence Preferred	 
+220490	Wu	5417765271	N	OEBB - OEBB	 
+221351	Dr. Tyerman	5416642210	Y	Blue Cross/Blue Shield	 
+221855	LaClinica	5416181300	N	OHP	 
+221760	Frimkess	5417733327	Y	OHP - CD100M2E	 
+229491			N	OHP	 
+236962	Willamette Dental	8004618994	N		 
+236811	Barry		N		 
+232164	Dr. Moffett		N		 
+232022	Curtis Tyerman	5416642210	N	OHP - YES	 
+221783			N	OHP - OHP	 
+236740			N	Regence - YVA090056489	 
+236339			N	Migrant Workers Ins - MIGRANT WRKS	 
+222029			Y	Regence BC/BS - 60010530	 
+222471	Willamette Dental			N0010001  200038772 - PACIFIC SOURCE	 
+223324				School (07-08)	 
+236005	David Allen	5417733227	N		 
+209054	Dr. Davenport		N	 - BC/BS FED EMP	 
+224378				HMO	 
+221533				Cigna	 
+223985				BC/BS - CONFIRMED	 
+227822	none given		N	OHP - OHP	 
+229603			N	OHP	 
+221706			Y	OR Health Plan - LX000A0W	 
+223962				HMA - CONFIRMED	 
+223361				BC/BS 087196000 (08-09) - HEALTH INS	 
+238759	Apple Family Dental	5419561222	N		 
+238659	not given		N		 
+238979	Anne Denehy		N		 
+221432	Dr. Ortiz	5417732625	N	OHP	 
+225060	David Alex	5417798923	N		 
+226520	Anne Dennehy	5412456648	N		 
+229249	Pierson		N		 
+229251	I.H.S.		N		 
+232462			N	Regence BCBSO - CONFIRMED	 
+235814	Michael Boldt	5417722756	N	P5 Health Plan - P5 HEALTH PLAN	 
+235799	Dr. Tudor	5418424206	N	Blue Cross Blue Shield - BCBS	 
+236874	Willamette		N	 - OHP	 
+221166	Karla Rothfus	5418587994	N	Regence Blue Cross/Blue Shield - YES	 
+222033			Y	Regence Life and Health - LIFEWISE	 
+221713			Y	Myers - Stevens & Toohey & Co.	 
+222034			Y	Providence Preferred & OHP - 250100619	 
+221522			N	OHP	 
+239812	Affordable Dental	5418580740	N		 
+239815	Affordable Dental	5418580740	N		 
+221872			N	OHP	 
+221849			Y	OHP	 
+222320				BCBS - CONFIRMED	 
+227839	Kopp		N	 - CONFIRMED	 
+222325				Pacific Source - PACIFIC SOURCE	 
+222333				PHP - CONFIRMED	 
+222326	pearson	5417733422		Providence Good Health - CONFIRMED	 
+221767	La Clinica	5415123900	Y	OHP	 
+236252	Rollem	5417733756	Y	Pacific Source Group ID#122692358 - G0020340	 
+238803	Non given		N		 
+221313	Tyerman	5416642210	Y	BCBS	 
+220539	Affordable Dental	5418580740	N		 
+237663	Dr. Ortiz	5417732325	N		 
+237664	Pamela Ortiz	5417732625	N		 
+222966			N	OHP	 
+224098				OHP - OHP	 
+228899	Anne Dennehy	5412456648	N		 
+225952	Curtis Tyremen		N		 
+228909	Hayen Dental		N		 
+221325	Dr. Barry	5417792634	Y	Providence Health Plan - 10022054700	 
+221678	SO Dental/Dr. Randy	5418260599		OHP - CONFIRMED	 
+223487				first health choice (08-09) - HEALTH INS	 
+222249	Wooten			Regence BC YVP20341982 - HEALTH INS	 
+223343				BCBS yvp921339631 09/10 - HEALTH INS	 
+200858	Dr Layer	5414821991	N		 
+221707			Y	 OHP Plus - GR18402	 
+221911	Dr. Ortiz	5417732625	Y	Providence	 
+214638	Willamette Dental	8004618994	N	 - OHP	 
+221072	 Eugene Bowlin RVM	5416641524	N	ODS - YES	 
+221604	Dr. Abett	5417799059		Providence	 
+225342	Dr. Frimkess	5417733327	N		 
+220902	Dr. Dehann	5412456648			 
+223391	Dr. Wu	5417765271		544980517 - 544980517	 
+235805			N	OHP - OHP	 
+242027	Willamette Dental		N		 
+220972	Catt	5417728846	N	Pacific Source	 
+240501	Borgman		N		 
+240470			N	Providence - PROVIDENCE	 
+227769	Alex		N		 
+227770	Advantage Dental	5417725174	N	 - OHP	 
+227797	Advantage Dental		N		 
+227810	Willamete Dental		N	 - OHP	 
+227895	Haydens Dental		N	OHP EK100J8R	 
+227924	Haydens Dental		N		 
+229605	Dr Dennahy		N		 
+230024	Frimkess	5417733327	N		 
+230043	Dr. Frimkess	5417733327	N		 
+230047	Dr. Frimkess	5417733327	N		 
+237279			Y	OHP	 
+240041	Ralph Miller	5417738216	N		 
+229897	none given		N		 
+230011	S OR Dental no phone # given		N		 
+227344	Dr Mitchell no phone# given		N		 
+229344	none given		N		 
+227203	Greg Pearson	5417733622	N		 
+227259	none given		N		 
+227136	none given		N		 
+227156	Mortenson Lynn	5418832360	N		 
+227693	Pacific Source		N		 
+229372	none given		N		 
+227339	Beau Kapp	5417743928	N		 
+227241	none given		N		 
+229703	Wu	5417765271	N		 
+227126	none given		N	bcbs    (08-09) - HEALTH INS	 
+227629	none given		N		 
+227569	none given		N	tricare - TRI CARE	 
+227990	none given		N	OHP	 
+227215	none given		N		 
+221688			N	Cigna & Regence BCBS	 
+240161	Affordable Dental	5418580740	N		 
+240217	Jeremy King		N		 
+223355	East Main Dental	5417733422		Blue Cross LSB040322813475 (07-08) - LSB040322813475	 
+223945	Dr. Wu	5417765271			 
+221661	Affordable Dental Care	5417765259		OHP	 
+222366	Randy Ruthfus	5418260599		pacsorce R12690458 - PACIFIC SOURCE	 
+221527	LaClinica	5415356239		OHP/Care Oregon - YES	 
+222388	tyerman	5416642210		ohp - ODS	 
+221112	Willamette Dental	8004618994	N		 
+222888	Workinger	5418300333	N	Cigna - UNITED HEALTH	 
+230814	Affordable Dental		N	Client ID# LT101A7X - YES	 
+221064	Mountainside Dental Dr.Rothfus	5418787994	N	BCBS - YES	 
+221277			N	OHP	 
+225970	Wu	5417765271	N		 
+225969	Wu	5417765271	N		 
+228935		5412825523	N	OHP - BZ-J337F	 
+232402	Dr Ortiz	5417732625	N		 
+223488				BCBS WRT970257124 (07-08_ - WRT970257124 (0	 
+221856			Y	BCBS	 
+240681			N	xdx364968750 - BCBS	 
+223484	Dr. Pearson	5417723422		Health Future #900007994 - #900007994	 
+221557	Dr. Alex	5417798923		OHP	 
+226260	Dr. Frimkiss		N	 - CONFIRMED	 
+223970	S.O. Dental		N	 - BLUE CROSS	 
+208724			N	OHP - OHP	 
+237533	Afordable Dental	5418580740	N		 
+221703			N	Migrant Education - SDAN00719754	 
+223977			Y	Aetna - ID# W107953166	 
+223961	Dr. Bruce Mitchell	5417733959			 
+222035			Y	Aetna - W1645-32673	 
+224408	Hayden Family Dentistry	5417725174	Y	Care Oregon DHS Medical Care - NA600V6B	 
+236361	Luke Murphy	5418782115	N		 
+221971	Willamette Dental	8004618994	N	 - OHP	 
+222521	LaClinica	5415123900		BC/BS - CONFIRMED	 
+222523	Jacob layer			OEBB - OEBB	 
+232520	none yet		N	 - OHP	 
+237273	Grins for Kids		N		 
+221482	Aspen Dental Care		Y	Providence Health systems	 
+230480	Affordable Dental	5418580740	N		 
+222228				BCBS # RFY949412239	 
+222172	Dr. Wu	5417765217		Blue Cross Blue Shield YVB920410425 - CONFIRMED	 
+135265			N	OHP	 
+221284			Y	OHP (Mid Rogue) - XP200J4W	 
+222040	Willamette Dental	8004607644	Y	 OHP - UB100A9N	 
+221035	Dr, Luke Murphy	5418782115	N	#10006622 - OEBB	 
+221786			N	Providence Preferred	 
+229623	Jenkins	5416084096	N		 
+209895	Advantage Dental	5417725174	N	OHP	 
+220574	Borge		N	BS/BC	 
+220848	Willamette Dental		N	BC/BS	 
+224699	none given		N		 
+223901	Dr. (S OR Dental EP)				 
+228503			N	OHP	 
+158727	Dr. Barta	5413454076			 
+236273	Kip Hampton	5412825523	N		 
+237559	Dr. Pam Ortiz		N		 
+238433	none given		N		 
+223636	Dr. Frimkess no phone given		N	Healthnet V4899A (07-08) - V4899A (07-08)	 
+238338	Dr. Ortiz		N		 
+220384				Providence Health 10053247901 - PROV HEALTH	 
+222340	Kuke Murphy	5418782115		Providence Health Plan - PROVIDENCE	 
+226606			N	Aetna - CONFIRMED	 
+228531	Dr. Pamela Ortiz	5417732625	N		 
+228612	none given		N	BCBS yvp926405992 (08-09) - HEALTH INS	 
+227268	Dr Rollem	5417733756	N		 
+229922	Willamette Dental   no phone#		N		 
+228903	none given		N	 - OHP ID#DF37963D	 
+227141	none given		N		 
+227120	none given		N	10F83478696/grp 10006079 - ODS	 
+227180	none given		N	United Health Care 82298102090 - 2008-09	 
+229509	none given		N		 
+227057	East Main Dental	5417733422	N		 
+232431	none given		N		 
+237424	La Clinica		N	OHP	 
+239847	Pamela Ortiz	5417732625	N		 
+220961				IU80016M - MID ROGUE PLAN	 
+224362	La Clinica Del Valle			Care Oregon Inc #GRP C001	 
+226369			N	OHP - OHP	 
+224303	Steven Frimkiss			Regence BPB949073739	 
+224132			Y	BlueCross/Blue Schield - EZVAN2456236	 
+221719	LaClinica		N	Care Oregon	 
+224202	Modern Dental	5417766996		Aetna 4440-08956 - 4440-08956	 
+235773	Curtis Tyerman	5416642210	N		 
+171375			N	bcbs yvp921271472 - BLUE CROSS	 
+222026			Y	OHP - UF600P2V	 
+237571			Y	OHP Plus - HP426U	 
+224200				myers&toohey 09-01-09 - SCHOOL INS	 
+226952	Pamela Ortiz	5417732625	N		 
+226972	Dr. Price	5417734073	N	 - RVMC	 
+232443	Dr. Frimkess	5417733327	N		 
+232444	Dr. Frimkess	5417733327	N		 
+232303			N	OHP - OHP	 
+234803	Tamara Abbott	5417799059	N		 
+234804	Bruce Mitchell	5417733959	N		 
+226676	Dr. Frimkiss		N	OHP - OHP	 
+223457				Blue Cross Policy#YVP920421047 - YVP920421047	 
+222970	meyer- yreka		N	Assurant Health	 
+231215	Pamela Ortiz	5417765259	N	OHP - BX00014H	 
+231702			N	Cigna - CIGNA	 
+231626	La Clinica		N		 
+208717			N	Timber Products 250200498 - TIMBER PRODUCTS	 
+231530			Y	OHP - IVU500JOR	 
+227834	Mick Reynolds	5417725174	N	 - CONFIRMED	 
+169500	Hayden Dental		N		 
+226807	Bruce Mitchell		N	TriCare	 
+223916	Willamette			OHP	 
+223837				OHP	 
+240089	Stebbins	5417345225	N		 
+226567	Mrs. Denney		N	OHP	 
+226581	Dr. Gillespie	5417766996	N		 
+226621	Dr. Tudor	5417796170	N	bc bs - BLUECROSS	 
+220907	Denneby	5412456648	N		 
+223911	Dr. Alex			ODS	 
+233958	Dr Schmidt	5417796170	N	Blue Cross/Blue Shield	 
+239027			N	ohp - OHP	 
+222817			N	Care Oregon ce04628E - CARE OREGON	 
+224356			Y	Health Future - 900201708-00	 
+238059	Layer		N		 
+238174			Y	OHP	 
+238170	Dr. Tyreman	5416642210	N	OHP	 
+222107	Ralph Miller			BC/BS - BC/BLUE SHIELD	 
+226530	Dr. Ortiz	5417732625	N	TriCare Prime RemotR - 518131071	 
+226860			N	DMAP  CC24928G	 
+224080	Layer	5417340978	N	Blue Cross Blue Shield RE 413-40 - BLUE CROSS	 
+225042	LaClinica	5416181300	N		 
+202281	Affordable		N		 
+201942			N	BlueCross/BlueShield	 
+158185	Willamette Dental		N		 
+220598	Dr. Frinkess			 - CONFIRMED	 
+232076	Dr. Dentist		N		 
+232057	Dr. Tudor	5417796170	N		 
+224475	Wooton	5417733422	N	YVP920308280 - BLUE CROSS/BS	 
+241856	Dr. Oldroyd	5417766960	N		 
+241992	Scheffler DMD		N		 
+241993	Advantage Dental	5417725174	N		 
+226913	Dr. Cunya		N		 
+226924	Dr. Frimkess	5417733327	N		 
+227000	La Clinica		N	 - CONFIRMED	 
+232121	Steven Phillips	5417722414	N	school ins 11-09-09 - SCHOOL INS	 
+208341	La Clinica		N	Care Oregon - CARE OREGON	 
+235823	Dr Jeremy King		N	Pacific Source - CONFIRMED	 
+235840	Dr. Whitz		N	BCBS - BCBS	 
+222420	Fagundes	5417796401		ODS - ODS	 
+220768				Blue Shield/ Blue Cross - CONFIRMED	 
+227345	Affordable Dental	5418580740	N	pacific source - PACIFIC SOURCE	 
+228544	none given		N		 
+224347	La Clinica Del Valle	5415356239	Y	OHP - YC700J7B	 
+232192	Kip Hampton		N		 
+235033	Nicole Youngers	5417725174	N	 - OHP	 
+208647			N	OHP	 
+221570	Julie Wu			Blue Cross	 
+221583	La Clinica			OHP - OHP	 
+226944	Dr. Frimkess	5417733327	N		 
+229612	Steven Frimkess	5417733327	N		 
+229656	Affordable dental		N	OHP - OHP	 
+229789	Advantage Dental		N	Tri-Care - TRI-CARE	 
+229796	Luke Murphy		N	Oregon Health Plan - YES	 
+237622	Dr. Gregory Pearson	5417733422	N	 - BLUE CROSS	 
+237627	Larson Creek Dental	5417743928	N		 
+237643	Pamela Ortiz	5417732625	N		 
+237652	Affordable Dental		N		 
+238221	Siskiyou Dental		N		 
+223701	willamette	5414618994	N	BC/BS - CONFIRMED	 
+227778			N	Tri-Care	 
+227636	Pam Ortiz		N	Pacific Source	 
+231522	Dr. Shinskin		Y	OHP	 
+232008	Dr. Frimkiss	5417733327	N	Mid-Rogue Healthy Kids State of OR	 
+221256			N	OHP - JJ300A2N	 
+220658	Southern Oregon Dental	5418260599	N		 
+239953			N	OHP - OHP PLUS	 
+235022	None		N	OHP Plus - IY500J7V	 
+221676			Y	OHP - PT400A1C	 
+235032			N	Blue Cross Blue Shield - R58440445	 
+221450	Dr. Frimkiss	5417733327	Y	Providence 10081694901	 
+230510			Y	OHP Care Oregon - YG500W9Y	 
+204169			N	OHP - JH90014R	 
+229633	White		N	OHP - OHP	 
+208961	Dr Baker	5419293239	N		 
+231564	none given		N	MidRogue - MIDROGUE	 
+231565	none given		N		 
+222328				Regency BC/BS - BCBS	 
+222588	Greg Miller	5417733422		Blue Cross YVP920399564 - YVP920399564	 
+230669			N	Care Oregon - SD500W2H	 
+226522			N	BC/BS	 
+233926	Kathy Sprick	5416643335	N		 
+224137	Modern Dental	5417766996		aetna w64533460 - AETNA	 
+240083			N	Meyers, Stevens, and Toohey	 
+229733	Frimkiss	5417733327	N		 
+235347	Robert Stebbins	5417345225	N		 
+237954			Y	Myers Toohey	 
+229255			N	OHP-Plus - DD1468	 
+235954			Y	purchased 2-21-12 - SCHOOL INS	 
+231639			N	OHP - YES	 
+223275	Meyerding	5417795654		Pennacle 999391081 - PENNACLE	 
+231846	Modern Dental	5417766996	N		 
+232442	none given		N		 
+211733	Affordable Dental	5417765259	N		 
+232446	none given		N		 
+221129	Willamette Dental		N		 
+237552	Affordable Dental	5418580740	N		 
+237551	Willamette Dental	8004618994	N		 
+237544	Dr Frimkess	5417733327	N		 
+236328	Willamette	8004618994	N		 
+239638	Bowlin	5416641525	N		 
+225883	none given		N	CA Iron Workers 542809009 (08-09) - HEALTH INS	 
+240082	M. Chan	9163718913	N		 
+228338			N	United Health Care/Delta Dental	 
+233202	none given		N		 
+237596	Mark Hageman	5417724898	N		 
+237565	Dr Frimkess	5417733327	N		 
+237577	Dr Frimkiss		N		 
+237581	Hayden Family Dentistry	5417725174	N		 
+237586	Pamela Ortiz	5417732625	N		 
+237591	Dr Ortiz	5417732625	N		 
+237597	Steve Frimkiss	5417733327	N		 
+237601	Anne Dennehy no phone#		N		 
+237603	David Allen	5417798694	N		 
+237605	dr Alex		N		 
+221473	Zahra T. Shaw	5414889260	N	OHP	 
+221459			N	OHP	 
+223428	none given		N		 
+221824			Y	OHP	 
+226624	Southern Oregon Dental	5418260599	N	Blue Cross	 
+238072			Y	Blue Cross	 
+224451	LaClinica		N	OHP	 
+232253	Dr Frimkess	5417733327	N		 
+221859			Y	Myers, Stevens & Toohey - CONF. #1433776	 
+222003			Y	Cave Oregon - CJ27453E	 
+221672			Y	Myers - Stevens & Toohey & Co.8/11 - SCHOOL INS	 
+221268			Y	OHP - JA400A1V	 
+229335			Y	DHS - TT500W3H	 
+223951	Advantage Dental			 - OHP	 
+221942	Willamette Dental		Y	OHP	 
+221948	Sandrine Kent	5418580740	N	 - EP200UOU	 
+220766	Jenkins		N	Blue Cross/Blue Shield	 
+224373	Williamette Dental			BCBS R58919425 - R58919425	 
+239102	Clinica del Valle	5415356239	N		 
+225912	Dr. David Alex	5417798923	N	Grp.: G0020389 ID 122592766 - PACIFIC SOURCE	 
+237227	not listed		N	OHP - YES	 
+237723	Anne H. Dennehy	5412456648	N		 
+237726	La Clinica	5415356239	N		 
+237728	Willamette Dental		N		 
+237729	Dr. Pearson	5417733422	N		 
+223676			N	Healthnet - CONFIRMED	 
+221021	Willamette Dental	8004618994	N	Providence Health Plan - YES	 
+221671			Y	Care Oregon - WM900H0M	 
+228427			N	Myers, Stevens & Toohey	 
+224350			Y	Blue Cross / Blue Shield - 10012547	 
+221266	Dr. Rollem		Y	Regence Blue Cross Blue Shield - RWG949342995	 
+224281				OHP DB54389B - OHP	 
+227536			N	Oregon Health Plan	 
+226371	Hayden Dental	5417725174	N		 
+221534	Pam Ortiz	5417732625		Cigna	 
+230691	none given		N		 
+231911	Dr. Davenport	5417732163	N		 
+220830	Willamette		N		 
+232518	Kr. Kopp		N		 
+238240	Dr. Tyreman		N		 
+220329				BCBS	 
+227309			N	Providence Preferred of Oregon - 0000957	 
+221341			Y	Care Oregon - CARE OREGON	 
+232311	none given		N		 
+235920			Y	OHP	 
+236040	Luke Murphy	5418782115	N		 
+221790			N	OHP - 00800LTT	 
+241687	Luke Murphy	5418782115	N		 
+229375	Modern Dental	5417766996	N		 
+228636	Southern Dental		N		 
+230265			N	OHP	 
+231479	Dr. Kapp	5417743928	N		 
+231518	Dr. Cochran		N		 
+232142	Affordable Dental	5418580740	N	OHP - YES	 
+232158	none given		N		 
+220631				Pacific Source	 
+220488	Willamette		N	 - CONFIRMED	 
+220501	Luke Murphy		N	careoregon - CAREOREGON	 
+223649	Dr. Ortiz	5417732625	N	OEBB - CONFIRMED	 
+223873	Kapp		N	Blue Cross Blue Shield - CONFIRMED	 
+221945	La Clinica	5415126239	N	OHP	 
+223902	Dr. Alex	5417798923		Blue Cross	 
+223892				Blue Cross Blue Shield	 
+225036			N	OHP AD1141214H (08-09) - 2008-09	 
+208004	la clinica		N		 
+232235	none given		N		 
+222757	none given		N		 
+232238	none given		N		 
+234809	Pearson-EMDC		N		 
+234810	Modern Dental	5417766996	N		 
+234819	Leong		N		 
+220809	Oas	5417733422			 
+234836	Frimkess	5417733327	N		 
+234840	frimkiss	5417733327	N		 
+234843	Borg	5417733422	N		 
+234844	Dr. Oes		N		 
+234853	Jeremy King		N		 
+221490	Advantage Dental		N	Pacific Source/OHP	 
+239870	Steven Frimkiss		N		 
+221340	Bruce Mitchell		N	Tri-Care	 
+221335	Dr. Berg		N	Pacific Source - ID#200150434	 
+232347	Affordable Dental	5417765259	N		 
+230348	Sharp	5416733552	N	regence blue shield 5596 - REGENCE BCBS	 
+230349	Sharp	5416733552	N	Providence - PROVIDENCE	 
+232086	none given		N		 
+232090	none given		N		 
+237922	Wayne Hopper	5415823767	N		 
+238239	Sheffler	5418580740	N		 
+221551	Clinica de Valle				 
+242033	James Catt	5417728846	N		 
+242035	James Catt	5417728846	N		 
+242036	Smile Keepers		N		 
+227961	Anne Dennehy	5412456648	N		 
+227954	Hayden Family Denistry		N		 
+231250	Tom Brooks	5418409666	N		 
+220824	Tamara Abbett	5417799059	N		 
+229216	Layer	5417340970	N		 
+229221	Dennehy		N		 
+230170	Grins 4 kids	5417732625	N		 
+229598	la clinica	5415123900	N		 
+229597	la clinica	5415123900	N		 
+230080			N	Pacific Source - ID#20002481	 
+223004			N	blue cross/blue shield	 
+224480			N	blue cross blue shield	 
+223369				OHP - OHP	 
+222288	Hayden	5417725174		OMAP - OMAP	 
+239030	Dr. Wu		N	OHP - OHP	 
+241982	Eugene Meyerding	5417733327	N		 
+241983	Ross E. Sanford, DMD	5416648300	N		 
+241985	Pamela Ortiz	5417732625	N	OHP	 
+241986	Dr. Hampton	5412825523	N	 - OHP	 
+241987	Dr. Davenport (old one)		N		 
+226253			N	OHP #DA666823	 
+242038	David Alex	5417798923	N		 
+242039	Affordable Dental Care	5418580740	N		 
+242040	Frimkess	5417733327	N		 
+242041	Alex	5417798923	N		 
+242042	Frimkess	5417733327	N		 
+242044	Alex		N		 
+242045	Adavantage Dental		N	 - OHP	 
+242057	Ortiz	5417732625	N		 
+242058	None listed		N		 
+229564			N	OHP - CONFIRMED	 
+230789	Borg   no phone # given		N		 
+234755	Dr. Gregory Miller	5417733422	N		 
+234765	Luke Murphy		N		 
+234766	Dr. Richard Davenport	5417732163	N		 
+234780	Dr. Hal Borg	5417733422	N		 
+236011	Tamara Abbette	5417799059	N		 
+224068	Affordable Dental			 - OHP	 
+222150	Eagle Point Dental			Ameriban - CONFIRMED	 
+231278	Affordable Dental	5418580740	N	OHP	 
+231280	Affordable Dental	5418580740	N	OHP	 
+220697			N	BC/BS	 
+220578	So Ore Dental	5418260599		United Health Care	 
+220875	Willamette Dental	8004618994	N	 - NONE	 
+220573	Abbett	5417799059	N	BC/BS	 
+220503	Alex		N	TriCare West	 
+220710	Berg			Aetna	 
+220772	Willamette			 - OHP	 
+220735	King			OHP	 
+220731	Frimkiss	5417733327		Cigna	 
+220774	Frimkiss			BC/BS	 
+220745				OHP	 
+220683	S.O.Dental	5418260599		Providence Preferred	 
+220722	Pierson				 
+237360	Dr Ortiz	5417732625	N	 - CONFIRMED	 
+222973	Williamette Dental	8004607644	N	ODS	 
+220701	Anne Barry		N	Providence Health Plan	 
+220491	Wu	5417765271	N	OEBB - OEBB	 
+220483	So ORe Dental		N		 
+226559	Advantage Dental		N		 
+226566	Aforoble	5418580740	N		 
+226580	Willamette Dental		N	 - BCBSO	 
+228744	Advantage Dental		N	OHP - PACIFIC SOURCE	 
+228896	Eagle Point Dental		N		 
+228920			Y	OHP	 
+232270	none given		N		 
+220717	Wayne Hopper	5415823767		Clear Choice	 
+220693				OHP	 
+220726	Bruce Mitchell				 
+231424	La Clinica		N		 
+221497	Affordable Dental		N	Mid Rogue	 
+222867				Regence Blue X/Blue Shield/YVP921210836 - YVA080031012	 
+236563	Like Murphy	5418782115	N		 
+207484	Thomas Capsey		N	Regence BCBS of OR	 
+224028	Hayden	5417725174		 - LU80012K	 
+226868	Hayden Family Dentistry	5412428929	N		 
+226871	Dr.Hampton	5412825523	N		 
+226894	Ortiz		N		 
+220449	Jeff Childreth				 
+220452	Anne Barry	5417792634		Pacific Source  G0020556	 
+231523			N	OHP - OHP	 
+227113	none given		N	 - BCBS	 
+227114			N	Tricade 541019475 - TRICADE	 
+227657	Hayden Family Dent. no phone#		N		 
+227127	none given		N		 
+229731	Dr Rollem no phone# given		N		 
+227705	Dr Eggidy no phone# given		N	purchased 08/24/2009 - SCHOOL INS	 
+222064				Pacific Source R12592205 - PACIFIC SOURCE	 
+231357	none given		N		 
+231362	Affordable Dental	5417765259	N	OHP	 
+232236	Dr. Dennehy	5412456648	N	OHP - YES	 
+226810	S.O. Dental	5418260599	N	Aetna W1590-36384-01 - CARE OREGON	 
+227110	Dr. Steven Frimkess	5417733327	N		 
+227118	Dr. Anne Dennehy	5418580740	N		 
+227133	Dr. Beau Kapp	5417743928	N		 
+227164	Dr. Frimkes		N		 
+227206	Dr. Price	5417734073	N	Cigna	 
+227319	Southern Oregon Dental -EP		N	Providence, Aetna, OMAP	 
+223359	Tae Jung	5418580740		AETNA	 
+232662	none given		N		 
+222455	Dr. Borg	5417733422		Healthnet - CONFIRMED	 
+236846	Kannon		N	School Insurance - CONFIRMED	 
+209982	La Clinica		N		 
+235809	Dr Blair Tudor	5417796170	N	ohp - OHP	 
+235874	Dr Barry	5417792634	N	BCBS - CONFIRMED	 
+236242	Hayden Dental		N		 
+231160	none given		N		 
+223022	none given		N		 
+231166	none given		N		 
+232392	none given		N		 
+236263	Dr. Frimkiss	5417733327	N		 
+229645	Gvin 4 Kids	5417732625	N		 
+229629	Dr. Costa	5415123900	N		 
+229622	Hayden Family Dental Group	5417725174	N		 
+234972	Dr. Gosal	5307512430	N		 
+235780			N	Regence Group Name JLMRT - GROUP 841693000	 
+234362	Jung	5418580740	N	ODS - ODS	 
+235953	Hayden Family Dental	5417725174	N		 
+227400	Mitchell	5417733959	N		 
+227402	Tudor	5417796170	N	bcbs - BCBS	 
+230618	none given		N	 - OHP	 
+230622	Hayden Family Dentistry		N		 
+224443	Childreth		N		 
+237248			N	OHP/Care Oregon - YES	 
+223787	Affordable Dental		N		 
+223650				OEA Choice	 
+227574			Y	OHP  EJ000A1N - EJ000A1N	 
+227669	Preventive Dental		Y	OHP  541741562	 
+236591	Southern Oregon Dental	5418260599	N		 
+227001	Gilespy	5417766996	N		 
+235339	Affordable Dental		N		 
+232282	none given		N		 
+239025			N	OHP	 
+223494	none given			OHP	 
+222699	Dr. Pearson			OHP - OHP	 
+222773	Dr Borg	5417343422		Health FUTURE 900200504-04 - HEALTH FUTURE	 
+232448			N	OHP - II700K1A	 
+236452	Willamette Dental		N		 
+231259	Affordable Dental	5418580740	N		 
+232020	Curtis Tyerman		N		 
+224331	So. Oregon Dental	5418260599		LSB - LSB638151309283	 
+222487	Advantage Dental				 
+239633			N	MidWest National - MIDWEST	 
+227269	Dr. Ortiz	5417732625	N		 
+210056	Dr. Wooton	5417733422	N	 - OHP	 
+221862			Y	OHP - DY100A6I	 
+229790	Hayden Dental	5417725174	N		 
+233244			N	OHP	 
+228024	Goode		N		 
+227973	Pearson	5417733422	N		 
+235407	Randy Wooton	5417733422	N	All Care Health - ALL CARE	 
+235413	Randy Wooton	5417733422	Y	Lifewise - 60018946502	 
+238466	Dr. Denehey	5412456643	N	Providence Preferred PPO - 250101695	 
+221943	Jordan Schleffler	5418580740			 
+221962	Dr Julie Fagundes	5417796401	Y	Blue Cross	 
+221430			Y	Pacific Source	 
+224153			Y	Aetna 444031138 - 444031138	 
+223510	none given		N		 
+222176				Regence BCBS 015101100 - CONFIRMED	 
+236935	Bruce Mitchell	5417733959	N		 
+236265	Bruce Mitchell	5417733959	N		 
+223672			N	OHP - CONFIRMED	 
+227062	Randy Wooten	5417733422	N		 
+222979			N	Aetna W164668863 (2008-09) - 2008-09	 
+226563	Dr. Frimkiss	5417733327	N		 
+226574	Dr. Bowlin	5416641525	N		 
+222384				Providence Preferred - CONFIRMED	 
+231555	Bruce Mitchell	5417733959	N		 
+236543	Dr. Frimkiss	5417733327	N		 
+236547	Dr. Frimkiss	5417733327	N		 
+237610			N	Providence Preferred PPO	 
+237612	Affordable Dental	5418580740	N		 
+237613	Pamela Ortiz	5417732625	N		 
+237614	Dr. David Alex	5417798923	N	 - ASSURANT HEALTH	 
+237615	Anne Denehy		N		 
+237616	Affordable Dental		N		 
+237617	Dr. Frimkiss		N		 
+237618	Affordable Dental	5418580740	N		 
+237674	Dr. Darby	5414768383	N	 - OHP	 
+237620	Dr. Frimkiss	5417733327	N		 
+220579	Oas	5417733422	N		 
+227176	Dr. Alex		N	 - CHAMPVA	 
+227191	So Or Dental	5418260599	N		 
+168173	Tender care		N		 
+237465	Willamette		N		 
+223659	Dr. Catt	5417728846	N	OEA Choice Trust - CONFIRMED	 
+222459				cigna health care - HEALTH INS	 
+222257				Regence BC/BS  (08-09) - HEALTH INS	 
+236508	Bluefish Dental Care	5419231300	N		 
+222112	Willamette Dental			 - CONFIRMED	 
+232273			N	E00130909 - OEBB-ODS	 
+226417	Wooten	5417733422	N	 - DMAP OEA CHOICE	 
+221569	Frinkles	5417733327		OHP	 
+238041	Drew	5416863055	N		 
+237809			Y	Care Oregon - HD56840	 
+220510			N	ODS - ODS	 
+226546	King	5417721215	N		 
+231627	La Clinica		N		 
+231628	La Clinica		N		 
+231629	La Clinica		N		 
+232353	none given		N		 
+232364	none given		N		 
+232373	none given		N		 
+224264				Mountain Claims Mngt.	 
+235561	Dr. Costa	5416181300	N	 - OHP	 
+216870	Modern Dental	5417766996	N	OHP	 
+231468	affordable	5418580740	N	ohp bh55823d - OHP	 
+231601			N	OHP - OHP	 
+229931	LaClinica		N		 
+230090	Dr.Frimkiss		N		 
+229944			Y	OHP	 
+229757	Dr. Kaapp	5417743928	N		 
+229660	Hayden Dental	5417725174	N		 
+222706	none given		N		 
+230394	La Clinica de Valle	5415356239	N		 
+227712	Dr Alex	5417798923	N	Health Future 900007328-04 (08-09) - HEALTH INS	 
+230400	none given		N		 
+227968	none given		N		 
+229500	none given		N		 
+227202	none given		N		 
+227237	none given		N	Signa U2344925703 (08-09) - (2008-09)	 
+224488	none given		N		 
+230532	none given		N		 
+230537	Hayden	5417745174	N		 
+230888	Advantage Dental		N		 
+221593			N	Aetna Healthfund - W164532552	 
+231790	none given		N		 
+221652	Advantage dental Service	5412428929		 - OMAP	 
+233947	Steven Frimkis	5417733327	N		 
+233946	King	5417721215	N		 
+235764	Advantage Dental	5412456648	N	 - OHP	 
+235777	Advantage Dental	5417725174	N	OHP	 
+235872	Dr. Stebbins		N		 
+229635			N	Select Value	 
+237774	Dr. Denney	5412456648	N		 
+237262	Willamete Dental		N		 
+207757			Y	OHP	 
+237794	Andy	5417345225	N		 
+237593	Dr. Frimkess	5417733327	N		 
+227567			N	purchased 9-11-12 - MYERS-TOOHEY	 
+223469				OHP	 
+225848	Dr. Frimkiss	5417733327	N		 
+220388				OEA Choice - OEBB	 
+230127	Willamette Dental		N		 
+222266	Dr. Rollen	5417733756		Regence Blue Cross - 52671751904	 
+222182				Pacific Source - PACIFIC SOURCE	 
+238296	Anne Dennehy		N		 
+224143				School ins - SCHOOL INS	 
+220410	Dr. Shishkin			OHP	 
+239350	Affordable Dental	5417474360	N		 
+230866	LaClinica		N		 
+231909	Hayden Family Dentistry	5417725174	N		 
+236142			Y	BCBS - BCBS	 
+236812	Dr. Juson - LaClinica	5415356239	N	OHP - PM30013T	 
+237397	Steven Frimkess	5417733327	N		 
+221175	Holten	5417734435	N	Asante - YES	 
+235948			N	Myer, Stevens & Toohey - YES	 
+227532	none given		N		 
+229893	none given		N		 
+227997	none given		N		 
+229915	none given		N		 
+231632	none given		N		 
+231637	none given		N		 
+231649	none given		N		 
+236045	Dr. Rollem	5417733756	N		 
+221893			N	Regency BPB949067165	 
+238090			N	ohp - OHP	 
+227643	Dr. Alex	5417798923	N	Health Future - YES	 
+231040	Frimkiss		N	Aetna - CONFIRMED	 
+223561	none given			bcbs 558493607 (08-09) - 2008-09	 
+237667	Grin for Kids	5417732625	N		 
+237440	Devin Jenkins		N		 
+236004	Price		N		 
+237639	Dr. Kapp	5417743928	N	Providence - PROVIDENCE	 
+237631			N	ohp - OHP	 
+238065			N	OHP - VA200I3J	 
+224364			Y	Myers, Stevens and Toohey - SDANOC719754	 
+224101			Y	OHP - VS000P8D	 
+224120			Y	Blue Shield Blue Cross - YVA920341064	 
+224086			Y	Myers, Stevens and Toohey - VERIFIED	 
+220481				Pacific Source - CONFIRMED	 
+221405	Hayden Family Dentistry		Y	Blue Cross Shield	 
+239722	Pam Ortiz ( Grins 4 Kinz)	5417732625	N		 
+227023	Dr. Stebbins		N	 - MVP HEALTHCARE	 
+229213	Affordable		N		 
+231192	Siskiyou Dental	5412825523	N		 
+223497	none given				 
+231855	Modern Dental	5417766996	N	 - CONFIRMED	 
+239113	Anney Denney	5412456648	N		 
+239699	Willamette Dental		N		 
+231598	Dr. Alex		N		 
+231837	Steven Frimkess	5417733327	N	 - CONFIRMED	 
+234553	LaClinica		N	 - OHP	 
+234561	Luke Murphy	5418782115	N		 
+240254	Scheffler	5418580746	N		 
+227216			Y	OHP - FU100W2B	 
+227217	Bright New Dental		N		 
+220610	D. Alex		N	Health Future	 
+226721			N	OHP	 
+226730	Alex		N	Pacific Source - PACIFIC SOURCE	 
+230920	Dennehey		N	 - CONFIRMED	 
+230922	Dennehey		N		 
+232341	Pamela Ortiz	5417732625	N		 
+237495	Dr Eric Rollem		N		 
+237555	La Clinica, CP no phone		N		 
+237677			N	OHP - OHP	 
+230203	Affordable Dental		N		 
+229611	Affordable Dental Care	5417765259	N		 
+221912			Y	OHP	 
+238771	Larson Creek Dental	5417743928	N		 
+221481	La Clinica		N	Care Oregon Advantage OHP Plus - HS200J4X	 
+220793	Childreth	5417728846	N	Aetna	 
+220663	Denehey		N	OHP	 
+220671			N	Health Future	 
+220624			N	Blue Cross	 
+220724	D. Alex			Health Future	 
+220891	Modern Dental	5417766996	N		 
+220833			N	BC/BS	 
+238658	La Clinica		N		 
+224487	none given		N		 
+224431	none given		N		 
+211085	none given		N		 
+224463	Dave Linstrom no phone #		N		 
+228739			N	Blue Cross Blue Shield	 
+220616	LaClinica			OHP	 
+236537	La Clinica	5416181300	N		 
+238257	Siskiyou Dental		N		 
+238229	May		N		 
+227483	Childreth		N		 
+230464			Y	OHP Plus/Mid Rogue Holding Co. - RT3007K  ABC	 
+231034	Affordable Dental		N	 - OHP	 
+233229	Dr. Pamela Ortiz	5417732625	N		 
+239046	Jung		N		 
+228800	Siskiyou Dental		N		 
+228825	Dr. Price		N	LIFEWISE - LIFEWISE	 
+228972	Dr. Oas	5417733422	N		 
+228973	SO Dental		N		 
+221857			N	OHP Care Oregon - LU100I9J	 
+221804			Y	OHP	 
+230732			Y	OHP Care Oregon - MWI19884	 
+221745			N	OHP	 
+221728			Y	OHP	 
+222985			N	Triwest - PACIFIC SOURCE	 
+221885	Michael Costa	5415356239	N		 
+224158	none given				 
+222365				school ins 09/03/2009 - SCHOOL INS	 
+222261	Willamette Dental				 
+222573				BCBS  839251000 (2008-09) - 2008-09	 
+222086				TriWest 541197465 - TRIWEST	 
+216457	Hong	5416651212	N	Providence Preferred	 
+222924				Aetna 444032288 (08-09) - HEALTH INS	 
+228609	Hayden Dental		N		 
+227842	none given		N		 
+230278	none given		N		 
+230282	none given		N		 
+227298	none given		N		 
+227663	none given		N		 
+225075			N	BCBS (08-09) - HEALTH INS	 
+231349	blank		Y	OHP - YES	 
+231864	Affordable Dental	5418580740	N	 - OHP	 
+221018			N	Myer-Stevens & Toohey - YES	 
+221202	Luke Murphy	5418782115	N	OHP Mid Rogue Health Plan - YES	 
+221594				Blue Cross Blue Shield	 
+226725	Dr. K Schneck		N		 
+220498			N	BC/BS - CONFIRMED	 
+232123	none given		N		 
+226290			N	OHP - CONFIRMED	 
+229714			N	none	 
+230140			N	Regence - CONFIRMED	 
+229648			N	OMAP - CONFIRMED	 
+221219	Dr Pierson	5417733422		Aetna Choice Plus - CONFIRMED	 
+229627			N	OHP - CONFIRMED	 
+208317			N	OHP - CONFIRMED	 
+237085	Ortiz	5417732625	N		 
+237086	Anne Barry		N		 
+237087	Anne Barry		N		 
+236769	John C Price		N	 - CONFIRMED	 
+237830	Willamette		N	 - CONFIRMED	 
+224088	ADC Dental Clinic	5417728280		OHP - CH33878C	 
+221732	Oldroyd	5417796960	N	Cigna - UO5337558	 
+227537	none given		N		 
+227338	none given		N		 
+228627	none given		N		 
+227165	Affordable Dental	5418580740	N		 
+227311	So OR Dental no phone#		N		 
+227326	So OR Dental		N		 
+227689	Southern Oregon Dental		N	ODS E000D3104 (09-10) - HEALTH INS	 
+227996	Kip Hampton  no phone#		N		 
+223677			N	BC/BS - CONFIRMED	 
+227109	Affordable Dental	5418580740	N		 
+229752	Luke Murphy		N	 - OHP	 
+221377	Dr. Oas		N	Regency Blue Cross - YES	 
+227139	Dr. David Alex	5417798923	Y	BCBS LMG 120217382 - ODS	 
+227322			N	OHP - CONFIRMED	 
+224827	Willamette Dental		N		 
+221846	Pamela Ortiz		N	 - ODS	 
+224016	LaClinica	5417792437		OHP - OHP	 
+240091			N	school ins purch 08/23/2010 - SCHOOL INS	 
+228313	Affordable Dental Care		N		 
+222705	none given				 
+236130	Dr. Dentist	5417345225	N		 
+236133	Dr. Stebbins	5417345225	N		 
+235999			N	gpg0020389122595234 - PACIFIC SOURCE	 
+222390	Tamara Abbett			bcbs 7123 - BCBS	 
+222188	Dr. Caff			 - AETNA	 
+228515			N	bcbs p14602 - BCBS	 
+222357				providence 550618499 - PROVIDENCE	 
+222244				care or cj29699d - CARE OREGON	 
+232220	none given		N		 
+220605	Luke Murphy		N	OEBB	 
+220606			N	Regence	 
+227953	Tucker	8005747064	N		 
+220805			N	Tri West	 
+220626	Dr. Kip Hampton		N	OHP	 
+220608				BC/BS	 
+221852	Anne Dennehy	5412456648	Y	OHP/DHS - GJ900H5X	 
+227598			Y	IMS - S839583	 
+231370	La Clinica Central Point		N	ohp - OHP	 
+222982			N	myers/toohey 08/26/09 - SCHOOL INS	 
+235813			N	x - X	 
+220313	Luke Murphy	5418782115		Lifewise - ODS PLUS	 
+222380	Advantage Dental	8884680022	N	care oregon cx22022b - CARE OREGON	 
+222824				Meyers Stevens & Toohey #5649 - 5649	 
+228841	Willamete	8004618994	N		 
+228882	Willamete	8009618994	N		 
+231945	none given		N		 
+238800	Willamete Dental		N		 
+231292	Monte Stevens	5412813826	N		 
+234798	Dr. Jueng	5418580740	N		 
+234823	James Catt	5417728846	N		 
+234831	Dr. Goode	5418300043	N	Regence Blue Cross	 
+234850	Dr. Schmidt	5417796170	N	Pacific Source	 
+234878	Dr. Alex	5417798923	N		 
+222830	none given		N		 
+224219				Pacific Source #200054864 - 625	 
+224156	Affordable Dental Care	5418580740		OHP - OHP	 
+231446	none given		N		 
+224318	Advantage Dental			dhs cn70991c - DHS	 
+236561	La Clinica		N		 
+234893	Dr. Michael Goode		N		 
+234917	Dr. Ann Dennehy	5412456648	N		 
+234932	Dr. John Houghton	5417795111	N		 
+234936	Dr. Michael Goode		N	BCBS	 
+235005	Advantage		N		 
+235017	Dr. Anne Dennehy		N		 
+235018	Erik Rollem	5417732163	N		 
+236562	Willamette Dental		N		 
+226512	Willamette Dental		N		 
+221920	Dr. Ortiz		N	AETNA	 
+221875	Aspen Dental		N		 
+242013	None given		N		 
+242014	Pamela Ortiz	5417732625	N		 
+232428	LaClinica	5416181300	N		 
+232427	LaClinica	5416181300	N		 
+227121	Dr. Alex  no phone # given		N	Pacific Source 200050210 - PACIFIC SOURCE	 
+227195	none given		N		 
+227271	none given		N		 
+227827	Dr. Rothfus	5418587994	N		 
+227826	none given		N	regence - REGENCE	 
+230046	none given		N		 
+229364	none given		N		 
+225033	none given		N		 
+227307	Dr Houghton    no phone #		N		 
+220346				Medicaid	 
+227144	La Clinica del Valle	5415356239	N		 
+228848	Advantage Dental		Y	OHP	 
+229297	Willamette Dental		N		 
+222444				bc/bs dhy000009482 - BLUE CROSS	 
+230824	Affordable Dental		N	OHP - CONFIRMED	 
+233708	none given		N		 
+226997	So Or Dental	5418260599	N		 
+227007	So Or Dental	5418260599	N	Myers - Stevens & Toohey & Co. - SDAN00719754	 
+222992			N	ods - ODS	 
+231276	Affordable Dental	5418580740	N		 
+223475				Pacific Source #R12592143 - R12592143	 
+227992	none given		N		 
+228898	La Clinica de Valle	5416181300	N		 
+227993	Affordable Dental	5418580740	N		 
+227850	none given		N	OHP KV200R6A (08-09) - OHP	 
+229835	none given		N		 
+227951	none given		N	Meyers Stevens (11-08) - SCHOOL INS	 
+227709	Dr Alex	5417798923	N	health future - HEALTH FUTURE	 
+228389	Willamette		N	OHP - OHP	 
+229508	Dr Oas/East Main Dental		N		 
+229473	none given		N		 
+230442	none given		N		 
+227183	none given		N		 
+227115	Gary May	5417793003	N		 
+227368	none given		N		 
+227366	none given		N	267099113 - MEDICARE	 
+230475	none given		N	bc/bs 010508 - BLUE CROSS	 
+232476			N	OHP - CONFIRMED	 
+222015	Dr Dennehy		Y	OHP	 
+237294	Grins for Kids		N		 
+220330				Blue Cross - BLUECROSS/BS	 
+230518			N	Aflac - YES	 
+227784	Advantage Dental	5417725174	N		 
+228752	David Alex	5417798923	N	Regence Blue Cross	 
+221174	Dr. Luke Murphy		N	Regence Blue Cross - CONFIRMED	 
+221161			N	Regency Blue Cross	 
+232102			N	BC/BS 276742W002 - BC/BS	 
+228541			N	Great West Health Care - CONFIRMED	 
+223539			N	Michael Doran/Prov. Health Plan	 
+226406			N	ODS	 
+222772	none given		N	Pacific Source	 
+224473	Kip Hampton	5412825523	N	 - OHP	 
+224445	none given		N	 - OHP/ODS	 
+227248	Johnson no phone #given		N		 
+229475	Dr. Boldt		N	Health Net 570069191 (08-09) - HEALTH INS	 
+234733	Willamette Dental	8004618994	N		 
+234750	Dr. Luke Murphy		N	 - OEBB	 
+234772	Dr. Hal Borg	5417733422	N		 
+223842			N	OEBB - CONFIRMED	 
+222349	Willamette	5419522100		OHP FI700G35 - OHP	 
+224469	Costa	5416903628	N		 
+222726	none given		N		 
+230872	David Allen no phone given		N		 
+231024	none given		N		 
+232305	none given		N		 
+222972	none given		N		 
+232306	none given		N		 
+242337	Hal Borg	5417733422	N	Blue Cross Blue Shield - ZVE 949423271	 
+243245	Tamara Hald	5414821551	N		 
+243257	Hopper	5415823767	N		 
+229628	MMC		N		 
+238866	SO Dental Dr. Randy		N		 
+239002	Reynolds	8884680022	N		 
+237806	Advantage Dental Clinic	8884680022	N		 
+220889	Miller (no phone)				 
+252168	Dehnehy	5412456648	N		 
+250285	Goode	5418300043	N		 
+244418	Hayden	5417725174	N	OHP - YES	 
+244475	Stephen Oldroyd	5417766960	N		 
+244558	Advantage Dental	5417725174	N		 
+244562	Advantage Dental	5417725174	N		 
+246874	Dr Alex		N	bc/bs - BS/BC	 
+246873	David Alex		N	bc/bs - BC/BS	 
+243615			N	#5851001897477 grp 5851 - ALASKA CARE	 
+235918			N	oebb - OEBB	 
+249834			N	tricare - TRICARE	 
+244404	Stephen Oldroyd	8004618994	N		 
+228554	Dr. Kip Hampton		N		 
+220884	Dr. pam Ortiz		N		 
+246673	Dr. Stark	5308423900	N		 
+236663	East Main Dental		N		 
+221993	Dr. Denheney	5412456648	N		 
+242639	Pam Ortiz	5417732625	N		 
+252348	Dr. Anne Dennehy		N		 
+253666	Advantage Dental		N		 
+237320	Willamete		N		 
+245031			N	Myers - Stevens & Toohey & Co.	 
+221913			N	Immigrants Ins. - SDA N00719754	 
+246387	Dr. Belsky		N	school ins - SCHOOL INS	 
+242447	Dr. Stebbins		N		 
+243474	Gallagher	5417738216	N	Cigna	 
+243634	Smile Keepers	5417720102	N		 
+244139	Dr. Riechers	5414796393	N		 
+239744			N	HMO	 
+244815	Greg Pearson	5417733314	N	Regence BC/BS - REGENCE	 
+245243			N	ohp - OHP	 
+245120	Affordable Dentistry G.P		N		 
+245288	Anne Dennehy	5412456648	N		 
+221773	Dr. Miller		Y	Blue Cross Blue Shield - CIGNA	 
+251250	Frimkess	5417733327	N		 
+250783	Rollen	5417733756	N		 
+251285	no name given	5415356239	N		 
+251281	Denahey	5412456648	N		 
+251286	Clinica del Valle		N		 
+250765	Smile Keepers	5417720102	N		 
+251292	Frimkes	5417733327	N		 
+252370	Tom Capsey		N		 
+250743	Oldroyd	5417766960	N		 
+245791	Todd Holton	5417734435	N		 
+250763	Dr. Gregory Miller	5417733422	N		 
+251897	Denahey		N		 
+249065	Smile Keepers	5417720102	N		 
+252395	Pamela Ortiz	5417732625	N		 
+252396	Smile Keeper	5417720102	N	 - OHP	 
+252397	Pamela Ortiz	5417732625	N		 
+252399	La Clincia del Valle	5415353962	N		 
+252401	Anne Dennehy	5412456648	N		 
+252404	Affordable Dental Care	5418580740	N		 
+252405	Csta	5415123900	N		 
+252406	Advantage Detal Clinic	5417725174	N		 
+252407	Haden Dental Advantage	5417725174	N		 
+252409	Affordable Dental	5418580740	N		 
+252412	Grins for Kidz		N		 
+252433	Affordable Dental		N		 
+252437	Anne Dennhey		N		 
+252471	Anne Dennehy		N		 
+252474	Kevin Wu	5417765271	N		 
+247775			N	ohp - OHP	 
+251474			N	ohp - OHP	 
+250548			N	bluecross blueshield - BLUECROSS	 
+251473			N	ohp - OHP	 
+227557	Dr. Hayden	5417725174	Y	Regence BCBS	 
+242642	Barry	5417792634	N		 
+221924	Dr. Shishkin		Y	OHP	 
+246987	Advantage Dental		N		 
+228112			N	ohp - OHP	 
+252282	Steven Frimkiss		N		 
+252284	Anne Dennehy	5412456648	N		 
+252289	Advanced Dental		N		 
+252290	Advanced Dental		N		 
+252293	Pamela Ortiz	5417732625	N		 
+251274	Michael Goode	5418300043	N		 
+245025			N	Care Oregon	 
+247187	Kip Hampton	5412825523	N		 
+227482			N	OHP - OHP	 
+252318	Advantage Dental	5417725174	N		 
+221858			N	OHP	 
+253426	Affordable Dental	5418580740	Y	ODS	 
+253424	Affordable Dental	5418580740	Y	ODS	 
+220392	Advantage Dental	8884685022		OHP	 
+253358	Dr Mark Kaip	5032226611	N		 
+243037	Rothfus Dental		N		 
+243046			N	OHP - OHP	 
+221892			N	OHP	 
+237493			N	OHP Plus	 
+221890			N	OHP	 
+221806			Y	OHP	 
+227786			Y	Ensurance Management Services	 
+249304	Dr. Wu	5417765274	N	lifewise 600380390 - LIFEWISE	 
+244040	Bowlin		N	ODS	 
+237390	shady cove		N		 
+250749	La Clinica de Valle	5415356239	N		 
+245619			Y	OHP plus BJ200R5Y	 
+242423	Southern Oregon Dental, EP		N		 
+242439	Dr. Stephen Gillespie	5417766996	N		 
+243902	Jeremy King	5418574453	N		 
+244807	Willamette Dental		N		 
+245472	Advantage Dental		Y	OHP	 
+221344	Dr. Oas		N	Cigna	 
+253489	Affordable Dental	5418580740	Y	Providence	 
+221722	Cochran	5414829442	N	Blue Cross	 
+253763	Advantage Dental-no phone		N		 
+253767	Dr. David Allen	5417798694	N	Tricare	 
+253769	David Allen	5417798694	N	Tricare	 
+253770	Dr David Allen	5417798694	Y	TriCare 8/19/12 - TRICARE	 
+243797	Ortiz	5417732625	N		 
+243805	Ortiz	5417732625	N		 
+244477	Patricia Ortiz	5417732625	N		 
+240120	Advantage	8884680022	N		 
+252448	Advantage Dental		N		 
+252477	Wagner		N		 
+249879			N	Medco 1-800-566-4455	 
+245470	Dr. Miller	5417738216	N		 
+242932	Ortiz	5417732625	N		 
+232237	Dr. Dennehy	5412456648	N	OHP Plus - YES	 
+244319			N	Foreign Exchange Student - FE	 
+245804			N	Foreign Exchange Student - FIRST HEALTH	 
+245357	Affordable Dental		N		 
+230083	Boltz		N		 
+247081	Affordable Dental	5418580740	N		 
+253056			N	All Care - YES	 
+242939	Daven Port	5417732163	N		 
+243005	Ralph Miller	5417738216	N		 
+245907	La Clinica		N		 
+242355	Small Smiles	7753295437	N		 
+229759	Like Murphy		N		 
+221347			Y	Myers Toohey Stevens	 
+245290			Y	Care Oregon	 
+248790	Pamela Ortiz		N		 
+248795	Curtis Tyerman	5416642210	N		 
+248796	Dr Cochran, Jr	5414829442	N		 
+251432	Affordable Dental Care	5418580740	N	ohp - OHP	 
+220590			N	OHP	 
+251166	Willamette Dental	8004618994	N	Aetna/Metlife - AETNA	 
+253359			N	Care Oregon - OHP	 
+253372	Dr Yee	5308910330	N		 
+253374	Dr Yee	5308910330	N		 
+253373	Dr Yee	5308910330	N		 
+243355	Kip Hampton	5412825523	N		 
+235597	Steven Frimkess	5417733327	N		 
+234789	Tyerman		N		 
+234790	Tyerman		N		 
+253693	Advantage Dental		N		 
+253794	Advantage Dental		N		 
+236720			N	Blue Cross Blue Shield - BC/BS	 
+249895	Willamette Dental		N		 
+253578	none given		N		 
+237265	none given		N		 
+253976	James Catt	5417728846	N		 
+245563	Ann Deneheue	5412426648	N		 
+245564	La Clinica	5415356239	N		 
+245565	Smile Keepers	5417720102	N		 
+245566	Good Family Dental	5418300043	N		 
+245567	Willamette Dental		N		 
+220517			N	OHP - OHP	 
+245810	Childreth	5417728846	N		 
+237651	Affordable Dental	5418580740	N		 
+239182			N	ohp - OHP	 
+252324	Anne Denehye		N	 - SSI , CARE OR	 
+252201			N	OHP Plus #JY3ATB6OUS3Y	 
+244868	Brooks	5418557920	N		 
+244934	Brown	4257655758	N		 
+243604			N	#5851001897477 - ALASKA CARE	 
+229911	Wagner		N		 
+242410	Dr. Steven Frimkess	5417733327	N		 
+227965	Dr. randy Rothus	5418260599	N		 
+223740	Aethetic Dental	5417766960		Asturant	 
+242289	Mitchell	5417733959	N		 
+242598	Ann Denahey	5412456648	N		 
+242288	Holton	5417734435	N		 
+242250	So Or Dental		N		 
+242637	Advantage Dental		N		 
+243485			N	OHP ID # FD500N0I - OHP	 
+252377	Capital Dental		N		 
+243717	blank		N	OHP - NO	 
+246229	David Allen	5417733227	N		 
+251493	Frimkess		N		 
+251539	Southern Oregon Dental	5418260599	N		 
+251608	Stebbins	5417345225	N		 
+227792	Dr. Abbott		N		 
+251431	Affordable Dental		N	ohp	 
+252459	Ortiz	5415389273	N		 
+252462	Smile Keppers		N		 
+242358			N	Care Oregon - CARE OREGON	 
+243977	Dr. Jung	5418580740	N		 
+242231	Catt	5417728846	N		 
+242232	Dennehy	5412456648	N		 
+242233	Tudor	5417796170	N		 
+242234	Luke Murphy DDS	5418782115	N		 
+242240	So. Oregon Dental	5418260599	N		 
+242241			N	ODS	 
+242244	Modern Dental	5417766996	N		 
+242246	Larson	5417733959	N		 
+242247	Stephen Phillips		N		 
+242254	Central Point Health Center	5415123900	N		 
+245557	LaClinica	5415356239	N		 
+245561	Willamette		N		 
+246899	Joe Cochran	5414829442	N		 
+251402	Hayden Family	5415641442	N		 
+230944	Ralph Nuller	5417738216	N		 
+244584	Dr. Alex		N		 
+242031	Steven Frimkess DDA	5417733327	N		 
+242043	LaClinica	5415123900	N	 - OHP	 
+252542	Oldroyd	5417766960	N		 
+250937	none given		N		 
+242227	Affordable Dental	5418580740	N		 
+245315	Gental Dental	5416045873	N		 
+235136	Dr Alex	5417798923	N		 
+250121	Affordable Dental	5418580740	N		 
+243647			Y	OHP Care Oregon	 
+243904	none given		N		 
+244816	Dr. Pearson	5417733314	N	BCBS - BCBS	 
+245773	La clinica De Valle		N		 
+244149	Southern Or Dental	5418260599	N		 
+253973	Modern Dental	5417766996	N		 
+244018	Dr. Keith Berg	5417794517	N		 
+246805	Dr. Stebbins	5417345225	N		 
+244812	Dr. Hampton	5412825523	N		 
+244917	Emerald Dental	2083767740	N	OHP - YES	 
+245577	Dr Luke Murphy (S. Cove)		N	ods - ODS	 
+245578	Dr Luke Murphy (S. Cove)		N	ods - ODS	 
+242513	EP Dental	5412108652	N		 
+249411	Not Provided		N	Alliance 130763463-02 - ALLIANCE	 
+221908	Modern Dental Care	5417766996	Y		 
+242770	Clinica Del Valle	5415356239	Y	OHP	 
+244118	Fagundes	5417796401	N		 
+244127	Hayden Family Dentistry	5417725174	N		 
+244140	Dranne Dennehy	5412456648	N		 
+241937	La Clilnica	5415123900	N		 
+244165	Ortiz	5417732625	N		 
+243766	So OR Dental		N		 
+246041	None noted		N		 
+244007	So OR Dental	5416655206	N		 
+221605				Regence - BLUE CROSS	 
+246802	Dr. Stebbins	5417345225	N	OHP Care Oregon - YES	 
+237805			N	OHP	 
+223877	Affordable		N		 
+251770	Dr. Frimkess		N		 
+249852			N	regence - BS/BC	 
+225658	Kathy Sprick	5416643335	N		 
+243398	Willamette Dental		N		 
+243412	S.O Dental		N		 
+243423	LaClinica		N		 
+244249			N	ohp - OHP	 
+226845	Pearson	5417733422	N		 
+246337	Bruce Mitchell	5417733959	N	Cigna - CIGNA	 
+246331	Dr Jeff Philips	5033638466	N		 
+247233	Anne Barry	5417792634	N		 
+238949			N	Care Oregon - YES	 
+249479	Dr. Bruce Mitchell		N		 
+249480	Advanced Dental		N		 
+250938	Dr Frimkiss  no phone given		N		 
+250784	Jung	5418580740	N		 
+253395	Advantage Dental	5417725174	N		 
+253492	Grins 4 Kids	5417732625	N		 
+253493	Grins 4 Kids	5417732625	N		 
+244804	Dr. Hampton	5412825523	N		 
+244884	Ralph Miller		N	Champ VA	 
+244912	Emerald Dental Boise ID	2083767740	N		 
+239858	Willamette Dental		N	OHP	 
+239648	Anne Denahoe	5412456648	N	 - OHP VN400Y3Y	 
+226370			Y	DHS Prime - WW300N7E	 
+246923	Dr Stebbins	5417345158	N		 
+246019			N	OHP	 
+246799	Advantage Dental		N		 
+228581			Y	Mid Rogue OHP - LA500G5V	 
+253264	none given		N		 
+223696			N	OHP	 
+220316				Blue Cross/Blue Shield	 
+221298			N	Care Oregon	 
+223749			N	BC/BS - BLUECROSS	 
+221162			N	BC/BS	 
+221727			N	Pacific Source - R12549958	 
+221181			N	OHP Plus - YES	 
+224049			Y	Blue Cross 838543523 - BPB949077873	 
+223808			N	OHP	 
+220332				Atena	 
+223811	Dr. Gilespie	5417766996	N	BC/BS	 
+223760				Harrison Trust	 
+223762			N	Blue Cross/Blue Shield	 
+243056	Dr. Ortiz	5417732625	N	 - OHP	 
+243072	Barry	5417792634	N	Providence Health Plan - ID#10022054704	 
+243099	Southern Oregon Dental - CP		N		 
+243248	Dr. Dennehey		N		 
+224051				Care Oregon AZ 89359M	 
+222672				Pacific Source # R12595143 - HEALTH INS	 
+223700			Y	OHP - WC400G9A	 
+221304	Childrens Clinic		N	OHP	 
+221309			Y	Care Oregon	 
+221318			Y	Aetna	 
+221323			Y	Blue Cross - BV0949077873	 
+222677				Blue Cross/ Blue Shield	 
+221058	Luke Murphy	5418782119	N	Pacific Source - YES	 
+243294	Dennehy		N		 
+222682				Blue Cross  YVP920609969 (07-08) - YVP920609969 (0	 
+222846				OMAP #BX400T30 (06-07) - BX400T30 (06-07	 
+224106				OHP CZ93938G - CZ93938G	 
+220334				Lifewise	 
+223823	Dr. Frimkiss				 
+223827				OHP	 
+224007	Affordable Dental	5418580740		Care oregon CQ30130D - OHP	 
+223520				Aetna 543-76-4311 - 543-76-4311	 
+223527	SO Dental	5418260599		YVB921208710 - 832834000	 
+221595				Blue Cross Blue Shield	 
+222210				Regence BC YVP9210988H - YVP9210988H	 
+243432	Dr. Egidy	5417793993	N		 
+243499	Kip Hampton,DDS	5412825523	N		 
+243532	Ortiz	5417732625	N		 
+243569	Dr. Barslaou	5415123900	N	 - LIFEWISE	 
+243622	La Clinica		N		 
+256549	Dr. Dennehey	5412456648	N		 
+221609				OHP	 
+221610				OHP	 
+222275				pacific source - HEALTH INS	 
+220355				OHP - OHP	 
+220360				Blue Cross Blue Shield	 
+222290				Eatna - HEALTH INS	 
+223375	John Price	5417734073		OEA Health Trust OFBE03 (07-08) - OEBB	 
+223381				confirmed - CONFIRMED	 
+223530				Health Net  562352624 - 562352624	 
+222489	Advantage Dental			BC/BS - CONFIRMED	 
+222497				Pacific Life	 
+221994	grins for kids		Y	OHP	 
+223385				Blue cross/ blue shield	 
+224241	Bruce Mitchell			Providence Health Plan - 10022264604	 
+223393				OEBB - staff - 08-09 - HEALTH INS	 
+222504				ODS - ODS	 
+224384	Frimkess	5417733327		Providence Pref TPC 2501	 
+224390	Joseph F. Cochran	5414829442			 
+221996			N	bcbs	 
+222281				Aetna W145106491-04 - HEALTH INS	 
+223362	Aspen Dental	5417723411		 - UMR	 
+221228				OHP  09-10 - OHP	 
+243785	Dr. Childreth	5417728846	N		 
+243385	la clinica del valle		N		 
+243405			N	BLUE CROSS/BLUE SHIELD - BC/BS	 
+243545	Dr. Murphy		N		 
+243503	Dr. Reynolds	5417725174	N		 
+243504			N	OHP - OHP	 
+223417				OEA Choice K69773331 (06-07) - K69773331 (06-0	 
+222312				Blu Shield of CA Jo3564729 - Jo3564729	 
+223436				Pacific Source R12664464 (06-07) - R12664464 (06-0	 
+223571				Regence Blue Cross YVP921266876 - YVP921266876	 
+221150			N	Pacific Source - YES	 
+220960	Willamette		N	Providence Health Plan - PROVIDENCE HP	 
+220925				OHP	 
+221145	Ralph Miller	5417738216	N	Blue Cross of Oregon	 
+221905			N	Regence Blue Cross Blue Shield - REGENCE	 
+224263				Care Oregon - CARE OREGON	 
+224278				BCBS 819889000	 
+224287			Y	Blue Cross Blue Shield - YVP921437034	 
+222341				OEA Choice 540-80-4047 - CONFIRMED	 
+221520			Y	BCBS	 
+221210			N	BlueCross/BlueShield	 
+221647			N	OHP	 
+223035	Dr Alex			Select Benefits 1100 (09-10) - SELECT BENEFITS	 
+220727	Greg Pearson	5417733422			 
+221910	dr Ortiz	5417732625	Y	Providence	 
+222354	Dr. R. Leong	5417733703		BC/BS - CONFIRMED	 
+220378				Greatwest	 
+222363	Dr. Tyerman	5416642210		Regence Blue Cross - CIGNA	 
+224300	Dr. Allen			Prov. Preferred Group 0625	 
+221938	Affordable Dental	5417765259	Y	OHP	 
+220795	Sprick		N	BCBSO	 
+220798	Wooton	5417733422		 - CONFIRMED	 
+242559	K. Opendoor	5418802090	N		 
+242565	La Clinica del Valle	5415356239	N		 
+242356	Oas	5417733422	N		 
+242575	Ortiz	5417732625	N		 
+243513			N	OHP - OHP	 
+243959	Hal Borg	5417733422	N		 
+244023	Advantage Dental		N		 
+244041	Dr. Capsey	5417735441	N		 
+244056	Advantage Dental		N		 
+244259	La Clinica	5415356239	N		 
+244260	Keith Berg	5417794517	N		 
+244270	Affordable Dental Care	5418580740	N		 
+244291	Dr. Luke Murphy	5418782115	N		 
+244314	EMDC		N		 
+244333	Gary Lewellen		N	 - OHP	 
+244334	Clinica del		N		 
+244361	King	5417721215	N		 
+223056				Asante 900201094 - ASANTE	 
+223074				Asante #	 
+224119				Great West 167772 - 167772	 
+222900				Cow Creek Tribal Health	 
+221487	Clinica del Valle	5415356239	N	OHP	 
+223456				BC/BS-GR#080391- (07-08)  BL ADV AR -WMW0396416600 - 080391- (07-08)	 
+222385				BCBS YVP920501486 - YVP920501486	 
+221947	Dr Costa	5415356239	Y	OHP	 
+221961	Steve Oldroyd	5417766960	Y	WHP	 
+223106				OEA OFBEO3 (07-08) - OFBEO3 (07-08	 
+223161	Affordable Dentaist			 - OHP	 
+223172				BCBS fw4846148524 - HEALTH INS	 
+224126				OHP	 
+221493	Advantage Dental	5417725174	N	OHP	 
+221084	Willamette Dental	8004607644			 
+223476				AETNA W152642818 (07-08) - W152642818 (07-	 
+222397				Providence Health	 
+223489				Regency blue cross/blue shield 83191000 - 83191000	 
+221560				OHP	 
+223886	Goode Family Dental	5418300043			 
+223891	Dr. Oas-East Main Dental				 
+223186				Aetna 000835 (08-09) - HEALTH INS	 
+223208				Asante 900006183 (07-08) - 900006183 (07-0	 
+223869				Lifewise	 
+220445			N	Lifewise	 
+220779	Dr. Murphy	5418782115			 
+244517	Pamelo J Ortiz	5417732625	N		 
+224336			Y	OHP - CE95790H	 
+223212	Eagle Point Dental	5418262525		CBCA Administrators Intra corp 07921203 - 7921203	 
+223228				Providence Pref. 544862212 (07-08) - 544862212 (07-0	 
+223244				National Health Ins Co 001256417 - 1256417	 
+222414	Advantage Dental 772-5174		N	 - OHP	 
+224345	Steven Frimkiss	5417733327			 
+223511				OHP Plus   Ay48613E - Ay48613E	 
+222426	Dr. Wooton	5417733422		Blue Cross Blue Shield - CONFIRMED	 
+226368	Hayden Family Dentistry	5412428929	N		 
+222433				Regence - CONFIRMED	 
+222447	Wooten			 - CONFIRMED	 
+221965	Dr. Frimkess	5417733327	Y	OEA Choice	 
+221582	Dr. Dennehy	5412456648		Regence	 
+243893	Affordable Dental Medford		N		 
+243480			N	Providence Preferred - PROVIDENCE	 
+243486	Dr. B Mitchell	5417733959	N		 
+225164			N	OHP/Care Oregon - YES	 
+234993			N	Providence Preferred - YES	 
+237223			N	Mid Rogue - YES	 
+221665	Alex	5417798923		Blue cross - CONFIRMED	 
+223912	Horton			Pacific Source	 
+223277				OHP Plus  HF800H4W - HF800H4W	 
+223954				Providence Health Plan - CONFIRMED	 
+221968	Dr Oldroyd	5417766960	N	OHP	 
+221589				OHP	 
+221591				Regence Life & Health	 
+223296				Lifewise 1029224 (07-08) - 1029224 (07-08)	 
+223305				Blue Cross  543372114   200137696 - 543372114   200	 
+223319				BCBS of Oregon Policy# YVP920502593 - YVP920502593	 
+244493	Dr. David Alex		N		 
+234597	Dr. Scheffler	5418580740	N	 - YES	 
+223336				Blue Cross/Blue Shield - 174010 M007	 
+222980				Oregon Health Plan - CU57801D	 
+222243				Regence Blue Shield - REGENCE	 
+222258				Regence Life and Health - REGENCE LIFE	 
+223341				United Health 810080875 (06-07) - 810080875 (06-0	 
+220353				OEA Choice	 
+237835	Dr. Schmidt	5417796170	N		 
+234754	Keith Berg	5417794517	N		 
+234816	EMDC	5417733422	N		 
+231072			N	OHP - OHP	 
+223958	Dr. Wooten			Western Benefits - COMFIRMED	 
+223593				OHP FH300L8R  (08-09) - OHP	 
+221249				Blue Cross Blue Shield - YES	 
+220968				Cigna 3174296 - CONFIRMED	 
+221686			N	Geha 503062628 - 503062628	 
+221693			N	OHP - OHP	 
+256326	Karl Schneck	5417794344	N	cigna - CIGNA	 
+201481			Y	OHP - YES	 
+221697			N	OHP - DY80012C	 
+223968				Providence Perferred - CONFIRMED	 
+222524				BC/BS - CONFIRMED	 
+223618				BC/BS of Oregon (08-09) - HEALTH INS	 
+223623	Mitchell	5417733959		Blue Cross YVB920614196 (08-09) - HEALTHN INS	 
+224421				Myers, Stevens and Toohey - CONFIRMED	 
+223983				Lifewise	 
+220379	EMD	5417733422		United Health Care	 
+223018	Oldroyd	5417766960	N		 
+235747	Curtis Tyerman	5416642210	N	Blue Cross of Blue Shield - LWE899085208	 
+236465	Frimkiss	5417733327	N		 
+229652	Grin 4 Kids	5417732625	N		 
+210166			N	BCBS yvp920603970 (08-09) - HEALTH INS	 
+223258				Select Benefit	 
+242066	Clinica del Valle	5415356239	N		 
+242067	Frimkess	5417733327	N		 
+242068	Anne Dennehy DDS	5412456618	N		 
+242069	Affordable Dental	5418580740	N		 
+242076	None listed		N		 
+242078	Hayden Family Dentistry Group	5412428929	N		 
+242079	Denehay		N		 
+242080	Affordable Dental Care	5414744360	N		 
+242081	La Clinica	5415123900	N		 
+242083	Willamette Dental		N		 
+242084	Frimkess	5417733327	N		 
+242085	Ortiz		N		 
+242087	 no phone given		N		 
+242090	Ejidy	5417793993	N		 
+242092	Anne Dennehy	5412456648	N		 
+242093	Costa	5415356239	N		 
+242094	None indicated		N		 
+242105	Modern Dental Care	5417766996	N		 
+242099	La Clinica		N		 
+242100	Willamette Dental	5417725174	N		 
+242101	David Alex	5417798923	N	Regence Blue Cross	 
+242102	Ledesma	5415356239	N		 
+242103	Southern Oregon Dental	5419739204	N		 
+242104	Willamette Dental		N		 
+242108	Dr. Roa	5415123900	N		 
+242109	Dr. Dennehy		N		 
+242113	Southern Oregon Dental/Schultz	5418260599	N		 
+242117	Ralph Miller	5417738216	N		 
+242118	Frimkess	5417733327	N		 
+242200	Larson Creek Dental		N		 
+242201	Steven Frimkess	5417733327	N		 
+242202	Affordable Dental	5418580740	N		 
+242204	Frimkess		N		 
+242206	Mitchell	5417733959	N		 
+242212	Central Point Family Dentistry		N	Providence Preferred	 
+242211	Willamette Dental		N		 
+242213	Dr. Michael Boldt	5417722756	N		 
+242242	Dr. Ralph Miller	5417738216	N		 
+242243	Dr. Ralph Miller	5417738216	N		 
+242262	Greg Miller	5417733422	N		 
+242265	Luke Murphy		N		 
+242268	Dr. Bryan	5417793994	N	OHP	 
+242274	Affordable Dental	5418580740	N		 
+242275	Ortiz - Grinz 4 Kids	5417732625	N		 
+221040	Luke Murphy		N	BCBS	 
+242276	Luke Murphy		N		 
+242277	So OR Dental		N		 
+242278	Southern Oregon Dental	5418260599	N		 
+242279	Frimkiss	5417733327	N		 
+242281	Hal Borg,DDS		N		 
+242283	Alex		N		 
+242284	Dr. Bryan	5417793993	N		 
+242286	Goode Family Dental	5418300043	N	Aetna	 
+242331	Mitchell	5417733959	N	cigna healthcare - CIGNA HEALTH	 
+242332	Siskiyou Dental	5412825523	N		 
+242347	Dr. Alex	5417798923	N		 
+242350	Dr. anne Dennehy	5412456648	N		 
+242359	Dr. Charles	5417343430	N		 
+242360			N	bc/bs - BC/BS	 
+242415	Steven Frimkess	5417733327	N		 
+242427	Anne Dennehy	5412456648	N		 
+242430	Dr. Kip Hampton	5412825523	N		 
+256327	Karl Sheneck	5417794344	N		 
+256547	Dr. Dennehey	5412456648	N		 
+223712			N	Pacific Source	 
+223770			N	BC/BS	 
+223775			N	Harrison Trust	 
+223839	Dr. Frimkess	5417733327		Asante Health Future	 
+222576				OMAP DL00877C - DL00877C (07-08	 
+223722				Pacific Source	 
+220563			N	ohp - OHP	 
+223726			N	Providence Preferred	 
+221336	Preventive Dental		N	Cigna & OHP - 541741562	 
+224057				EBMS  0000957 - 957	 
+221368			N	OHP	 
+221373			N	OHP	 
+223780			N	Aetna - AETNA	 
+221887			N	Aetna	 
+222065				Champ VA - CONFIRMED	 
+222068	Shady Cove Dentistry	5418782115		Assurant Health - CONFIRMED	 
+242532	John Price		N		 
+242567	John Price, DMD	5417734073	N		 
+242651	Affordable Dental		N		 
+242793	Modern Dental	5417766996	N	OHP - YES	 
+240285			N	joint labor 131580389 - JOINT LABOR	 
+221273			N	OHP - YA600L8N	 
+223732	Willamette	8004607644	N	OHP - CONFIRMED	 
+221017	Dr. Frimkess	5417733327	N		 
+221462	Eric Rolem	5417733756		Health Future	 
+222860	Lake Murphy			Group G5000925 - ID200017163	 
+222594				OHP - GH300N20 - GH300N20	 
+222703				BCBS 600199211(07-08) - 600199211(07-08	 
+223741			N	Health Net	 
+222707				Cigna	 
+222709				BC YVP921201467 (06-07) - YVP921201467 (0	 
+221381				OHP	 
+222136				Aetna - CONFIRMED	 
+222139	Allen	5417798694		Healthcare - CONFIRMED	 
+223795	Dr. Frimkess		N	BC/BS	 
+223645				OHP - CONFIRMED	 
+220478	Jenkins	5417794344	N	A.T. PWA 541172747 - CONFIRMED	 
+223658				OHP	 
+221746	Tyerman	5416642210	Y	OEA Choice - CONFIRMED	 
+221796			N	OHP	 
+223797				OHP	 
+221839	Dr. Catt	5417728846	Y	Blue Cross/Blue Shield - UCR308A56194	 
+220331				OHP	 
+222789				YEP7740030YA - BCBS (08-09)	 
+222144				Blue Cross 165039M003 - 165039M003	 
+231897			N	bluecross/blueshield - BC/BS	 
+242888	Murphy	5418782115	N		 
+242906	Luke Murphy	5418782115	N		 
+242950	Dr. Miller	5417738216	N		 
+222046	Kip Hampton	5412825523		 - CARE OREGON/OHP	 
+222605	Dr. J Layer	5417340970		UNITED Hlth CARE 923401026 (08-09) - UNITED HEALTH	 
+220418	Dr Steven Frimkess		N	 - CONFIRMED	 
+220507			N	Blue Cross / Blue Shield	 
+222610				BCBS FWY848924154 (08-09) - HEALTH INS	 
+222806				ODS Networks #G85562696 - G85562696	 
+223802	Dr. Yueng - Dr. Sheffler	5418580740		OHP	 
+222811				BC BS - REGENCE	 
+221049			N	OHP - YES	 
+222538				Cigna #UO5243862-03 (07-08) - UO5243862-03 (0	 
+223682			N	BC/BS - BCBS	 
+220513	Advantage Dental	8884680022	N	OHP - YES	 
+223687			N	OHP - CONFIRMED	 
+224030				myers/stevens - SCHOOL 2010-11	 
+223690			N	OHP	 
+221353	Grins for Kids	5417732625	N		 
+223746				BC/BS	 
+224073				OHP	 
+221050	Calie Roa	5416181300	N	OHP - YES	 
+221420			N	OHP	 
+221422				OHP	 
+223637				Pacific Source	 
+222050				Providence Health Plan - PROVIDENCE	 
+222556				OEA	 
+220994			N	Mid Rogue - YES	 
+222641				Regence 541768597 (07-08) - 541768597 (07-0	 
+246497	Clinica de Valle	5415356239	N		 
+246498	Clinica del Valle		N		 
+255957	Clinica de Valle Dental	5415356239	N		 
+243744	Dr. Bruce Mitchell		N	 - GLOBAL	 
+251774	Dr Pastacio	5417720102	N		 
+251773	Dr Pastacio		N		 
+252317	none given		N		 
+246642			N	OHP - OHP	 
+252343	Nicole Youngers	5417725174	N		 
+252339	Dr. Gregory Pearson	5417733422	N	Blue Cross/Blue Shield	 
+252341	Advantage Dental Clinics		N		 
+252353	Dennehy	5412456648	N		 
+227228	Dr. Frimkis		N		 
+249156	Hal Borg	5417733422	N		 
+249161	Dr. Pamela Ortiz	5417732625	N		 
+249185	Steven Frimkess	5417733327	N		 
+249186	Dr. King		N		 
+249189	John C Price		N		 
+249200	La Clinica	5415356239	N		 
+249202	Smile Keepers		N		 
+251332	RVMC Dental Clinic		N		 
+250949	Smile Keepers	5417720102	N		 
+238102	Affordable Dental		N	 - OHP	 
+256836	Advantage Dental	8884680022	N		 
+243259			N	Myer & Toohey 2-25-2013 - SCHOOL INS	 
+245022			N	Care Oregon	 
+221933			Y	OHP	 
+250019	Dr. Frimkiss	5417733327	N		 
+250253	Wayne Hopper	5415823767	N		 
+257955	Ann Deneny		N		 
+257957	Ann Denehy		N		 
+257958	Advantage Dental	5417725174	N		 
+256922	Dr. Ortiz	5417732625	N		 
+258053	Dr Goode	5418300043	N		 
+258070	Primkess	5417732237	N		 
+258080	Matt Bahen	5418953000	N		 
+258090	Bowlin	5416641525	N		 
+244973	Affordable Dental		N		 
+250891	Aspen Dental	5417723411	N		 
+250898	Michael Goode	5418300043	N		 
+237134			Y	OHP - OHP	 
+246230	Affordable Dental		N		 
+245169	Aspen Dental	5417343411	N		 
+245131	Aspen Dental	5417343411	N		 
+236664	Ralph Miller no# given		N	Providence Health 1006964909	 
+243793	Southern OR Dental	5419552993	N		 
+252951			N	Care OR- Mid Rogue	 
+255967	Grins 4 Kids	5417732625	N		 
+256009	Grinz 4 Kids	5417732625	N		 
+256019	Kip Hansen	5412825523	N		 
+257540	Advantage Dental	5417725147	N		 
+255972	Smile Keepers	5417720102	N		 
+256076	David Allen	5417798694	N		 
+244971	Willamate		N		 
+249595	Dr. Wooten	5417733422	N		 
+249597	Dr. Wooten	5417733422	N		 
+249609	Advantage Dental	8884680022	N		 
+249613	Advantage Dental	8884680022	N		 
+249918	Dr. Ortiz	5417732625	N		 
+256428	John Houghton	5417795111	N		 
+256430	Dr. Goode	5418300043	N		 
+256433	Dr. Ortiz	5417732625	N		 
+256437	Dr. Ortiz	5417732625	N		 
+234996	Bruce Mitchell		N		 
+235299	Dr. miller	5417733422	N	 - ODS	 
+237546	Sheffler	5418580740	N		 
+247377	La Clinica	5416181300	N		 
+243773	Pamela Ortiz	5417732625	N		 
+251763	La Clinica (no phone)		N		 
+250934	Willamet Dental (no phone)		N		 
+250360	none given		N		 
+250766	Pamela Ortiz	5417732625	N		 
+256816	Barry	5417792634	N		 
+256839			N	purchased 08/24/12 - SCHOOL INS	 
+256854	Luke Murphy	5418782119	N	OEBB - OEBB	 
+256865	Willamette Dental		N		 
+256869	Madrid/SO Dental	5418260599	N	Local 290 - PLUMBERS	 
+220652	Luke Murphy		N		 
+243770	none given		N		 
+236110	none given		N		 
+237548	none given		N		 
+231345	none given		N		 
+256443	Dr. Wooten	5417733422	N	ODS	 
+256444	Dr. Pamela Ortiz	5417732625	N		 
+256452	Rothfus Family Dental	5418587994	N		 
+256456	Dr. David Alex	5417798923	N		 
+256702	Dr. Ortiz	5418587994	N		 
+245183	Kip Hampton		N		 
+221714			Y	OHP	 
+245627	Jung	5418580740	N		 
+245634			Y	OHP	 
+246178	Pamela Ortiz	5417732625	N		 
+250551			N	ohp - OHP	 
+222111	Willamette Dental	8004618994		 - CONFIRMED	 
+245286	Hayden    no number given		N		 
+245325	Grins For Kids	5417732625	N	 - OHP	 
+247017			N	OHP - YES	 
+258078	Smile Keepers		N		 
+257383	David Alex	5417798923	N		 
+257148	Advantage Dental	5417725174	N		 
+257149	Advantage Dental	8884680022	N		 
+256786	Klamath Open Door	5418518110	N		 
+256783	Stephen Oldroyed		N		 
+256785	Smile Keepers	5417720102	N		 
+256790	Ronald Zirkle	5417720102	N		 
+256799	Willaette Dental	8554336825	N		 
+256800	Smile Keepers	5417720102	N		 
+256801	Dr. Davis	5417732332	N		 
+256802	Dr. Pearson	5417733422	N		 
+239181	Advantage Dental		N		 
+256704	Dr. Ortiz	5418587994	N		 
+249096	Advantage Dental	5417725174	N		 
+256776			Y	Emergency insurance only	 
+256811			Y	Emergency Insurance only	 
+256879			Y	OHP	 
+246671	Dr. Ortiz	5417732025	N		 
+246672	Dr. Ortiz	5417732625	N		 
+246858	David Alex	5417799740	N	Regence Blue Shield - YES	 
+258246	Robert Stebbins		N		 
+245571	Advantage Dental	5417725174	N		 
+246217	LaClinica		N		 
+255970	Dr. Pamela Ortiz	5417732685	N		 
+245263	James Darby		N		 
+245249	Dr Alex		N		 
+226872	Dr. Murphy	5418782115	N		 
+229644			Y	OHP	 
+246968	Dr. Alex	5417799740	N		 
+253123	Hayden Family Dental	5417725774	N		 
+248099	Todd Holton	5417734435	N		 
+245517	Willamette Dental		N		 
+221154	Advantage			Champva - YES	 
+256678	Southern Oregon Dental	5418260566	N		 
+256681	Willamette Dental	5417725174	N		 
+256684	Dr. Matt Starley		N		 
+256384			N	OHP - OHP	 
+253847			N	united health care - UNITED HEALTH	 
+258362	Dr. Frimkiss	5417733327	N		 
+258402	Meyerding	5417795654	N		 
+258411	Davis Dental	5417732163	N	 - ALL CARE- OHP	 
+244163	Dr. Ball	2099571244	N		 
+247121	Pamela Ortiz	5417732625	N		 
+235124	Dr.Frimkis		N	 - OHP	 
+255386	Affordable Dental	5418580740	N		 
+255980	Smile Keepers	5417720102	N		 
+256388	Affordable	5418580740	N		 
+256392	DDS Bigelow	5414794677	N		 
+256397	Dr. Dennehy	5412456648	N		 
+256414	Affordable Dental	5418580740	N	Care Oregon	 
+256843	LaClinica	5415123900	N		 
+256841	Willamette Dental	5414336825	N		 
+256806	Dennehy	5412456648	N		 
+256818	Willamette Dental		N		 
+256838	Anne Dennehy	5412456648	N		 
+256847	Clinica del Valle		N		 
+258095	Dr. Frimkess	5417733327	N		 
+258639	Frimkiss	5417733327	N		 
+258641	Joe Cochran	5414829442	N		 
+256726	Pamala Ortiz		N		 
+245543	Smile Keepers		N	OHP	 
+246746	Medical Clinic		N	 - BCBS	 
+250927	In transition		N	BlueCross SDX803340ZZZ - BC/BS	 
+256021	Dr. Pamela Cortez	5417732625	N		 
+256026	Smile Keepers	5417720102	N		 
+256031	Dr. Capner		N		 
+256032	Steven Frimkess	5417733727	N		 
+256034	Dr. Frimkess	5417733327	N		 
+256039	Dr. Hal Bieg		N		 
+256040	Dr. Zirkle	5417720102	N		 
+245888	Affordable Dental	5418580740	N		 
+231344			N	Providence Preferred - PROVIDENCE	 
+222021	La Clinica		N	OHP - CARE OREGON	 
+250430	in transition		N	ods - ODS	 
+232182	none given		N		 
+237494	Dr Oldroyd	5417766960	N		 
+255428	So Ore Dentistry		N		 
+256794	Advantage Dental		N		 
+256797	Advantage Dental		N		 
+256881	Denahy	5412456648	N		 
+256885	Dr. Rollin		N		 
+256889	East Main Dental	5417733422	N		 
+253125			N	OHP - OHP	 
+220464	Alex		N	Lifewise  543139343 - 543139343	 
+255963	Clinica DeValle Dental		N		 
+246358			N	OHP - YES	 
+256905	Frimkess	5417733327	N		 
+256851	Smile Keepers	5417720102	N		 
+256856	Dr. Catt		N		 
+256904	Dr. Frimkess	5417733327	N		 
+256906	Peter Ollman	5417720102	N		 
+256909	La Clinica Dental	5416181335	N		 
+257961	Dr. Sanford	5416648300	N		 
+258886	Alex		N		 
+245581	Dr. Abbit		N		 
+243753	Dr. B Mitchell	5417733959	N	IMG 1EGE000174145 - IMG	 
+258636	Dr Spencer	5417766996	N		 
+258637	Advantage Dental	8884680022	N		 
+253711	Lake Murphy	5418782115	N		 
+257061	SO Dental	5418260599	N		 
+243760	Steven Frimkess	5417733327	N		 
+257936	Brads Barlow	2087779331	N		 
+258034	Pam Ortiz	5417732625	N	Providence	 
+245435	Boldt	5417722756	N		 
+245424	Dr. Alex		N		 
+245433	Frimkess		N		 
+245423	Junnery		N		 
+230403	Ralph Miller no phone given		N	Providence Health 10069694907	 
+248894	Advantage Dental	5417725174	N		 
+248914	Dr. Borg	5417733422	N		 
+248916	Dr. Steven Frimkess	5417733327	N		 
+251382	Affordable Dental	5414744360	N	OHP - YES	 
+256463	Tamara Abbett	5417799059	N		 
+256469	Affordable Dental	5417765259	N		 
+257108	James Catt	5417728846	N		 
+257115	Dr. Cochran	5414829442	N		 
+257141	Grins For Kids		N		 
+257147	Dr. Simms	8884680022	N		 
+251970			N	OEBB - OEBB	 
+256499	Advantage Dental		N		 
+221379	Clinica Del Valle	5415356239	N		 
+237599	Goode	5418300043	N		 
+221371	Stephen A. Frimkess	5417733327	Y	OHP - CARE OREGON	 
+258472	Luke Murphy	5418782115	N		 
+246361			N	OHP - OHP	 
+256724	Willamette Dental	5418572790	N		 
+259049	Smile Keepers	5417720102	N		 
+251566	Advantage Dental	5417725174	N		 
+251572	Advantage Dental	5417725474	N		 
+251582	Hampton	5412825523	N		 
+251592	Hampton	5412825523	N		 
+251293			N	OHP - OHP	 
+247450			N	blue cross blue shield - BC/BS	 
+255903	David Alex	5417798923	N		 
+255904	Dr Ortiz	5417732625	N		 
+255912	David M. Alex	5417798923	N		 
+255914	Gregory Miller	5417733422	N		 
+250496			N	United Health Care - UNITED HEALTH	 
+250502	Dr Frimkiss	5417733327	N	aetna health fund - AETNA	 
+224151				Cigna - CONFIRMED	 
+256592	MD Rogue		N		 
+259020	Advantage Dental	8884680022	N		 
+243769	Hal Borg	5417733422	N		 
+227703	Grinz 4 kids		N		 
+220839	La Clinica				 
+251290	Dr. Murphy		N		 
+251297	Dr. Catt		N		 
+251407	Dr. Calt		N		 
+252712	Dr. Luke Murphy - Shady Cove		N		 
+228753			N	United Health - UNITED HEALTH	 
+229428	Advantage Dental		N	 - OHP	 
+241919	Dr. Cochran	5414829442	N		 
+256708			N	OHP - OHP	 
+258479	Jesse Gallagher	5417738216	N		 
+258481	Luke Barsalou	5416641827	N		 
+247018			N	OHP - YES	 
+249623	La Clinica		N		 
+245449	Ortiz	5417732625	N		 
+229236			N	Aetna - AETNA	 
+247119	TBD		N		 
+247129	LaClinica		N		 
+207572	none given		N	ohp - OHP	 
+249694	Dr. Abbett	5417799059	N		 
+250352	Pamela Ortiz	5417732625	N		 
+251168	Frimkess	5417733327	N		 
+251151	none given		N		 
+251152	none given		N		 
+251157	Stephen Gillespie	5417766996	N		 
+227854	Joseph Cochran (no phone)		N		 
+251636	Stephen Oldroyd	5417766960	N		 
+221505	Dr King  (no phone)				 
+245368	Bamford	5417733959	N		 
+244268	Hyden detist group		N		 
+223922	Willamette		N		 
+257328	None yet		N		 
+256580	ODs OHP		N		 
+245987	Affordable Dental	5418580740	N		 
+258264			Y	OHP	 
+258628	La Clinica		N		 
+257343	Advantage Dental	8884680022	N		 
+256732	La Clinica		N		 
+258829	LaClinica	5415356239	N		 
+245513	Dr. Barry	5417792634	N		 
+245515			N	Pacific Corp	 
+221914			Y	OHP	 
+252866			N	ohp - OHP	 
+245123	Willamette Dental		N	ODS - ODS	 
+257998	Brad Barlow	2087779331	N		 
+257993	Willamette Dental	8554336825	N		 
+257934	Smile Keepers	5417720102	N		 
+258018	La Clinica Dental Clinic		N		 
+258050	Advantage Dental	8884680022	N		 
+258124	Dr Ortiz	5417732625	N		 
+245293	Dr. Alex	5417798923	N		 
+245347	Barsalou, LaClinica		N		 
+246437	none listed		N		 
+246459	none given		N		 
+252322	Affordable Dental		N		 
+252325	La Clincia C.P.		N		 
+252294	Advantage Dental		N		 
+252326	Pamela Ortiz	5417732625	N	 - OHP	 
+249453	Medford Dental	5417793994	N	OHP	 
+249458	John Washak	5414768383	N	Blue Cross	 
+249460	Dr. Brian Prins DMD	5412104909	N	ODS	 
+249461	Andrew Oas	5417733422	N		 
+249462	Dr. Rothfus	5418587994	N		 
+249465	Dr. Sheffler	5418580740	N		 
+249466	Dr. Keck	5417792634	N		 
+249467	Dr. Karl schneck	5417794344	N		 
+249469	Dr. Eugene Bowlin	5416641525	N	Pacific Source	 
+249474	Dr. Wooten		N		 
+249477	Dr. Wooten		N		 
+249478	Dr. Goode		N		 
+249677	Dr. Frimkess	5417733327	N		 
+249678	Advantage Dental	5417725174	N		 
+223743	Bruce Mitchell		N	Regence BC/BS	 
+252638	David Alex		N		 
+243131			Y	Care Oregon	 
+235040			N	Timber Prod- PROV Prefered	 
+253967	Dr Richard Miller (ADC Dental)	5417728280	N		 
+257175	Smile Keepers	5417720102	N		 
+246284	Dr. Frimkess	5417733327	N		 
+221288	Gentle Dental			 - OHP	 
+247624			N	OHP - OHP	 
+244432	Southern Oregon Dental	5418260599	N		 
+247731	Smile Keepers		N		 
+255974	Dr.David Alex	5417798923	N		 
+237531	Madeid USO	5418260599	N	 - MID ROGUE	 
+250215	Kip Hampton	5412825523	N		 
+256055	Dr. Zirkle	5417720102	N		 
+256052	Dr, Zirkle	5417720102	N		 
+256041	Dr. Zirkle	5417720102	N		 
+256587	Corbridge	2082651705	N		 
+256593	Frimkess	5417733327	N		 
+111899	Advantage Dental		N		 
+258104			N	Myers & Toohey - SCHOOL INS	 
+221192			N	Blue Cross	 
+246793	Advantage Dental		N		 
+240308			Y	Emerjencias sola mente	 
+224826		5412827653	N	OHP	 
+246537	Advantage Dental		N		 
+231533			N	Pacific Source	 
+246567	Hayden Dental	5417725174	N		 
+221817	Dr. Leong	5417733703	Y	OHP	 
+253643	LaClinica Dental		N		 
+253631	Southern OR Dental		N		 
+246652	Dr. Stark	5308423900	N		 
+247383	Willamette		N		 
+247384	Willamette		N		 
+247387	Willamette		N		 
+247736	Advantage Dental	5417725174	N		 
+220820	Das	5417733422		Blue Cross BlueShield - BLUECROSS	 
+251162	Smile Keepers	5417720092	N		 
+250336	Randy Wooten		N		 
+251131	Dr. Spencer		N		 
+251149	Dr. Spencer		N		 
+251156	Dr. Spencer		N		 
+251228	Anne Dennehy	5412456648	N		 
+227308	Dr. Costa		N	OHP - OHP	 
+224980	Pamela Ortiz	5417732625	N		 
+246826	Dr. Stebbins		N		 
+250158	Anne Dennehy	5412456648	N		 
+250201	Dennehy	5412456648	N		 
+254685	Curtis Tyerman	5416642210	N		 
+252874	Willamiat Dental	8004618994	N		 
+243892	Richard Leong	5417733703	N		 
+245682			N	Care Oregon - YES	 
+246916	Joe Cochran	5414829442	N		 
+247794	none given		N		 
+247797	none given		N		 
+247808	no local		N		 
+251630	Lindstrom		Y	OHP - OHP	 
+252488	Pamela Ortiz		N		 
+250202	Frimkiss	5417733327	N		 
+250900	Smile Keepers		N		 
+245559	not given		N		 
+244879	Advantage Dental		Y	Care OR	 
+221794			Y	OHP	 
+247407	Willamette Dental		N		 
+247408	Willamette Dental		N		 
+254831	Modedrn Dental	5417766996	N		 
+223859	Oas - East Main Dental	5417733422	N	Asante	 
+250663	Smile Keepers		N		 
+252227	Tribal Dental Clinic	5417794344	N		 
+252250	Grins 4 Kids		N	OHP	 
+251363	Modern Dental	5417766996	N		 
+251417	Frimkiss	5417733327	N		 
+251454	Stephen Gilespie	5417766996	N		 
+243832			Y	OHP	 
+243375	Dr. Egidy	5417793993	N	United Health Care - UNITED HEALTH	 
+243376	Dr. Hall Borg	5417733422	N		 
+243596	UIHS	7074879280	N	OHP - OHP	 
+254360	Joseph Cochran	5414829442	N		 
+254362	Smile Keepers	5417720102	N		 
+254564	Smile Keepers	5417720102	N		 
+246100	Ralph Miller		N		 
+238879	Dr. Randy SO Dental		N		 
+239243			N	OHP - YES	 
+243268	Siskiyou Dental	5412825523	N		 
+243263	Klamath Open Door	5418802090	N		 
+243305			N	OHP - OHP	 
+252586	Willamette Dental	8004618994	N		 
+245322			N	OHP - OHP	 
+249841	Anne Dennehey		N		 
+250055	Affordable Dental		N		 
+250064	Goode	5418300043	N		 
+250067	Denehy		N		 
+238752	Affordable Dental		N		 
+250087	Anne Dennehy		N		 
+235761			N	OHP - OHP	 
+253605	none given		N		 
+253602	none given		N		 
+243471	dr. gallen	5417343430	N		 
+245150			N	ohp - OHP	 
+244931	Advantage		N		 
+245244	affordable dental care	5418580740	N		 
+245767	Dr Pierson (Medford)		N		 
+253193			Y	OHP	 
+226869			N	OHP - OHP	 
+242290	Dr.Wu	5417765271	N		 
+251374	Advantage Dental		N		 
+253350	none given		N		 
+220338	Dr. Luke Murphy	5418782115	N		 
+246322	Steven Frimkess	5417733327	N		 
+246327	Childreth		N	ohp - OHP	 
+222431				BC/BS - CONFIRMED	 
+252126	none		N	Providence Health - PROVIDENCE HLTH	 
+251605	Dr Oas	5417733422	N		 
+243776	Advantage Dental	5417725174	N		 
+254144	none given		N		 
+221978			Y	OHP	 
+229302	Zorkle-Smile Keepers		N		 
+253136	Dr. Fremkiss		N		 
+253172	none given		N		 
+244363	dr. frimkess	5417733327	N		 
+244415	thomas capsi	5417735441	N	id# 900006255-03 - HEALTH FUTURE	 
+238539	Steven Frimkess	5417733327	N		 
+247208			Y	All Care #AJ400P8A	 
+220668	Frimkess	5417733327	Y	OHP	 
+254699			N	OEBB - OEBB	 
+237673	Dr. Dennehy	5412456648	N	 - MID ROGUE IPA	 
+241291	Central Point Health	5415356239	N	 - OHP	 
+253217	Access Dental Office	8668156966	N		 
+221718			N	Myers, Stevens and Toohey & Co. - SDA N00719754	 
+220999	Dr. Alex	5417798923	N	Blue Cross Blue Shield - YES	 
+251772	LaClinica	5416641827	N		 
+253219	not given		N	Cigna 800-244-6224	 
+253931	Dr Capsey		N		 
+229252	Dr. Rothfus	5418260599	N		 
+234835	Afforable Dental	5418580740	N		 
+239859	Willamette Dental		N	OHP	 
+221599	Oas	5417733422		Blue Cross	 
+246890	Dr. Denehey	5412456648	N	OHP - YES	 
+246895			N	OHP - YES	 
+253109	David Alex	5417798923	N		 
+234812	So. Or Dental	5418260599	N		 
+254446	Kip Hampton	5412825523	N		 
+245746	Dr. Wooten		N		 
+243584			N	Myers, Stevens & Toohey - YES	 
+252210	La Clinica	5416181300	N		 
+235031			N	Providence - BCBS	 
+250176	Pamela Ortiz	5417732625	N		 
+250185	LaClinica		N		 
+250186	Advantage Dental		N		 
+250192	Smile Keepers		N		 
+250195	unk		N		 
+222183				care oregon - CARE OREGON	 
+254855	Dr Ortiz	5417732625	N		 
+252585			Y	Regence	 
+248670	Willamete Dent. no phone		N		 
+248680	Dr Hampton	5412825523	N		 
+251594	Dr. Undstrou		N	cigna	 
+245524			N	Myers, Steven & Toohey	 
+221777	Dr. Frimkess	5417733327	N	Health Net	 
+245289			N	Care Oregon	 
+251449	Dr Kapp	5417743928	N	Providence Tricare - PROVIDENCE	 
+223661	Dr. Berg	5417794517	N	BC/BS	 
+223751			N	Cigna	 
+221345			Y	OHP	 
+221414			Y	OHP	 
+221841			Y	Select Benefits	 
+221865			N	BCBS	 
+221394			Y	Aetna	 
+221052			N	Mid Rogue - OHP - YES	 
+249700			N	Cigna - CIGNA	 
+249701	Davis-Davis Dental		N		 
+252882	Willamette Dental	8004618994	N	OHP	 
+238353	Dr. Alex	5417798923	N	 - PACIFIC SOURCE	 
+245408	Roberts Stebbins	5417345225	N		 
+252267	Dr. Oldroyd	5417766960	N		 
+251525	ADC Dental		N		 
+251287	Willamette Dentistry	8004618994	N		 
+235784	NA		N		 
+251408	affordable Dental	5418580740	N		 
+252547	Dr Frimkess	5417733327	N		 
+245438	Dr. Scheffler	5418581779	N		 
+245453	Robert Stebbins	5417345225	N		 
+245457	La Clinica	5416181030	N		 
+245458	Willamette Dental	8004618994	N		 
+252545	Pearson		N		 
+252549	Smile Keepers		N		 
+252551	Affordable Dental Care	5418580740	N		 
+249191	Pamela Ortiz	5417732625	N		 
+252556	Ortiz		N		 
+244557			N	tricare - TRICARE	 
+221397	Advantage Dental	5417725174	Y	OHP	 
+250485	Kip Hampton	5412825523	N		 
+250499	Siskiyou Dental/Kid Hampton		N		 
+250556	Siskiyou Dental Ass.	5412825523	N		 
+250573	Anne Dehenney		N		 
+237499	Pamela Ortiz		N	 - OHP	 
+245537	La Clinica		N		 
+245538	Aff Dental		N		 
+252583	Dr King		N		 
+235820			N	Cigna - 601589125-01	 
+253548	Dawn	5418849339	N		 
+253551	Dawn	5418849339	N		 
+254098	Advantage Dental	8662689631	N		 
+254099	none given		N		 
+250222	Dr Jung	5418580740	N		 
+250214	Dr Jung	5418580740	N		 
+250218	Dr Jung	5418580740	N		 
+250514	none given		N		 
+252769			Y	OMAP	 
+250933	Dennehey	5412456648	N		 
+252333	none given		N		 
+251251	Affordable Dental no phone		N		 
+250750	Frimkiss	5417733327	N		 
+245544	Anne Barry	5417792634	N		 
+246265			N	ohp - OHP	 
+220679			N	OHP - OHP	 
+254541	Dr Stuan		N		 
+220648	Affordable Dental			OHP Plus	 
+245384	Advantage Dental		N		 
+245385	Advantage Dental		N	 - OHP	 
+245386			N	OHP	 
+245387	Dr. Sheffler	5418581779	N		 
+245388	La Clinica	5416181300	N		 
+245389	Willamette Dental		N		 
+245337			N	Providence Health Care - PROVIDENCE	 
+245111			N	Regence BC/BS - REGENCE	 
+224166			N	Oregon Migrant Services - AMERICAN INS	 
+243525			N	International Care Med    FE student - ITI CARE MED	 
+235304	Frimkess		N	BC/BS	 
+221836	Willamette Dental	5039522100	N	OHP	 
+221708	Frimkiss		Y	Providence Preferred, United Hlth Care - 250101623	 
+254481	Siskiyou Dental	5414796393	N		 
+246748	Dr. Avass		N		 
+246855	Dr. Gelespie		N		 
+222780	Tamara Abbatt  no phone #			#w028390954 - AETNA	 
+243401			N	National Health Ins Co - NATIONAL HEALTH	 
+249552	Willamette Dental		N		 
+242506	Capital Dental		N		 
+244631	Advantage dental	5415043901	N		 
+252372	Anne Deneheey		N		 
+252367	Steven Frimkess	5417733327	N		 
+250777	Pamela Ortiz	5417732625	N		 
+259014	Willamette		N		 
+259025	Dr. Stebbins	5417345225	N		 
+259609			N	OHP - OHP	 
+259037			N	ohp - OHP	 
+229647			N	100003334 - CONFIRMED	 
+261257	Smile Keepers		N		 
+259281	Modern Dental	5417766996	N		 
+220555	Fagundes	5417796401	N	CareFirst Blue Crpss	 
+257455	Anne Dennehy	5412456648	N	Blue Cross - YES	 
+258077	Bruce Mitchell	5417733959	N		 
+259362	Abott	5417790224	N		 
+259651	Willamette Dental		N		 
+221878			Y	Health Net R02776711 - R02776711	 
+221621			Y	BlueCross group#10033694	 
+261449	Roah - LaClinica	5416181300	N		 
+257400	Willamette Dental	8004618994	N		 
+257435	Pearson		N		 
+261119	Daniel Jackson	5414821744	N		 
+261120	Daniel Jackson	5414821744	N		 
+245259	Dr. Alex		N		 
+261539	Advantage Dental		N		 
+251173			Y	OHP	 
+258870			Y	OHP	 
+221424			Y	OHP	 
+261490	Modern Dental	5417766996	N		 
+259458	Frimkes	5417733327	N		 
+258286	Steven Frimkiess	5417733327	N		 
+258293	Steven Frimkiss	5417733327	N		 
+259286	Advantage Dental	8884680022	N		 
+259352	Affordable Dental		N		 
+259359	Affordable Dental	5418580740	N		 
+257662	Frimkess	5417733327	N		 
+252020			N	Providence Health - PROVIDENCE HLTH	 
+257583	Goode	5418300043	N		 
+259097	La Clinica	5415356239	N		 
+259156	Advantage Dental		N		 
+223683			N	Pacific Source - PACIFICSOURCE	 
+259467	Willamette		N		 
+259182			N	OHP - OHP	 
+261106	Advantage Dental		N		 
+221447			N	Providence Preferred	 
+221489			Y	OHP	 
+258404	Advantage Dental		Y	OHP V1000K2M	 
+223865				Harrison Trust	 
+256727	Corbridge	2082631750	N		 
+256734	Corbridge	2082631750	N		 
+219942			N	OHP - YES	 
+261003	Smile Keepers		N		 
+261004	Smile Keepers		N		 
+221343	Affordable Dental	5418580740	Y	OHP	 
+259657			N	purchased 2-26-13 - SCHOOL INS	 
+236872			Y	OHp	 
+253977			Y	OHP	 
+220786			Y	Blue Cross	 
+257527	Frimkess	5417733327	N		 
+258513	Luke Barsalou	5416641827	N		 
+228417	Pamela Ortiz	5417732625	N		 
+260632	LaClinica		N		 
+253312	Smile Keepers		N		 
+258823	Callans	8004618994	N		 
+245348			N	OHP	 
+242285	Layer	5417340970	N		 
+257314			N	AVI International FE student - AYUSA	 
+224351	Willamette	8554336825	N	OHP	 
+259456	Affordable	5418580740	N		 
+260626	Siskiyou Dental		N		 
+259728	Willamette Dental	8554336825	N		 
+260479	Dr Ortiz	5417732625	N		 
+259965			Y	OHP	 
+258985			Y	OHP	 
+260482	Dr Ortiz	5417732625	N		 
+259826			N	Medi-Cal	 
+260169			Y	Jackson Care Connect FA800X90	 
+236144			Y	OHP	 
+254730			N	OHP - OHP	 
+247579	Smile Keeper		N		 
+246907	Smile Keeper		N		 
+260391	Dr Mayer	9182566441	N		 
+259997	Goode Family Dental	5418300043	N		 
+259742	Not listed		Y	Not listed - YES	 
+259243	Smile Keepers	5417720102	N		 
+257402			N	BCBS - YES	 
+251598	Dr. Goode		Y	Cigna	 
+221928			Y	Myers Toohey	 
+230555			Y	OHP	 
+221832			Y	OHP	 
+250705			Y	OHP	 
+221822	Dr. Frimkess	5417733327	Y	Care Oregon	 
+258396			Y	OHP	 
+252878			N	OHP - YES	 
+234999			N	Providence Preferred - YES	 
+259280	Ann Denehey	5412456648	N		 
+259512	Schyler		N		 
+259644	Dr OS - E Main St		N		 
+259523			Y	Myers Toohey Stevens	 
+260042	Michael Goode	5418300043	N	BCBS - BCBS	 
+260075	Richard Goode - Wht City		N	BCBS - BCBS	 
+260051	Smile Keepers	5417720102	N		 
+257658	OSE	5418260601	N		 
+257667	Allen		N		 
+258848	LaClinica	5415123900	Y	OHP	 
+252413			N	OHP	 
+252919			N	Care Oregon	 
+207564			N	OHP - OHP	 
+258458	Ann Denehy	5412456648	N		 
+258907	Lynch		N		 
+258910	Advantage Dental		N		 
+258920	Dr. Alex	5417998923	N		 
+258924	Smile Keeper	5417720120	N		 
+258928	LaClinica	5416641827	N		 
+258932	Dr. Renyolds		N		 
+208757	Siskiyou Dental		N	OHP - OHP	 
+257880	Hayden Dental	5417725174	N		 
+256385			N	ODS	 
+256502	Dr. Luke		N		 
+259892	Dr. Denehy		N		 
+260171	Luke Murphy	5418782115	N		 
+260089	Affordable Dental	5418580740	N		 
+257444			N	Jackson Care Connect - YES	 
+251373			N	OHP - YES	 
+221003			N	Myer Stevens & Toohey - YES	 
+259125			N	ohp - OHP	 
+259987	Zirkle	5417720102	N		 
+259028			N	OHP - OHP	 
+259478			N	United health Care - UNITED HC	 
+257552	Dr. Goode	5418300043	N		 
+221443	Steven Frimkiss	5417733327	N	OHP	 
+221848	Affordable Dental		Y	OHP	 
+256278	Smile Keepers/Medford		N		 
+260444	Advantage Dental		N		 
+230579	Dr. Bryan	5417793994	N	OHP	 
+254431	Tricare Prime		N		 
+260289	Affordable Dental		N		 
+258209	Adam Davis	5417732162	N		 
+258210	Dr. Dennehey		N		 
+260369	Advantage Dental		N		 
+257288	Williamette Dental		N		 
+257322	Willamette		N		 
+235903	Dr. Stebbins		Y	Blue Cross	 
+221402			Y	OHP	 
+258461			Y	OHP	 
+221861			Y	ACE American Insurance	 
+226542			Y	OHP	 
+220765	Jenkins		Y	BCBS	 
+244250			Y	BCBS	 
+227780			Y	OHP	 
+221934			Y	OHP	 
+224185				OR Migrant Myers/Toohey - OR MIGRANT	 
+221761			N	OHP - OHP	 
+220600	Affordable		N		 
+221417			N	Care Oregon - CARE OREGON	 
+171371			N	OHP - OHP	 
+245552	Dr. Frimkiss	5417733327	N		 
+236141			Y	Myers Stevens Toohey	 
+259756	Smile Keepers	5417720102	N		 
+221814			Y	Care Oregon CE 28098	 
+259341	Willamette Dental	5418572790	N		 
+259354	Modern Dental	5417766996	N		 
+259815			N	OHP	 
+245908	Dr. Hampton (Siskyou Dental)		N		 
+259232	Dr. Alex		N		 
+259248	Dr. Anne H. Dennehy	5412456648	N		 
+259568	Joe Cochrane		N		 
+222387	Tyerman	5416642210		ODS - ODS	 
+260622	Dennehey	5412456648	N		 
